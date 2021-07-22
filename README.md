@@ -36,6 +36,7 @@ Awesome Hyperbolic Related papers
 - Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion. WebConf 2021
 - Multi-relational Poincaré Graph Embeddings. NIPS 2019
 - HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion. 
+- Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures. ACL2021
 
 ## Hyperbolic + Euclidean + sperical (Mixed Curvature)
 - Semi-Riemannian Graph Convolutional Networks. Arxiv 2021
