@@ -27,9 +27,10 @@ Awesome Hyperbolic Related papers
 - Exploring the Scale-Free Nature of Stock Markets: Hyperbolic Graph Learning for Algorithmic Trading. WebConf 2021
 
 ## Hyperbolic for Recommender System
-- HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems. WSDM 2020
 - HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering. WebConf 2021
+- HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems. WSDM 2020
 - Scalable Hyperbolic Recommender Systems. WSDM 2020
+- HCGR: Hyperbolic Contrastive Graph Representation Learning for Session-based Recommendation 2021 arxiv
 
 ## Hyperbolic for Knowledge Graph
 - Low-Dimensional Hyperbolic Knowledge Graph Embeddings
