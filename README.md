@@ -82,4 +82,5 @@ Awesome Hyperbolic Related papers
 ## Hyperbolic Basic Operation
 - Differentiating through the Fr´echet Mean.ICML2020
 
-
+## TBA
+- Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network. SIGIR short paper 2021
