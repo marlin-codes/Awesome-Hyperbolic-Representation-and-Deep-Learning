@@ -1,4 +1,4 @@
-> Update time: July 21, 2021
+> Update time: July 28, 2021
 
 Awesome Hyperbolic Related papers
 
@@ -20,6 +20,7 @@ Awesome Hyperbolic Related papers
 - Lorentzian Graph Convolutional Networks. Webconf2021 
 - A Hyperbolic-to-Hyperbolic Graph Convolutional Network. CVPR 2021
 - Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders. CVPR2021
+- Constant Curvature Graph Convolutional Networks
 
 ## Hyperbolic for Temporal/Dynamic Graph
 - Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space. KDD2021
@@ -28,16 +29,23 @@ Awesome Hyperbolic Related papers
 
 ## Hyperbolic for Recommender System
 - HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering. WebConf 2021
+- Hypersorec: Exploiting hyperbolic user and item representations with multiple aspects for social-aware recommendation. TOIS 2021
+- Knowledge Based Hyperbolic Propagation. SIGIR2021
+- HSR: hyperbolic social recommender. Arxiv 2021
+- HCGR: Hyperbolic Contrastive Graph Representation Learning for Session-based Recommendation 2021 arxiv
 - HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems. WSDM 2020
 - Scalable Hyperbolic Recommender Systems. WSDM 2020
-- HCGR: Hyperbolic Contrastive Graph Representation Learning for Session-based Recommendation 2021 arxiv
+- A hyperbolic metric embedding approach for next-poi recommendation. SIGIR 2020
+
 
 ## Hyperbolic for Knowledge Graph
-- Low-Dimensional Hyperbolic Knowledge Graph Embeddings
+- Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures. ACL2021
 - Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion. WebConf 2021
+- Self-supervised hyperboloid representations from logical queries over knowledge graphs WebConf 2021
+- Low-Dimensional Hyperbolic Knowledge Graph Embeddings ACL 2019
 - Multi-relational Poincaré Graph Embeddings. NIPS 2019
 - HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion. 
-- Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures. ACL2021
+
 
 ## Hyperbolic + Euclidean + sperical (Mixed Curvature)
 - Semi-Riemannian Graph Convolutional Networks. Arxiv 2021
@@ -67,6 +75,9 @@ Awesome Hyperbolic Related papers
 - Multi-relational Poincaré Graph Embeddings. 
 - Low-rank approximations of hyperbolic embeddings.
 - Hyperbolic Multiplex Network Embedding with Maps of Random Walk.
+
+## Hyperbolic for Multi-label classification
+- Hyperbolic interaction model for hierarchical multi-label classification. AAAI 2021
 
 ## Hyperbolic Basic Operation
 - Differentiating through the Fr´echet Mean.ICML2020
