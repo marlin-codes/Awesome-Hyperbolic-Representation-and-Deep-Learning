@@ -22,6 +22,7 @@ Awesome Hyperbolic Related papers
 - Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders. CVPR2021
 - Constant Curvature Graph Convolutional Networks
 - Fully hyperbolic neural networks
+- Unsupervised Hyperbolic Metric Learning
 
 ## Hyperbolic for Temporal/Dynamic Graph
 - Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space. KDD2021
@@ -47,6 +48,7 @@ Awesome Hyperbolic Related papers
 - Low-Dimensional Hyperbolic Knowledge Graph Embeddings ACL 2019
 - Multi-relational Poincaré Graph Embeddings. NIPS 2019
 - HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion. 
+- Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction
 
 
 ## Hyperbolic + Euclidean + sperical (Mixed Curvature)
@@ -57,6 +59,7 @@ Awesome Hyperbolic Related papers
 
 ## Hyperbolic for Heterogeneous Graph
 - Hyperbolic Heterogeneous Information Network Embedding. AAAI 2020
+- Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones
 
 ## Hyperbolic for Directed Graph
 - Hyperbolic Disk Embeddings for Directed Acyclic Graphs. ICML 2019
@@ -86,3 +89,4 @@ Awesome Hyperbolic Related papers
 
 ## TBA
 - Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network. SIGIR short paper 2021
+- HYPMIX: Hyperbolic Interpolative Data Augmentation
