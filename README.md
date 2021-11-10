@@ -1,4 +1,4 @@
-> Update time: July 28, 2021
+> Update time: Nov 10, 2021
 
 Awesome Hyperbolic Related papers
 
@@ -21,6 +21,7 @@ Awesome Hyperbolic Related papers
 - A Hyperbolic-to-Hyperbolic Graph Convolutional Network. CVPR 2021
 - Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders. CVPR2021
 - Constant Curvature Graph Convolutional Networks
+- Fully hyperbolic neural networks
 
 ## Hyperbolic for Temporal/Dynamic Graph
 - Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space. KDD2021
@@ -36,6 +37,7 @@ Awesome Hyperbolic Related papers
 - HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems. WSDM 2020
 - Scalable Hyperbolic Recommender Systems. WSDM 2020
 - A hyperbolic metric embedding approach for next-poi recommendation. SIGIR 2020
+- Hyperbolic Hypergraphs for Sequential Recommendation
 
 
 ## Hyperbolic for Knowledge Graph
