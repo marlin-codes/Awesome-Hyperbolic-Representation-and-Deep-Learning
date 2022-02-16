@@ -10,10 +10,10 @@ Graph neural networks generalize conventional neural networks to graph-structure
 
 ## 1. Survey and Book
 
-#### Hyoperbolic Graph Neural Networks: A Review of Methods and Application, 2022 [GitHub](https://https://github.com/marlin-codes/HGNNs)
+#### Hyoperbolic Graph Neural Networks: A Review of Methods and Application, 2022 [GitHub](https://github.com/marlin-codes/HGNNs)
 Menglin Yang, Min Zhou, Zhihao Li, Jiahong Liu, Lujia Pan, Hui Xiong, Irwin King
 
-#### [Hyperbolic Deep Neural Networks: A Survey](https://https://arxiv.org/abs/2101.04562), TPAMI 2022. [GitHub](https://github.com/xiaoiker/Awesome-Hyperbolic-NeuralNetworks)
+#### [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562), TPAMI 2022. [GitHub](https://github.com/xiaoiker/Awesome-Hyperbolic-NeuralNetworks)
 Wei Peng, Tuomas Varanka, Abdelrahman Mostafa, Henglin Shi, Guoying Zhao
 
 #### [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180), Arxiv 2020. TextBook.
