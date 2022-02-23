@@ -16,7 +16,7 @@ Menglin Yang, Min Zhou, Zhihao Li, Jiahong Liu, Lujia Pan, Hui Xiong, Irwin King
 #### [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562), TPAMI 2022. [GitHub](https://github.com/xiaoiker/Awesome-Hyperbolic-NeuralNetworks)
 Wei Peng, Tuomas Varanka, Abdelrahman Mostafa, Henglin Shi, Guoying Zhao
 
-#### [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180), Arxiv 2020. TextBook.
+#### [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180), Arxiv 2020 TextBook.
 Brice Loustau
 
 ## 2. Non-HGNN Models
@@ -48,7 +48,7 @@ Jiexi Yan, Lei Luo, Cheng Deng, Heng Huang
 ## 3. HGNN
 
 
-#### [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933), NeurIPS. 2019
+#### [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933), NeurIPS 2019
 Ines Chami, Rex Ying, Christopher Ré, Jure Leskovec
 
 #### [Hyperbolic Graph Neural Network](https://arxiv.org/abs/1910.12892), NeurIPS 2019 
@@ -67,7 +67,7 @@ Jindou Dai, Yuwei Wu, Zhi Gao, Yunde Jia
 Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton
 
 
-#### [Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders](https://arxiv.org/abs/2103.16046), CVPR 2021.
+#### [Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders](https://arxiv.org/abs/2103.16046), CVPR 2021
 Jiwoong Park, Junho Cho, Hyung Jin Chang, Jin Young Choi
 
 
@@ -90,6 +90,10 @@ Marc T Law
 #### [Semi-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134), arxiv 2020
 Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab
 
+### 3.1 Scalable HGNNs
+#### [HyLa: Hyperbolic Laplacian Features For Graph Learning](https://arxiv.org/abs/2202.06854), arxiv 2022
+Tao Yu, Christopher De Sa
+
 ## 4. Applications of HGNNs
 
 ### 4.1 HGNN for Recommender System
@@ -97,7 +101,10 @@ Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab
 #### HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization, WWW 2022
 Menglin Yang, Min Zhou, Jiahong Liu, Defu Lian, Irwin King
 
-#### [Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation](https://arxiv.org/abs/2108.06468), WSDM. 2022
+#### [Geometric Inductive Matrix Completion: A Hyperbolic Approach with Unified Message Passing](https://dl.acm.org/doi/abs/10.1145/3488560.3498402), WSDM 2022
+Chengkun Zhang , Hongxu Chen , Sixiao Zhang , Guandong Xu , Junbin Gao
+
+#### [Modeling Scale-free Graphs with Hyperbolic Geometry for Knowledge-aware Recommendation](https://arxiv.org/abs/2108.06468), WSDM 2022
 Yankai Chen, Menglin Yang, Yingxue Zhang, Mengchen Zhao, Ziqiao Meng, Jianye Hao, Irwin King
 
 #### [HGCF: Hyperbolic Graph Convolution Networks for Collaborative Filtering](https://www.cs.toronto.edu/~mvolkovs/www2021_hgcf.pdf), WWW 2021
@@ -106,10 +113,10 @@ Jianing Sun,Zhaoyue Cheng,Saba Zuberi,Felipe Perez,Maksims Volkovs
 #### [Hypersorec: Exploiting hyperbolic user and item representations with multiple aspects for social-aware recommendation](http://home.ustc.edu.cn/~wanghao3/papers/haowang_TOIS2021.pdf), TOIS 2021
 Hao Wang, Defu Lian, Hanghang Tong, Qi Liu, Zhenya Huang and Enhong Chen
 
-#### [Knowledge Based Hyperbolic Propagation](http://dl.acm.org/doi/abs/10.1145/3404835.3462980), SIGIR short paper 2021.
+#### [Knowledge Based Hyperbolic Propagation](http://dl.acm.org/doi/abs/10.1145/3404835.3462980), SIGIR short paper 2021
 Chang-You Tai, Chien-Kun Huang, Liang-Ying Huang, Lun-Wei Ku
 
-#### [HSR: hyperbolic social recommender](https://arxiv.org/abs/2102.09389), Information Sciences. 2022
+#### [HSR: hyperbolic social recommender](https://arxiv.org/abs/2102.09389), Information Sciences 2022
 Anchen Li, Bo Yang
  
 #### [HCGR: Hyperbolic Contrastive Graph Representation Learning for Session-based Recommendation](https://arxiv.org/abs/2107.05366), arxiv 2021
@@ -125,7 +132,7 @@ Canran Xu, Ming Wu
 #### [HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703), WSDM 2020
 Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li
 
-#### [Scalable Hyperbolic Recommender Systems](https://arxiv.org/abs/1902.08648), WSDM 2020
+#### [Scalable Hyperbolic Recommender Systems](https://arxiv.org/abs/1902.08648), WSDM 2020.
 Benjamin Paul Chamberlain, Stephen R. Hardwick, David R. Wardrope, Fabon Dzogang, Fabio Daolio, Saúl Vargas
 #### [A hyperbolic metric embedding approach for next-poi recommendation](https://dl.acm.org/doi/10.1145/3397271.3401049), SIGIR 2020
 Shanshan Feng , Lucas Vinh Tran , Gao Cong , Lisi Chen , Jing Li , Fan Li
