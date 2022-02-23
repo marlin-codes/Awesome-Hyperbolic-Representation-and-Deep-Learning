@@ -71,7 +71,7 @@ Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. 
 Jiwoong Park, Junho Cho, Hyung Jin Chang, Jin Young Choi
 
 
-#### ------------Mixed/Multiple Curvature Space + GNN------------
+### 3.1 Mixed/Multiple Curvature Space + GNN
 #### [Geometry Interaction Learning](https://arxiv.org/abs/2010.12135), NeurIPS 2019
 Shichao Zhu, Shirui Pan, Chuan Zhou, Jia Wu, Yanan Cao, Bin Wang
 
@@ -84,13 +84,13 @@ Jiahong Liu, Menglin Yang, Min Zhou, Shanshan Feng, Philippe Fournier-Viger
 #### [A Self-supervised Mixed-curvature Graph Neural Network](https://arxiv.org/abs/2112.05393), AAAI 2021
 Li Sun, Zhongbao Zhang, Junda Ye, Hao Peng, Jiawei Zhang, Sen Su, Philip S. Yu
 
-####  ------------UnltraHyperblic/Semi-Riemannian + GNN------------
+### 3.2 UnltraHyperblic/Semi-Riemannian + GNN
 #### [Ultrahyperbolic Neural Networks](https://openreview.net/forum?id=sf2BxJNXC3K), NeurIPS 2021
 Marc T Law
 #### [Semi-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134), arxiv 2020
 Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab
 
-### 3.1 Scalable HGNNs
+### 3.3 Scalable HGNNs
 #### [HyLa: Hyperbolic Laplacian Features For Graph Learning](https://arxiv.org/abs/2202.06854), arxiv 2022
 Tao Yu, Christopher De Sa
 
@@ -150,7 +150,7 @@ Shen Wang, Xiaokai Wei, Cicero Nogueira Dos Santos, Zhiguo Wang, Ramesh Nallapat
 
 #### [Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf), WWW 2021
 
-#### ------------Non-HGNN Research------------
+### 4.2.1 Non-HGNN Research
 #### [Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones](https://arxiv.org/abs/2110.14923)， NeurIPS 2021
 Yushi Bai, Rex Ying, Hongyu Ren, Jure Leskovec
 
@@ -230,7 +230,7 @@ Matthias Leimeister, Benjamin J. Wilson
 #### [Embedding text in hyperbolic spaces](https://arxiv.org/abs/1806.04313), ACL 2018
 Bhuwan Dhingra, Christopher J. Shallue, Mohammad Norouzi, Andrew M. Dai, George E. Dahl
 
-#### [Representation Tradeoffs for Hyperbolic] Embeddings(https://arxiv.org/abs/1804.03329), ICML 2018
+#### [Representation Tradeoffs for Hyperbolic Embeddings](https://arxiv.org/abs/1804.03329), ICML 2018
 Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
 
 #### [Hyperbolic entailment cones for learning hierarchical embeddings](https://arxiv.org/abs/1804.01882), ICML 2018
