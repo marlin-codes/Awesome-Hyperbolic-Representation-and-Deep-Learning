@@ -81,7 +81,7 @@ Gregor Bachmann, Gary Bécigneul, Octavian-Eugen Ganea
 #### [Enhancing Hyperbolic Graph Embeddings via Contrastive Learning](https://arxiv.org/abs/2201.08554), NeurIPS 2021 SSL Workshop
 Jiahong Liu, Menglin Yang, Min Zhou, Shanshan Feng, Philippe Fournier-Viger
 
-#### [A Self-supervised Mixed-curvature Graph Neural Network](https://arxiv.org/abs/2112.05393), AAAI 2021
+#### [A Self-supervised Mixed-curvature Graph Neural Network](https://arxiv.org/abs/2112.05393), AAAI 2022
 Li Sun, Zhongbao Zhang, Junda Ye, Hao Peng, Jiawei Zhang, Sen Su, Philip S. Yu
 
 ### 3.2 UnltraHyperblic/Semi-Riemannian + GNN
