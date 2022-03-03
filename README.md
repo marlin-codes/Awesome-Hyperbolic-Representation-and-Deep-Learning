@@ -54,7 +54,7 @@ Ines Chami, Rex Ying, Christopher Ré, Jure Leskovec
 #### [Hyperbolic Graph Neural Network](https://arxiv.org/abs/1910.12892), NeurIPS 2019 
 Qi Liu, Maximilian Nickel, Douwe Kiela
 
-#### [Hyperbolic Graph Attention Network](https://arxiv.org/abs/1912.03046), AAAI 2020
+#### [Hyperbolic Graph Attention Network](https://arxiv.org/abs/1912.03046), Transcations on Big Data 2020
 Yiding Zhang, Xiao Wang, Xunqiang Jiang, Chuan Shi, Yanfang Ye
 
 #### [Lorentzian Graph Convolutional Networks](https://arxiv.org/abs/2104.07477), WWW 2021
