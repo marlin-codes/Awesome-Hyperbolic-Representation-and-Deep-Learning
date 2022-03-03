@@ -19,16 +19,23 @@ Wei Peng, Tuomas Varanka, Abdelrahman Mostafa, Henglin Shi, Guoying Zhao
 #### [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180), Arxiv 2020 TextBook.
 Brice Loustau
 
-## 2. Non-HGNN Models
-### 2.1 Shallow Models
+## 2. Hyperbolic Models w/o GNN
+### 2.1 Hyperbolic Shallow Models
 
 #### [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), NeurIPS 2017
 Maximilian Nickel, Douwe Kiela
 
 #### [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417), ICML 2018
 Maximilian Nickel, Douwe Kiela
+
  
-### 2.2 Neural Network
+### 2.2 Hyperbolic Neural Network
+
+#### [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112), NeurIPS 2018
+Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann
+
+#### [Hyperbolic Attention Networks](https://arxiv.org/abs/1805.09786), ICLR 2019
+Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Karl Moritz Hermann, Peter Battaglia, Victor Bapst, David Raposo, Adam Santoro, Nando de Freitas
 
 #### [Hyperbolic Neural Network++](https://arxiv.org/abs/2006.08210), ICLR 2021
 Ryohei Shimizu, Yusuke Mukuta, Tatsuya Harada
@@ -36,11 +43,6 @@ Ryohei Shimizu, Yusuke Mukuta, Tatsuya Harada
 #### [Fully Hyperbolic Neural Networks](https://arxiv.org/abs/2105.14686), arxiv 2021
 Weize Chen, Xu Han, Yankai Lin, Hexu Zhao, Zhiyuan Liu, Peng Li, Maosong Sun, Jie Zhou
 
-#### [Hyperbolic Attention Networks](https://arxiv.org/abs/1805.09786), ICLR 2019
-Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Karl Moritz Hermann, Peter Battaglia, Victor Bapst, David Raposo, Adam Santoro, Nando de Freitas
-
-#### [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112), NeurIPS 2018
-Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann
 
 #### [Unsupervised Hyperbolic Metric Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Unsupervised_Hyperbolic_Metric_Learning_CVPR_2021_paper.pdf), CVPR 2021
 Jiexi Yan, Lei Luo, Cheng Deng, Heng Huang
@@ -54,14 +56,15 @@ Ines Chami, Rex Ying, Christopher Ré, Jure Leskovec
 #### [Hyperbolic Graph Neural Network](https://arxiv.org/abs/1910.12892), NeurIPS 2019 
 Qi Liu, Maximilian Nickel, Douwe Kiela
 
-#### [Hyperbolic Graph Attention Network](https://arxiv.org/abs/1912.03046), Transcations on Big Data 2020
-Yiding Zhang, Xiao Wang, Xunqiang Jiang, Chuan Shi, Yanfang Ye
-
 #### [Lorentzian Graph Convolutional Networks](https://arxiv.org/abs/2104.07477), WWW 2021
 Yiding Zhang, Xiao Wang, Chuan Shi, Nian Liu, Guojie Song
 
 #### [A Hyperbolic-to-Hyperbolic Graph Convolutional Network](https://arxiv.org/abs/2104.06942), CVPR 2021
 Jindou Dai, Yuwei Wu, Zhi Gao, Yunde Jia
+
+#### [Hyperbolic Graph Attention Network](https://arxiv.org/abs/1912.03046), Transcations on Big Data 2021
+Yiding Zhang, Xiao Wang, Xunqiang Jiang, Chuan Shi, Yanfang Ye
+
 
 #### [Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336), ICML 2020 
 Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton
@@ -87,7 +90,7 @@ Li Sun, Zhongbao Zhang, Junda Ye, Hao Peng, Jiawei Zhang, Sen Su, Philip S. Yu
 ### 3.2 UnltraHyperblic/Semi-Riemannian + GNN
 #### [Ultrahyperbolic Neural Networks](https://openreview.net/forum?id=sf2BxJNXC3K), NeurIPS 2021
 Marc T Law
-#### [Semi-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134), arxiv 2020
+#### [Semi-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134), arxiv 2021
 Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab
 
 ### 3.3 Scalable HGNNs
@@ -96,7 +99,9 @@ Tao Yu, Christopher De Sa
 
 ## 4. Applications of HGNNs
 
-### 4.1 HGNN for Recommender System
+### 4.1 Hyperbolic Models for Recommender System
+
+#### 4.1.1 HGNN Research
 
 #### HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization, WWW 2022
 Menglin Yang, Min Zhou, Jiahong Liu, Defu Lian, Irwin King
@@ -125,7 +130,7 @@ Naicheng Guo, Xiaolei Liu, Shaoshuai Li, Qiongxu Ma, Yunan Zhao, Bing Han, Lin Z
 #### [Hyperbolic Hypergraphs for Sequential Recommendation](https://arxiv.org/abs/2108.08134), CIKM 2021
 Yicong Li, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu
 
-#### ------------Non-HGNN Research------------
+#### 4.1.2 Hyperbolic Non-GNN Research
 #### [Learning Feature Interactions with Lorentzian Factorization Machine](https://arxiv.org/abs/1911.09821), AAAI 2020
 Canran Xu, Ming Wu
 
@@ -140,8 +145,9 @@ Shanshan Feng , Lucas Vinh Tran , Gao Cong , Lisi Chen , Jing Li , Fan Li
 #### [Node2LV: Squared Lorentzian Representations for Node Proximity](https://ieeexplore.ieee.org/document/9458940)， ICDE 2021
 Shanshan Feng, Lisi Chen, Kaiqi Zhao, Wei Wei, Fan Li, Shuo Shang
 
-### 4.2 HGNN for Knowledge Graph
+### 4.2 Hyperbolic Moldes for Knowledge Graph
 
+#### 4.2.1 HGNN Research
 #### [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162), EMNLP 2020
 Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang
 
@@ -150,7 +156,16 @@ Shen Wang, Xiaokai Wei, Cicero Nogueira Dos Santos, Zhiguo Wang, Ramesh Nallapat
 
 #### [Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf), WWW 2021
 
-### 4.2.1 Non-HGNN Research
+#### 4.2.2 Hyperbolic Non-GNN Research
+
+#### [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2005.00545), ACL 2019
+
+Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré
+
+#### [Multi-relational Poincaré Graph Embeddings](https://arxiv.org/abs/1905.09791), NeurIPS 2019
+
+Ivana Balažević, Carl Allen, Timothy Hospedales
+
 #### [Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones](https://arxiv.org/abs/2110.14923)， NeurIPS 2021
 Yushi Bai, Rex Ying, Hongyu Ren, Jure Leskovec
 
@@ -160,25 +175,27 @@ Sebastien Montella, Lina Rojas-Barahona, Johannes Heinecke
 #### [Self-supervised hyperboloid representations from logical queries over knowledge graphs](https://arxiv.org/abs/2012.13023), WWW 2021
 Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Reddy
 
-#### [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2005.00545), ACL 2019
 
-Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré
-#### [Multi-relational Poincaré Graph Embeddings](https://arxiv.org/abs/1905.09791) . NeurIPS 2019
-
-Ivana Balažević, Carl Allen, Timothy Hospedales
 #### [HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion](https://arxiv.org/abs/1908.04895)
 Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis
 
 #### [Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction](https://aclanthology.org/2021.findings-emnlp.251/). EMNLP findings 2021 
 Zhe Pan, Peng Wang
 
-### 4.3 HGNN for Molecular
+### 4.3 Hyperbolic models for Molecular
+
+#### 4.3.1 HGNN Research
 
 #### [Hyperbolic relational graph convolution networks plus: a simple but highly efficient QSAR-modeling method](https://academic.oup.com/bib/article-abstract/22/5/bbab112/6235968?redirectedFrom=fulltext), Briefings in Bioinformatics 2021
 Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Cao, Tingjun Hou
 
 #### [Semi-supervised  hierarchical  drug  embedding  inhyperbolic space](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00681), J. Chem. Inf. Model 2020
 Ke Yu*, Shyam Visweswaran*, and Kayhan Batmanghelich
+
+#### 4.3.2 Hyperbolic Non-GNN Research
+
+#### [HiG2Vec: hierarchical representations of Gene Ontology and genes in the Poincaré ball](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857?login=false), Bioinformatics, 2021, 
+Jaesik Kim, Dokyoon Kim, Kyung-Ah Sohn
 
 ### 4.4 HGNN for Other Applications
 
