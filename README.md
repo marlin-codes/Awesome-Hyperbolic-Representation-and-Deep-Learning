@@ -97,7 +97,7 @@ Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab
 #### [HyLa: Hyperbolic Laplacian Features For Graph Learning](https://arxiv.org/abs/2202.06854), arxiv 2022
 Tao Yu, Christopher De Sa
 
-## 4. Applications of HGNNs
+## 4. Applications
 
 ### 4.1 Hyperbolic Models for Recommender System
 
