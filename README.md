@@ -72,7 +72,7 @@ Jiwoong Park, Junho Cho, Hyung Jin Chang, Jin Young Choi
 
 
 ### 3.1 Mixed/Multiple Curvature Space + GNN
-#### [Geometry Interaction Learning](https://arxiv.org/abs/2010.12135), NeurIPS 2019
+#### [Geometry Interaction Learning](https://arxiv.org/abs/2010.12135), NeurIPS 2020
 Shichao Zhu, Shirui Pan, Chuan Zhou, Jia Wu, Yanan Cao, Bin Wang
 
 #### [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076), ICML 2020
