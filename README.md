@@ -279,3 +279,4 @@ Federico López, Michael Strube
 - Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network. SIGIR short paper 2021
 - HYPMIX: Hyperbolic Interpolative Data Augmentation
 - Ultrahyperbolic Representation Learning
+- Low-rank approximations of hyperbolic embeddings
