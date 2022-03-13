@@ -7,10 +7,6 @@ Graph neural networks generalize conventional neural networks to graph-structure
 |![](https://i.imgur.com/M3iOEam.png)     |
 
 
-## Lastest
-
-#### [LEARNING COMPLEX GEOMETRIC STRUCTURES FROM DATA WITH DEEP RIEMANNIAN MANIFOLDS](https://openreview.net/pdf?id=25HMCfbzOC), ICLR 2022
-Aaron Lou, Maximilian Nickel, Mustafa Mukadam, Brandon Amos
 
 ## 1. Survey and Book
 
