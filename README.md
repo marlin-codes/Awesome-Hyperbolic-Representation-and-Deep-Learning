@@ -97,6 +97,11 @@ Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab
 #### [HyLa: Hyperbolic Laplacian Features For Graph Learning](https://arxiv.org/abs/2202.06854), arxiv 2022
 Tao Yu, Christopher De Sa
 
+### 3.4 Equivariant HGNNs
+
+#### [An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging](https://arxiv.org/pdf/2201.08187.pdf), arxiv 2022
+Shiqi Gonga,1 Qi Mengb Jue Zhangb Huilin Quc Congqiao Lid Sitian Qiand Weitao, Dua Zhi-Ming Maa Tie-Yan Liub
+
 ## 4. Applications
 
 ### 4.1 Hyperbolic Models for Recommender System
