@@ -6,6 +6,12 @@ Graph neural networks generalize conventional neural networks to graph-structure
 | :--------: |
 |![](https://i.imgur.com/M3iOEam.png)     |
 
+## New Added
+
+Hyperbolic Image Segmentation, cvpr 2022
+https://arxiv.org/abs/2203.05898
+
+Mina GhadimiAtigh, Julian Schoep, Erman Acar, Nanne van Noord, Pascal Mettes
 
 
 ## 1. Survey and Book
@@ -285,3 +291,4 @@ Federico López, Michael Strube
 - HYPMIX: Hyperbolic Interpolative Data Augmentation
 - Ultrahyperbolic Representation Learning
 - Low-rank approximations of hyperbolic embeddings
+- Hyperbolic Image Segmentation, cvpr 2022
