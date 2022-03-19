@@ -1,4 +1,4 @@
-# Awesome hyperbolic graph neural network Papers
+# Awesome hyperbolic graph neural network papers
 
 Graph neural networks generalize conventional neural networks to graph-structured data and have received widespread attention due to their impressive representation ability. In spite of the remarkable achievements, the performance of Euclidean models in graph-related learning is still bounded and limited by the representation ability of Euclidean geometry, especially for datasets with highly non-Euclidean latent anatomy. Recently, hyperbolic space has gained increasing popularity in processing graph data with tree-like structure and power-law distribution, owing to its exponential growth property.  In this survey, we comprehensively revisit the technical details of the current hyperbolic graph neural networks https://github.com/marlin-codes/HGNNs , unifying them into a general framework and summarizing the variants of each component. More importantly, we present various HGNN-related applications. For reader convenience, we also list the non-HGNN research. If there are some typos or you have any question, just feel free to contact us.
 
