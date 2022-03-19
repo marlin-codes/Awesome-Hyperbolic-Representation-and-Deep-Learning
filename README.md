@@ -13,10 +13,6 @@ https://arxiv.org/abs/2203.05898
 
 Mina GhadimiAtigh, Julian Schoep, Erman Acar, Nanne van Noord, Pascal Mettes
 
-Self-Supervised Hyperboloid Representations from Logical Queries over Knowledge Graphs, WWW 2021
-https://arxiv.org/abs/2012.13023
-
-Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Reddy
 
 ANTHEM: Attentive Hyperbolic Entity Model for Product Search, WSDM 2022
 https://dl.acm.org/doi/10.1145/3488560.3498456
@@ -302,3 +298,4 @@ Federico López, Michael Strube
 - Ultrahyperbolic Representation Learning
 - Low-rank approximations of hyperbolic embeddings
 - Hyperbolic Image Segmentation, cvpr 2022
+- ANTHEM: Attentive Hyperbolic Entity Model for Product Search, WSDM 2022
