@@ -9,6 +9,11 @@ Graph neural networks generalize conventional neural networks to graph-structure
 
 ## New Added (In recent seven days)
 
+HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections, ICML 2021
+http://proceedings.mlr.press/v139/chami21a/chami21a.pdf
+
+Ines Chami* Albert Gu* Dat Nguyen* Christopher Re´
+
 Hyperbolic Image Segmentation, cvpr 2022
 https://arxiv.org/abs/2203.05898
 
