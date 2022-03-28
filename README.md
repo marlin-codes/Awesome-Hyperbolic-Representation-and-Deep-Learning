@@ -19,6 +19,8 @@ Wei Peng, Tuomas Varanka, Abdelrahman Mostafa, Henglin Shi, Guoying Zhao
 [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180), Arxiv 2020 TextBook. \
 Brice Loustau
 
+
+
 ## 2. Hyperbolic Models w/o GNN
 ### 2.1 Hyperbolic Shallow Model
 
@@ -297,29 +299,41 @@ Mina GhadimiAtigh, Julian Schoep, Erman Acar, Nanne van Noord, Pascal Mettes
 [Mix Dimension in Poincaré Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/abs/10.1145/3394171.3413910), ACM MM 2020 \
 Wei Peng, Jingang Shi, Zhaoqiang Xia, Guoying Zhao
 
-Curvature Generation in Curved Spaces for Few-Shot Learning, ICCV 2021
+[Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf), ICCV 2021 \
+Zhi Gao, Yuwei Wu*, Yunde Jia, Mehrtash Harandi
 
-Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision
+[Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision](https://arxiv.org/abs/2104.01257), CVPR 2021 \
+Zhenzhen Weng, Mehmet Giray Ogut, Shai Limonchik, Serena Yeung
 
-Hyperbolic Image Embedding
+[Hyperbolic Image Embedding](https://arxiv.org/abs/1904.02239), CVPR 2020 \
+Valentin Khrulkov, Leyla Mirvakhabova, Evgeniya Ustinova, Ivan Oseledets, Victor Lempitsky
 
 Hyperbolic Zero shot Learning
 
 
 ## 8 Hyperbolic Geometry for NLP
 
-Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network. SIGIR short paper 2021
+[Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3404835.3463095). SIGIR short paper 2021 \
+Zheng Liu , Xiaohan Li , Zeyu You , Tao Yang , Wei Fan , Philip Yu
 
 
 
 
 ## 9 Hyperbolic Metric Learning
 
-Hyperbolic Busemann Learning with Ideal Prototypes
+[Hyperbolic Busemann Learning with Ideal Prototypes](https://proceedings.neurips.cc/paper/2021/file/01259a0cb2431834302abe2df60a1327-Paper.pdf), NeurIPS 2021 \
+Mina Ghadimi Atigh, Martin Keller-Ressel, Pascal Mettes
 
 
 [Unsupervised Hyperbolic Metric Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Unsupervised_Hyperbolic_Metric_Learning_CVPR_2021_paper.pdf), CVPR 2021 \
 Jiexi Yan, Lei Luo, Cheng Deng, Heng Huang
+
+## Tools
+
+[GraphZoo: A Development Toolkit for Graph Neural Networks with Hyperbolic Geometries](https://people.cs.vt.edu/~reddy/papers/WWW22d.pdf) WWW 2022 \
+Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy
+
+https://github.com/AnoushkaVyas/GraphZoo
 
 ### TBA
 
