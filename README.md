@@ -308,14 +308,13 @@ Zhenzhen Weng, Mehmet Giray Ogut, Shai Limonchik, Serena Yeung
 [Hyperbolic Image Embedding](https://arxiv.org/abs/1904.02239), CVPR 2020 \
 Valentin Khrulkov, Leyla Mirvakhabova, Evgeniya Ustinova, Ivan Oseledets, Victor Lempitsky
 
-Hyperbolic Zero shot Learning
-
+[Meta Hyperbolic Networks for Zero-Shot Learning](https://www.sciencedirect.com/science/article/pii/S0925231222003344), Neurocomputing \
+Yan Xu, Lifu Mu, ZhongJi, Xiyao Liu, JungongHan
 
 ## 8 Hyperbolic Geometry for NLP
 
 [Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3404835.3463095). SIGIR short paper 2021 \
 Zheng Liu , Xiaohan Li , Zeyu You , Tao Yang , Wei Fan , Philip Yu
-
 
 
 
