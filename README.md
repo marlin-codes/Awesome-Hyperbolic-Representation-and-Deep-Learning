@@ -113,6 +113,9 @@ Shiqi Gonga, Qi Meng, Jue Zhang, Huilin Qu, Congqiao Li, Sitian Qian, Weitao, Du
 HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization, WWW 2022 \
 Menglin Yang, Min Zhou, Jiahong Liu, Defu Lian, Irwin King
 
+[HAKG: Hierarchy-Aware Knowledge Gated Network for Recommendation](https://arxiv.org/abs/2204.04959), SIGIR 2022 \
+Yuntao Du, Xinjun Zhu, Lu Chen, Baihua Zheng, and Yunjun Gao
+
 [Geometric Inductive Matrix Completion: A Hyperbolic Approach with Unified Message Passing](https://dl.acm.org/doi/abs/10.1145/3488560.3498402), WSDM 2022 \
 Chengkun Zhang , Hongxu Chen , Sixiao Zhang , Guandong Xu , Junbin Gao
 
