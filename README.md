@@ -110,7 +110,7 @@ Shiqi Gonga, Qi Meng, Jue Zhang, Huilin Qu, Congqiao Li, Sitian Qian, Weitao, Du
 
 #### 4.1.1 HGNN Research
 
-HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization, WWW 2022 \
+[HRCF: Enhancing Collaborative Filtering via Hyperbolic Geometric Regularization](https://arxiv.org/abs/2204.08176), WWW 2022 \
 Menglin Yang, Min Zhou, Jiahong Liu, Defu Lian, Irwin King
 
 [HAKG: Hierarchy-Aware Knowledge Gated Network for Recommendation](https://arxiv.org/abs/2204.04959), SIGIR 2022 \
