@@ -8,7 +8,7 @@ Graph neural networks generalize conventional neural networks to graph-structure
 |![](https://i.imgur.com/M3iOEam.png) |
 
 
-## !New added (in recent 7 days)
+## !!! New added (in recent 7 days)
 [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling
 
 [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2205.02618) for clustering, IJCAI 2022
