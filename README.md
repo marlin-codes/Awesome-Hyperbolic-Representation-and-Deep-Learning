@@ -339,9 +339,10 @@ https://github.com/AnoushkaVyas/GraphZoo
 
 ### TBA
 
-HYPMIX: Hyperbolic Interpolative Data Augmentation
+**sampling** Wrapped Distributions on homogeneous Riemannian manifolds
 
-ANTHEM: Attentive Hyperbolic Entity Model for Product Search, WSDM 2022
+**data argumentation** HYPMIX: Hyperbolic Interpolative Data Augmentation
+
 
 HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections, ICML 2021
 http://proceedings.mlr.press/v139/chami21a/chami21a.pdf
