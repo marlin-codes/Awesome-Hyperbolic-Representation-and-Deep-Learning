@@ -9,6 +9,7 @@ Graph neural networks generalize conventional neural networks to graph-structure
 
 
 ## !!! New added (in recent 7 days)
+
 [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling
 
 [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2205.02618) for clustering, IJCAI 2022
@@ -16,6 +17,10 @@ Graph neural networks generalize conventional neural networks to graph-structure
 [Hyperbolic Relevance Matching for Neural Keyphrase Extraction]() for key phrases matching 
 
 [Cross-lingual Word Embeddings in Hyperbolic Space](https://arxiv.org/abs/2205.01907) for word embedding
+
+[Geometry Interaction Knowledge Graph Embeddings](https://www.aaai.org/AAAI22Papers/AAAI-11284.CaoZ.pdf) for KG, AAAI 2022
+
+[Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021
 
 ## 1. Survey and Book
 
