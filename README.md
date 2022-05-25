@@ -10,7 +10,7 @@ Graph neural networks generalize conventional neural networks to graph-structure
 
 ## !!! New added (update at May 25)
 
-[HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering] (https://arxiv.org/abs/2205.09721) KDD 2022
+[HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) KDD 2022
 
 [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling
 
