@@ -8,7 +8,9 @@ Graph neural networks generalize conventional neural networks to graph-structure
 |![](https://i.imgur.com/M3iOEam.png) |
 
 
-## !!! New added (in recent 7 days)
+## !!! New added (update at May 25)
+
+[HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering] (https://arxiv.org/abs/2205.09721) KDD 2022
 
 [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling
 
@@ -20,7 +22,6 @@ Graph neural networks generalize conventional neural networks to graph-structure
 
 [Geometry Interaction Knowledge Graph Embeddings](https://www.aaai.org/AAAI22Papers/AAAI-11284.CaoZ.pdf) for KG, AAAI 2022
 
-[Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021
 
 ## 1. Survey and Book
 
@@ -155,6 +156,10 @@ Naicheng Guo, Xiaolei Liu, Shaoshuai Li, Qiongxu Ma, Yunan Zhao, Bing Han, Lin Z
 Yicong Li, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu
 
 #### 4.1.2 Hyperbolic Non-GNN Research
+
+[Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021 \
+Sixiao Zhang, Hongxu Chen, Xiao Ming, Lizhen Cui, Hongzhi Yin, Guandong Xu
+
 
 [Learning Feature Interactions with Lorentzian Factorization Machine](https://arxiv.org/abs/1911.09821), AAAI 2020 \
 Canran Xu, Ming Wu
