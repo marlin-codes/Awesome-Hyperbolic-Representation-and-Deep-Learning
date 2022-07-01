@@ -7,6 +7,7 @@ Graph neural networks generalize conventional neural networks to graph-structure
 | :--------: |
 |![](https://i.imgur.com/M3iOEam.png) |
 
+ 
 
 ## !!! New added (update on June 17)
 
