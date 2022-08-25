@@ -1,4 +1,4 @@
-# Awesome Hyperbolic Graph Neural Network Papers (Keep update)
+# Awesome Hyperbolic Graph Neural Network Papers: Methods and Applications (Keep update)
 
 Graph neural networks generalize conventional neural networks to graph-structured data and have received widespread attention due to their impressive representation ability. In spite of the remarkable achievements, the performance of Euclidean models in graph-related learning is still bounded and limited by the representation ability of Euclidean geometry, especially for datasets with highly non-Euclidean latent anatomy. Recently, hyperbolic space has gained increasing popularity in processing graph data with tree-like structure and power-law distribution, owing to its exponential growth property.  In this survey, we comprehensively revisit the technical details of the current hyperbolic graph neural networks https://github.com/marlin-codes/HGNNs , unifying them into a general framework and summarizing the variants of each component. More importantly, we present various HGNN-related applications. For reader convenience, we also list the non-HGNN research. If there are some typos or you have any question, just feel free to contact us (mlyang@cse.cuhk.edu.hk, zhoumin27@huawei.com).
 
@@ -12,10 +12,6 @@ Graph neural networks generalize conventional neural networks to graph-structure
 ## !!! New added (update on July 19)
 
 [HICF: Hyperbolic Informative Collaborative Filtering](https://arxiv.org/abs/2207.09051), KDD 2022
-
-[Hyperbolic Representations of Source Code](https://assets.amazon.science/55/d9/58097f0d41b886269b30e5c68522/hyperbolic-representations-of-source-code.pdf) AAAI 2022
-
-[Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations](https://proceedings.neurips.cc/paper/2021/file/291d43c696d8c3704cdbe0a72ade5f6c-Paper.pdf) NeurIPS 2021
 
 [HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) KDD 2022
 
@@ -43,7 +39,8 @@ Brice Loustau
 
 
 
-## 2. Hyperbolic Models w/o GNN
+## 2. Hyperbolic Models
+
 ### 2.1 Hyperbolic Shallow Model
 
 [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), NeurIPS 2017 \
@@ -53,7 +50,7 @@ Maximilian Nickel, Douwe Kiela
 Maximilian Nickel, Douwe Kiela
 
  
-### 2.2 Hyperbolic Neural Network
+### 2.2 Hyperbolic Neural Network (HNN)
 
 [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112), NeurIPS 2018 \
 Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann
@@ -69,7 +66,7 @@ Weize Chen, Xu Han, Yankai Lin, Hexu Zhao, Zhiyuan Liu, Peng Li, Maosong Sun, Ji
 
 
 
-## 3. HGNN
+### 2.3 Hyperbolic Graph Neural Network (HGNN)
 
 
 [Hyperbolic Graph Convolutional Neural Networks](https://arxiv.org/abs/1910.12933), NeurIPS 2019 \
@@ -93,7 +90,7 @@ Yiding Zhang, Xiao Wang, Xunqiang Jiang, Chuan Shi, Yanfang Ye
 Jiwoong Park, Junho Cho, Hyung Jin Chang, Jin Young Choi
 
 
-### 3.1 Mixed/Multiple Curvature Space + GNN
+### 2.4 Mixed/Multiple Curvature Space NN/GNN
 [Geometry Interaction Learning](https://arxiv.org/abs/2010.12135), NeurIPS 2020 \
 Shichao Zhu, Shirui Pan, Chuan Zhou, Jia Wu, Yanan Cao, Bin Wang
 
@@ -106,7 +103,7 @@ Jiahong Liu, Menglin Yang, Min Zhou, Shanshan Feng, Philippe Fournier-Viger
 [A Self-supervised Mixed-curvature Graph Neural Network](https://arxiv.org/abs/2112.05393), AAAI 2022 \
 Li Sun, Zhongbao Zhang, Junda Ye, Hao Peng, Jiawei Zhang, Sen Su, Philip S. Yu
 
-### 3.2 UnltraHyperblic/Semi-Riemannian + GNN
+### 2.5 UnltraHyperblic/Semi-Riemannian NN/GNN
 [Ultrahyperbolic Neural Networks](https://openreview.net/forum?id=sf2BxJNXC3K), NeurIPS 2021 \
 Marc T Law
 
@@ -117,20 +114,13 @@ Marc T. Law, Jos Stam
 [Semi-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134), arxiv 2021 \
 Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab
 
-### 3.3 Scalable HGNNs
-[HyLa: Hyperbolic Laplacian Features For Graph Learning](https://arxiv.org/abs/2202.06854), arxiv 2022 \
-Tao Yu, Christopher De Sa
-
-### 3.4 Equivariant HGNNs
-
-[An Efficient Lorentz Equivariant Graph Neural Network for Jet Tagging](https://arxiv.org/pdf/2201.08187.pdf), arxiv 2022 \
-Shiqi Gonga, Qi Meng, Jue Zhang, Huilin Qu, Congqiao Li, Sitian Qian, Weitao, Du, Zhi-Ming Ma, Tie-Yan Liu
 
 ## 4. Applications
 
-### 4.1 Hyperbolic Models for Recommender System
 
-#### 4.1.1 HGNN Research
+### 4.1 Hyperbolic Models for Recommender System (RS)
+
+#### 4.1.1 Hyperbolic GNN for RS
 
 [HICF: Hyperbolic Informative Collaborative Filtering](https://arxiv.org/abs/2207.09051), KDD 2022 \
 Menglin Yang, Zhihao Li, Min Zhou, Jiahong Liu, Irwin King
@@ -165,7 +155,7 @@ Naicheng Guo, Xiaolei Liu, Shaoshuai Li, Qiongxu Ma, Yunan Zhao, Bing Han, Lin Z
 [Hyperbolic Hypergraphs for Sequential Recommendation](https://arxiv.org/abs/2108.08134), CIKM 2021 \
 Yicong Li, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu
 
-#### 4.1.2 Hyperbolic Non-GNN Research
+#### 4.1.2 Hyperbolic Shallow/NN models for RS
 
 [Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021 \
 Sixiao Zhang, Hongxu Chen, Xiao Ming, Lizhen Cui, Hongzhi Yin, Guandong Xu
@@ -186,9 +176,9 @@ Shanshan Feng , Lucas Vinh Tran , Gao Cong , Lisi Chen , Jing Li , Fan Li
 [Node2LV: Squared Lorentzian Representations for Node Proximity](https://ieeexplore.ieee.org/document/9458940)， ICDE 2021 \
 Shanshan Feng, Lisi Chen, Kaiqi Zhao, Wei Wei, Fan Li, Shuo Shang
 
-### 4.2 Hyperbolic Moldes for Knowledge Graph
+### 4.2 Hyperbolic Moldes for Knowledge Graph (KG)
 
-#### 4.2.1 HGNN Research
+#### 4.2.1 Hyperbolic GNN for KG
 [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162), EMNLP 2020 \
 Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang
 
@@ -198,7 +188,7 @@ Shen Wang, Xiaokai Wei, Cicero Nogueira Dos Santos, Zhiguo Wang, Ramesh Nallapat
 [Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf), WWW 2021 \
 Shen Wang , Xiaokai Wei , Cicero Nogueira Nogueira dos Santos , Zhiguo Wang , Ramesh Nallapati , Andrew Arnold , Bing Xiang , Philip S. Yu , Isabel F. Cruz
 
-#### 4.2.2 Hyperbolic Non-GNN Research
+#### 4.2.2 Hyperbolic  Shallow/NN models for KG
 
 [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2005.00545), ACL 2019 \
 Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré
@@ -224,7 +214,7 @@ Zhe Pan, Peng Wang
 
 ### 4.3 Hyperbolic models for Molecular
 
-#### 4.3.1 HGNN Research
+#### 4.3.1 Hyperbolic GNN for Molecular
 
 [Hyperbolic relational graph convolution networks plus: a simple but highly efficient QSAR-modeling method](https://academic.oup.com/bib/article-abstract/22/5/bbab112/6235968?redirectedFrom=fulltext), Briefings in Bioinformatics 2021 \
 Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Cao, Tingjun Hou
@@ -232,12 +222,12 @@ Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Ca
 [Semi-supervised  hierarchical  drug  embedding  inhyperbolic space](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00681), J. Chem. Inf. Model 2020 \
 Ke Yu*, Shyam Visweswaran*, and Kayhan Batmanghelich
 
-#### 4.3.2 Hyperbolic Non-GNN Research
+#### 4.3.2 Hyperbolic Shallow/NN models for Molecular
 
 [HiG2Vec: hierarchical representations of Gene Ontology and genes in the Poincaré ball](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857?login=false), Bioinformatics, 2021 \
 Jaesik Kim, Dokyoon Kim, Kyung-Ah Sohn
 
-### 4.4 HGNN for Dynamic Graph
+### 4.4 Hyperbolic Models for Dynamic Graph
 
 [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space](https://arxiv.org/abs/2107.03767),  KDD 2021 \
 Menglin Yang, Min Zhou, Marcus Kalander, Zengfeng Huang, Irwin King
@@ -248,6 +238,11 @@ Li Sun, Zhongbao Zhang, Jiawei Zhang, Feiyang Wang, Hao Peng, Sen Su, Philip S. 
 [Exploring the Scale-Free Nature of Stock Markets: Hyperbolic Graph Learning for Algorithmic Trading](https://dl.acm.org/doi/10.1145/3442381.3450095),  WWW 2021 \
 Ramit Sawhney , Shivam Agarwal , Arnav Wadhwa , Rajiv Shah
 
+
+### 4.5 Hyperbolic Models for Code Representation
+
+[Hyperbolic Representations of Source Code](https://assets.amazon.science/55/d9/58097f0d41b886269b30e5c68522/hyperbolic-representations-of-source-code.pdf) AAAI 2022 \
+Raiyan Khan, Thanh V. Nguyen, Sengamedu H. Srinivasan
 
 ---
 Note: The following research works not limited to HGNNs but higly related to hyperbolic geometry.
@@ -322,7 +317,10 @@ Federico López, Michael Strube
 [Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336), ICML 2020  \
 Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton
 
-## 7 Hyperbolic Geometry for CV
+## 7 Hyperbolic Geometry for Computer Vision
+
+[Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations](https://proceedings.neurips.cc/paper/2021/file/291d43c696d8c3704cdbe0a72ade5f6c-Paper.pdf) NeurIPS 2021 \
+Joy Hsu, Jeffrey Gu, Gong-Her Wu, Wah Chiu, Serena Yeung
 
 [Hyperbolic Image Segmentation](https://arxiv.org/abs/2203.05898), cvpr 2022 \
 Mina GhadimiAtigh, Julian Schoep, Erman Acar, Nanne van Noord, Pascal Mettes
@@ -343,7 +341,7 @@ Valentin Khrulkov, Leyla Mirvakhabova, Evgeniya Ustinova, Ivan Oseledets, Victor
 [Meta Hyperbolic Networks for Zero-Shot Learning](https://www.sciencedirect.com/science/article/pii/S0925231222003344), Neurocomputing \
 Yan Xu, Lifu Mu, ZhongJi, Xiyao Liu, JungongHan
 
-## 8 Hyperbolic Geometry for NLP
+## 8 Hyperbolic Geometry for Natural Language Process
 
 [Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3404835.3463095). SIGIR short paper 2021 \
 Zheng Liu , Xiaohan Li , Zeyu You , Tao Yang , Wei Fan , Philip Yu
