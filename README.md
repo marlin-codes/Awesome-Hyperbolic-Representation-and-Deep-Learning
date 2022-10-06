@@ -192,7 +192,7 @@ Alibaba
 1. [Ultrahyperbolic Representation Learning](https://arxiv.org/abs/2007.00211), NeurIPS 2020 \
 *Marc T. Law, Jos Stam*
 
-## [Hyperbolic Operations](#content)
+### [Hyperbolic Operations](#content)
 
 1. Mean Computation and BatchNorm \
 [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335), ICML 2022 \
