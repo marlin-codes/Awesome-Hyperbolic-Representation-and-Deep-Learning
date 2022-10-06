@@ -4,7 +4,6 @@ Contributed by: Menglin Yang, Min Zhou
 
 Recently, hyperbolic spaces have emerged as a promising alternative for processing graph data with tree-like structure or power-law distribution, owing to its exponential growth property. Different from the Euclidean space which expands polynomially, the hyperbolic space grows exponentially which makes it gains natural advantages in abstracting tree-like or scale-free graphs with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with latest research developments. We are aware that there will inevitable be some mistakes and oversights, so if you find any questions and suggestions, please feel free to contact us (mlyang@cse.cuhk.edu.hk). 
 
-Currently, we are holding a paper reading (closed) meeting related to hyperbolic representation learning and if you are interested, feel free to concat with us (mlyang@cse.cuhk.edu.hk).
 
 
 
