@@ -415,19 +415,19 @@ HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections, ICML
 
 
 ### [Computer Vision](#content)
-1. [Hyperbolic Vision Transformers: Combining Improvements in Metric Learning](https://arxiv.org/abs/2203.10833),cvpr 2022 \
+1. [Hyperbolic Vision Transformers: Combining Improvements in Metric Learning](https://arxiv.org/abs/2203.10833),CVPR 2022 \
 *Aleksandr Ermolov, Leyla Mirvakhabova, Valentin Khrulkov, Nicu Sebe, Ivan Oseledets*
 
-1. [Clipped Hyperbolic Classifiers Are Super-Hyperbolic Classifiers](https://arxiv.org/abs/2107.11472), cvpr 2022 \
+1. [Clipped Hyperbolic Classifiers Are Super-Hyperbolic Classifiers](https://arxiv.org/abs/2107.11472), CVPR 2022 \
 *Yunhui Guo, Xudong Wang, Yubei Chen, Stella X. Yu*
 
-1. [Hyperbolic Image Segmentation](https://arxiv.org/abs/2203.05898), cvpr 2022 \
+1. [Hyperbolic Image Segmentation](https://arxiv.org/abs/2203.05898), CVPR 2022 \
 *Mina GhadimiAtigh, Julian Schoep, Erman Acar, Nanne van Noord, Pascal Mettes*
 
 1. [Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations](https://proceedings.neurips.cc/paper/2021/file/291d43c696d8c3704cdbe0a72ade5f6c-Paper.pdf) NeurIPS 2021 \
 *Joy Hsu, Jeffrey Gu, Gong-Her Wu, Wah Chiu, Serena Yeung*
 
-1. [Learning Hyperbolic Representations of Topological Features](https://arxiv.org/abs/2103.09273) ICLR 2021\
+1. [Learning Hyperbolic Representations of Topological Features](https://arxiv.org/abs/2103.09273) ICLR 2021 \
 *Panagiotis Kyriakis, Iordanis Fostiropoulos, Paul Bogdan*
 
 1. [Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf), ICCV 2021 \
@@ -435,6 +435,9 @@ HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections, ICML
 
 1. [Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision](https://arxiv.org/abs/2104.01257), CVPR 2021 \
 *Zhenzhen Weng, Mehmet Giray Ogut, Shai Limonchik, Serena Yeung*
+
+1. [Searching for Actions on the Hyperbole](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9157196), CVPR 2020 \
+Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 
 1. [Mix Dimension in Poincaré Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/abs/10.1145/3394171.3413910), ACM MM 2020 \
 *Wei Peng, Jingang Shi, Zhaoqiang Xia, Guoying Zhao*
