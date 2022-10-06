@@ -1,13 +1,10 @@
-# Awesome Hyperbolic Graph Representation Learning: Methods and Applications
+# Awesome Hyperbolic Representation Learning: Methods and Applications
 
-If there are some typos or you have any question, just feel free to contact us (mlyang@cse.cuhk.edu.hk, zhoumin27@huawei.com, king@cse.cuhk.edu.hk).
+Recently, hyperbolic spaces have emerged as a promising alternative for processing graph data with tree-like structure or power-law distribution, owing to its exponential growth property. Different from the Euclidean space which expands polynomially, the hyperbolic space grows exponentially which makes it gains natural advantages in abstracting tree-like or scale-free graphs with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with latest research developments. We are aware that there will inevitable be some mistakes and oversights, so if you find any questions and suggestions, please feel free to contact us (mlyang@cse.cuhk.edu.hk, zhoumin27@huawei.com, king@cse.cuhk.edu.hk). 
+
+Currently, we are holding a paper reading (closed) meeting related to hyperbolic representation learning and if you are interested, feel free to concat with me (mlyang@cse.cuhk.edu.hk).
 
 
-| Hyperbolic Manifolds |
-| :--------: |
-|![](https://i.imgur.com/M3iOEam.png) |
-
- 
 
 ## !!! Newly added (update on Oct. 6, 2022)
 
@@ -27,7 +24,7 @@ If there are some typos or you have any question, just feel free to contact us (
 [Geometry Interaction Knowledge Graph Embeddings](https://www.aaai.org/AAAI22Papers/AAAI-11284.CaoZ.pdf) for KG, AAAI 2022
 
 
-## 1. Surveys, Books and Tutorials
+## 1. Surveys, Books , Tools and Tutorials
 
 ### Surveys
 
@@ -45,7 +42,10 @@ Brice Loustau
 - [Manifolds and Differential Geometry](https://www.ams.org/books/gsm/107/gsm107-endmatter.pdf), 2009. \
 Jeffrey M. Lee
 
-### Tutorial
+### Tools and Tutorial
+
+- [GraphZoo: A Development Toolkit for Graph Neural Networks with Hyperbolic Geometries](https://people.cs.vt.edu/~reddy/papers/WWW22d.pdf) WWW 2022 \
+Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy
 
 - [Hyperbolic Graph Representation Learning](https://hyperbolicgraphlearning.github.io/). Tutorial 2022 \
 Min Zhou, Menglin Yang, Lujia Pan, Irwin King @ ECML-PKDD 2022
@@ -134,12 +134,12 @@ Marc T Law
 Marc T. Law, Jos Stam
 
 
-## 4. Applications
+## 3. Applications
 
 
-### 4.1 Hyperbolic Models for Recommender System (RS)
+### 3.1 Hyperbolic Models for Recommender System (RS)
 
-#### 4.1.1 Hyperbolic GNN for RS
+#### 3.1.1 Hyperbolic GNN for RS
 
 - [HICF: Hyperbolic Informative Collaborative Filtering](https://arxiv.org/abs/2207.09051), KDD 2022 \
 Menglin Yang, Zhihao Li, Min Zhou, Jiahong Liu, Irwin King
@@ -174,7 +174,7 @@ Naicheng Guo, Xiaolei Liu, Shaoshuai Li, Qiongxu Ma, Yunan Zhao, Bing Han, Lin Z
 - [Hyperbolic Hypergraphs for Sequential Recommendation](https://arxiv.org/abs/2108.08134), CIKM 2021 \
 Yicong Li, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu
 
-#### 4.1.2 Hyperbolic Shallow/NN models for RS
+#### 3.1.2 Hyperbolic Shallow/NN models for RS
 
 - [Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021 \
 Sixiao Zhang, Hongxu Chen, Xiao Ming, Lizhen Cui, Hongzhi Yin, Guandong Xu
@@ -195,9 +195,9 @@ Shanshan Feng , Lucas Vinh Tran , Gao Cong , Lisi Chen , Jing Li , Fan Li
 - [Node2LV: Squared Lorentzian Representations for Node Proximity](https://ieeexplore.ieee.org/document/9458940)， ICDE 2021 \
 Shanshan Feng, Lisi Chen, Kaiqi Zhao, Wei Wei, Fan Li, Shuo Shang
 
-### 4.2 Hyperbolic Moldes for Knowledge Graph (KG)
+### 3.2 Hyperbolic Moldes for Knowledge Graph (KG)
 
-#### 4.2.1 Hyperbolic GNN for KG
+#### 3.2.1 Hyperbolic GNN for KG
 
 - [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162), EMNLP 2020 \
 Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang
@@ -208,7 +208,7 @@ Shen Wang, Xiaokai Wei, Cicero Nogueira Dos Santos, Zhiguo Wang, Ramesh Nallapat
 - [Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf), WWW 2021 \
 Shen Wang , Xiaokai Wei , Cicero Nogueira Nogueira dos Santos , Zhiguo Wang , Ramesh Nallapati , Andrew Arnold , Bing Xiang , Philip S. Yu , Isabel F. Cruz
 
-#### 4.2.2 Hyperbolic  Shallow/NN models for KG
+#### 3.2.2 Hyperbolic  Shallow/NN models for KG
 
 - [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2005.00545), ACL 2019 \
 Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré
@@ -232,9 +232,9 @@ Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis
 - [Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction](https://aclanthology.org/2021.findings-emnlp.251/). EMNLP findings 2021 \
 Zhe Pan, Peng Wang
 
-### 4.3 Hyperbolic models for Molecular
+### 3.3 Hyperbolic models for Molecular
 
-#### 4.3.1 Hyperbolic GNN for Molecular
+#### 3.3.1 Hyperbolic GNN for Molecular
 
 - [Hyperbolic relational graph convolution networks plus: a simple but highly efficient QSAR-modeling method](https://academic.oup.com/bib/article-abstract/22/5/bbab112/6235968?redirectedFrom=fulltext), Briefings in Bioinformatics 2021 \
 Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Cao, Tingjun Hou
@@ -242,12 +242,12 @@ Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Ca
 - [Semi-supervised  hierarchical  drug  embedding  inhyperbolic space](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00681), J. Chem. Inf. Model 2020 \
 Ke Yu*, Shyam Visweswaran*, and Kayhan Batmanghelich
 
-#### 4.3.2 Hyperbolic Shallow/NN models for Molecular
+#### 3.3.2 Hyperbolic Shallow/NN models for Molecular
 
 - [HiG2Vec: hierarchical representations of Gene Ontology and genes in the Poincaré ball](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857?login=false), Bioinformatics, 2021 \
 Jaesik Kim, Dokyoon Kim, Kyung-Ah Sohn
 
-### 4.4 Hyperbolic Models for Dynamic Graph
+### 3.4 Hyperbolic Models for Dynamic Graph
 
 - [Discrete-time Temporal Network Embedding via Implicit Hierarchical Learning in Hyperbolic Space](https://arxiv.org/abs/2107.03767),  KDD 2021 \
 Menglin Yang, Min Zhou, Marcus Kalander, Zengfeng Huang, Irwin King
@@ -259,18 +259,13 @@ Li Sun, Zhongbao Zhang, Jiawei Zhang, Feiyang Wang, Hao Peng, Sen Su, Philip S. 
 Ramit Sawhney , Shivam Agarwal , Arnav Wadhwa , Rajiv Shah
 
 
-### 4.5 Hyperbolic Models for Code Representation
+### 3.5 Hyperbolic Models for Code Representation
 
 - [Hyperbolic Representations of Source Code](https://assets.amazon.science/55/d9/58097f0d41b886269b30e5c68522/hyperbolic-representations-of-source-code.pdf) AAAI 2022 \
 Raiyan Khan, Thanh V. Nguyen, Sengamedu H. Srinivasan
 
----
-Note: The following research works not limited to HGNNs but higly related to hyperbolic geometry.
-
----
-
-## 5 Hyperbolic Embeddings
-### 5.1 Hyperbolic Geometry for Heterogeneous Network Embedding
+## 4 Hyperbolic Embeddings
+### 4.1 Hyperbolic Geometry for Heterogeneous Network Embedding
 
 - [Hyperbolic Heterogeneous Information Network Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/4471),  AAAI 2020 \
 Xiao Wang, Yiding Zhang, Chuan Shi
@@ -279,7 +274,7 @@ Xiao Wang, Yiding Zhang, Chuan Shi
 Yiding Zhang, Xiao Wang, Nian Liu, Chuan Shi
 
 
-### 5.2 Hyperbolic Geometry for Directed Graph Embedding
+### 4.2 Hyperbolic Geometry for Directed Graph Embedding
 
 - [Hyperbolic Disk Embeddings for Directed Acyclic Graphs](https://arxiv.org/pdf/1902.04335.pdf)，ICML 2019 \
 Ryota Suzuki, Ryusuke Takahama, Shun Onoda
@@ -287,17 +282,17 @@ Ryota Suzuki, Ryusuke Takahama, Shun Onoda
 - [A hyperbolic Embedding Model for Directed Networks](https://arxiv.org/abs/1906.03597) \
 Zongning Wu, Zengru Di, Ying Fan (this paper includes many errors)
 
-### 5.3 Hyperbolic Geometry for Signed Graph Embedding
+### 4.3 Hyperbolic Geometry for Signed Graph Embedding
 
 - [Hyperbolic Node Embedding for Signed Networks](https://arxiv.org/abs/1910.13090), Neurcomputing 2021 \
 Wenzhuo Song, Hongxu Chen, Xueyan Liu, Hongzhe Jiang, Shengsheng Wang
 
-### 5.4 Hyperbolic Geometry for Attributed Graph Embedding
+### 4.4 Hyperbolic Geometry for Attributed Graph Embedding
 
 - [HEAT: Hyperbolic Embedding of Attributed Networks](https://arxiv.org/abs/1903.03036), IDEAL 2020 \
 David McDonald, Shan He
 
-### 5.5 Hyperbolic Geometry for Word Embedding
+### 4.5 Hyperbolic Geometry for Word Embedding
 
 - [Poincare Glove: Hyperbolic Word Embeddings](https://arxiv.org/abs/1810.06546), ICLR 2019 \
 Alexandru Tifrea and Gary Becigneul and Octavian-Eugen Gane
@@ -320,7 +315,7 @@ Pratik Jawanpuria, Mayank Meghwanshi, Bamdev Mishra
 - [Hyperbolic Multiplex Network Embedding with Maps of Random Walk](https://arxiv.org/abs/1912.08927) \
 Peiyuan Sun
 
-### 5.6 Hyperbolic Geometry for Multi-label Classification
+### 4.6 Hyperbolic Geometry for Multi-label Classification
 
 - [Hyperbolic interaction model for hierarchical multi-label classification](https://ojs.aaai.org/index.php/AAAI/article/view/6247), AAAI 2021 \
 Boli Chen, Xin Huang, Lin Xiao, Zixin Cai, Liping Jing
@@ -337,22 +332,37 @@ Tomaž StepišnikEmail, Dragi Kocev
 - [A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification](https://arxiv.org/abs/2010.02053), EMNLP findings \
 Federico López, Michael Strube
 
-## 6 Hyperbolic Baisc Operations
+## 5 Hyperbolic Operations
 
-- - [Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336), ICML 2020  \
+- Mean Computation and BatchNorm
+[Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335), ICML 2022 \
+Aaron Lou, Isay Katsman, Qingxuan Jiang, Serge Belongie, Ser-Nam Lim, Christopher De Sa
+
+
+- Normalizing Flow
+[Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336), ICML 2020  \
 Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton
 
-## 7 Hyperbolic Geometry for Computer Vision
+- Sampling
+[Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790), 2022 \
+Fernando Galaz-Garcia, Marios Papamichalis, Kathryn Turnbull, Simon Lunagomez, Edoardo Airoldi
 
-- [Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations](https://proceedings.neurips.cc/paper/2021/file/291d43c696d8c3704cdbe0a72ade5f6c-Paper.pdf) NeurIPS 2021 \
-Joy Hsu, Jeffrey Gu, Gong-Her Wu, Wah Chiu, Serena Yeung
+- MixUp
+HYPMIX: Hyperbolic Interpolative Data Augmentation(https://aclanthology.org/2021.emnlp-main.776/), EMNLP 2021 \
+Ramit Sawhney, Megh Thakkar, Shivam Agarwal, Di Jin, Diyi Yang, Lucie Flek
+
+- PCA
+HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections, ICML 2021 \
+Ines Chami, Albert Gu, Dat Nguyen, Christopher Ré
+
+
+## 6 Hyperbolic Geometry for Computer Vision
 
 - [Hyperbolic Image Segmentation](https://arxiv.org/abs/2203.05898), cvpr 2022 \
 Mina GhadimiAtigh, Julian Schoep, Erman Acar, Nanne van Noord, Pascal Mettes
 
-
-- [Mix Dimension in Poincaré Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/abs/10.1145/3394171.3413910), ACM MM 2020 \
-Wei Peng, Jingang Shi, Zhaoqiang Xia, Guoying Zhao
+- [Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations](https://proceedings.neurips.cc/paper/2021/file/291d43c696d8c3704cdbe0a72ade5f6c-Paper.pdf) NeurIPS 2021 \
+Joy Hsu, Jeffrey Gu, Gong-Her Wu, Wah Chiu, Serena Yeung
 
 - [Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf), ICCV 2021 \
 Zhi Gao, Yuwei Wu*, Yunde Jia, Mehrtash Harandi
@@ -360,20 +370,24 @@ Zhi Gao, Yuwei Wu*, Yunde Jia, Mehrtash Harandi
 - [Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision](https://arxiv.org/abs/2104.01257), CVPR 2021 \
 Zhenzhen Weng, Mehmet Giray Ogut, Shai Limonchik, Serena Yeung
 
+- [Mix Dimension in Poincaré Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/abs/10.1145/3394171.3413910), ACM MM 2020 \
+Wei Peng, Jingang Shi, Zhaoqiang Xia, Guoying Zhao
+
 - [Hyperbolic Image Embedding](https://arxiv.org/abs/1904.02239), CVPR 2020 \
 Valentin Khrulkov, Leyla Mirvakhabova, Evgeniya Ustinova, Ivan Oseledets, Victor Lempitsky
 
 - [Meta Hyperbolic Networks for Zero-Shot Learning](https://www.sciencedirect.com/science/article/pii/S0925231222003344), Neurocomputing \
 Yan Xu, Lifu Mu, ZhongJi, Xiyao Liu, JungongHan
 
-## 8 Hyperbolic Geometry for Natural Language Process
+## 7 Hyperbolic Geometry for Natural Language Process
 
 - [Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3404835.3463095). SIGIR short paper 2021 \
 Zheng Liu , Xiaohan Li , Zeyu You , Tao Yang , Wei Fan , Philip Yu
 
+- [ANTHEM: Attentive Hyperbolic Entity Model for Product Search](https://dl.acm.org/doi/10.1145/3488560.3498456). WSDM 2022 \
+Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K. Reddy
 
-
-## 9 Hyperbolic Metric Learning
+## 8 Hyperbolic Metric Learning
 
 - [Hyperbolic Busemann Learning with Ideal Prototypes](https://proceedings.neurips.cc/paper/2021/file/01259a0cb2431834302abe2df60a1327-Paper.pdf), NeurIPS 2021 \
 Mina Ghadimi Atigh, Martin Keller-Ressel, Pascal Mettes
@@ -381,27 +395,3 @@ Mina Ghadimi Atigh, Martin Keller-Ressel, Pascal Mettes
 
 - [Unsupervised Hyperbolic Metric Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Unsupervised_Hyperbolic_Metric_Learning_CVPR_2021_paper.pdf), CVPR 2021 \
 Jiexi Yan, Lei Luo, Cheng Deng, Heng Huang
-
-## Tools
-
-- [GraphZoo: A Development Toolkit for Graph Neural Networks with Hyperbolic Geometries](https://people.cs.vt.edu/~reddy/papers/WWW22d.pdf) WWW 2022 \
-Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy
-
-https://github.com/AnoushkaVyas/GraphZoo
-
-### TBA
-
-**sampling** Wrapped Distributions on homogeneous Riemannian manifolds
-
-**data argumentation** HYPMIX: Hyperbolic Interpolative Data Augmentation
-
-
-HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections, ICML 2021
-http://proceedings.mlr.press/v139/chami21a/chami21a.pdf
-
-Ines Chami* Albert Gu* Dat Nguyen* Christopher Re´
-
-ANTHEM: Attentive Hyperbolic Entity Model for Product Search, WSDM 2022
-https://dl.acm.org/doi/10.1145/3488560.3498456
-
-Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K. Reddy
