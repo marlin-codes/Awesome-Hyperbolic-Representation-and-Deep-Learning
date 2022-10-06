@@ -78,11 +78,11 @@ Currently, we are holding a paper reading (closed) meeting related to hyperbolic
 
 ### [Surveys](#content)
 
-1. [Hyperbolic Graph Neural Networks: A Review of Methods and Application](https://arxiv.org/abs/2202.13852), arxiv 2022.\ 
+1. [Hyperbolic Graph Neural Networks: A Review of Methods and Application](https://arxiv.org/abs/2202.13852), arxiv 2022.
 [GitHub](https://github.com/marlin-codes/HGNNs) \
 *Menglin Yang, Min Zhou, Zhihao Li, Jiahong Liu, Lujia Pan, Hui Xiong, Irwin King*
 
-1. [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562), TPAMI 2022. \
+1. [Hyperbolic Deep Neural Networks: A Survey](https://arxiv.org/abs/2101.04562), TPAMI 2022.
 [GitHub](https://github.com/xiaoiker/Awesome-Hyperbolic-NeuralNetworks) \
 *Wei Peng, Tuomas Varanka, Abdelrahman Mostafa, Henglin Shi, Guoying Zhao*
 
@@ -96,8 +96,15 @@ Brice Loustau
 
 ### [Tools](#content)
 
-1. [GraphZoo: A Development Toolkit for Graph Neural Networks with Hyperbolic Geometries](https://people.cs.vt.edu/~reddy/papers/WWW22d.pdf) WWW 2022 \
+1. [Geoopt: Riemannian Adaptive Optimization Methods](https://github.com/geoopt/geoopt) ICLR 2019 \
+*Max Kochurov and Rasul Karimov and Serge Kozlukov*
+
+1. [Curvature Learning Framework](https://github.com/alibaba/Curvature-Learning-Framework) \
+Alibaba
+
+1. [GraphZoo: A Development Toolkit for Graph Neural Networks with Hyperbolic Geometries](https://github.com/AnoushkaVyas/GraphZoo) WWW 2022 \
 *Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy*
+
 
 ### [Tutorials](#content)
 
@@ -410,12 +417,20 @@ HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections, ICML
 
 
 ### [Computer Vision](#content)
+1. [Hyperbolic Vision Transformers: Combining Improvements in Metric Learning](https://arxiv.org/abs/2203.10833),cvpr 2022 \
+*Aleksandr Ermolov, Leyla Mirvakhabova, Valentin Khrulkov, Nicu Sebe, Ivan Oseledets*
+
+1. [Clipped Hyperbolic Classifiers Are Super-Hyperbolic Classifiers](https://arxiv.org/abs/2107.11472), cvpr 2022 \
+*Yunhui Guo, Xudong Wang, Yubei Chen, Stella X. Yu*
 
 1. [Hyperbolic Image Segmentation](https://arxiv.org/abs/2203.05898), cvpr 2022 \
 *Mina GhadimiAtigh, Julian Schoep, Erman Acar, Nanne van Noord, Pascal Mettes*
 
 1. [Capturing implicit hierarchical structure in 3D biomedical images with self-supervised hyperbolic representations](https://proceedings.neurips.cc/paper/2021/file/291d43c696d8c3704cdbe0a72ade5f6c-Paper.pdf) NeurIPS 2021 \
 *Joy Hsu, Jeffrey Gu, Gong-Her Wu, Wah Chiu, Serena Yeung*
+
+1. [Learning Hyperbolic Representations of Topological Features](https://arxiv.org/abs/2103.09273) ICLR 2021\
+*Panagiotis Kyriakis, Iordanis Fostiropoulos, Paul Bogdan*
 
 1. [Curvature Generation in Curved Spaces for Few-Shot Learning](https://openaccess.thecvf.com/content/ICCV2021/papers/Gao_Curvature_Generation_in_Curved_Spaces_for_Few-Shot_Learning_ICCV_2021_paper.pdf), ICCV 2021 \
 *Zhi\* Gao, Yuwei Wu\*, Yunde Jia, Mehrtash Harandi*
