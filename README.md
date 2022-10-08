@@ -207,11 +207,11 @@ Alibaba
 *Fernando Galaz-Garcia, Marios Papamichalis, Kathryn Turnbull, Simon Lunagomez, Edoardo Airoldi*
 
 1. MixUp \
-HYPMIX: Hyperbolic Interpolative Data Augmentation(https://aclanthology.org/2021.emnlp-main.776/), EMNLP 2021 \
+[HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776/), EMNLP 2021 \
 *Ramit Sawhney, Megh Thakkar, Shivam Agarwal, Di Jin, Diyi Yang, Lucie Flek*
 
 1. PCA \
-HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections, ICML 2021 \
+[HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections](https://arxiv.org/abs/2106.03306), ICML 2021 \
 *Ines Chami\*, Albert Gu\*, Dat Nguyen, Christopher Ré*
 
 ## [Applications](#content)
