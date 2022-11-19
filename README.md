@@ -57,6 +57,7 @@ Currently, we are holding a paper reading (closed) meeting related to hyperbolic
 
 ## [Latest update](#content)
 
+1. [CO-SNE: Dimensionality Reduction and Visualization for Hyperbolic Data](https://arxiv.org/abs/2111.15037) for embedding visualization, CVPR 2022
 
 1. [HICF: Hyperbolic Informative Collaborative Filtering](https://arxiv.org/abs/2207.09051) for recommender systems, KDD 2022
 
