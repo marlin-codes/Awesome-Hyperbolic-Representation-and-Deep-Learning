@@ -59,6 +59,9 @@ Hyperbolic Machine Learning Groups:
 
 
 ## [Latest update](#content)
+1. [FFHR: Fully and Flexible Hyperbolic
+Representation for Knowledge Graph
+Completion](https://arxiv.org/pdf/2302.04088.pdf)
 
 1. [Dimensionality Selection for Hyperbolic Embeddings using Decomposed Normalized Maximum Likelihood Code-Length](https://www.researchsquare.com/article/rs-2550932/v1)
 
