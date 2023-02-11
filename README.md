@@ -55,21 +55,25 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 ## [Latest update](#content)
 
+1. [Dimensionality Selection for Hyperbolic Embeddings using Decomposed Normalized Maximum Likelihood Code-Length](https://www.researchsquare.com/article/rs-2550932/v1)
+
+1. [Hyperbolic Contrastive Learning](https://arxiv.org/pdf/2302.01409.pdf)
+
 1. [CO-SNE: Dimensionality Reduction and Visualization for Hyperbolic Data](https://arxiv.org/abs/2111.15037) for embedding visualization, CVPR 2022
 
-1. [HICF: Hyperbolic Informative Collaborative Filtering](https://arxiv.org/abs/2207.09051) for recommender systems, KDD 2022
+2. [HICF: Hyperbolic Informative Collaborative Filtering](https://arxiv.org/abs/2207.09051) for recommender systems, KDD 2022
 
-1. [HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) for clustering, KDD 2022
+3. [HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) for clustering, KDD 2022
 
-1. [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling, arxiv 2022
+4. [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling, arxiv 2022
 
-1. [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2205.02618) for clustering, IJCAI 2022
+5. [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2205.02618) for clustering, IJCAI 2022
 
-1. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://arxiv.org/abs/2205.02047) for key phrases matching, Naacl 2022
+6. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://arxiv.org/abs/2205.02047) for key phrases matching, Naacl 2022
 
-1. [Cross-lingual Word Embeddings in Hyperbolic Space](https://arxiv.org/abs/2205.01907) for word embedding, arxiv 2022
+7. [Cross-lingual Word Embeddings in Hyperbolic Space](https://arxiv.org/abs/2205.01907) for word embedding, arxiv 2022
 
-1. [Geometry Interaction Knowledge Graph Embeddings](https://www.aaai.org/AAAI22Papers/AAAI-11284.CaoZ.pdf) for KG embedding, AAAI 2022
+8. [Geometry Interaction Knowledge Graph Embeddings](https://www.aaai.org/AAAI22Papers/AAAI-11284.CaoZ.pdf) for KG embedding, AAAI 2022
 
 
 ## [Surveys, Books, Tools, Tutorials](#content)
