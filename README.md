@@ -1,5 +1,5 @@
 Contributed by: Menglin Yang, Min Zhou
-
+  
 ## Introduction
 
 Recently, hyperbolic spaces have emerged as a promising alternative for processing graph data with tree-like structure or power-law distribution, owing to its exponential growth property. Different from the Euclidean space which expands polynomially, the hyperbolic space grows exponentially which makes it gains natural advantages in abstracting tree-like or scale-free graphs with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with latest research developments. We are aware that there will inevitable be some mistakes and oversights, so if you have any questions and suggestions, please feel free to contact us (mlyang@link.cuhk.edu.hk). 
@@ -52,6 +52,11 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
     <td>&ensp;<a href="#natural-language-processing">4.9 Natural Language Processing</a></td>
 </tr>
 </table>
+
+Hyperbolic Machine Learning Groups:
+- Telegram: https://t.me/+xCX3OG-7pw5iYjdl
+- Wechat: mlwexin (Please add notes: hyperbolic)
+
 
 ## [Latest update](#content)
 
@@ -110,11 +115,15 @@ Alibaba
 
 ### [Tutorials](#content)
 
-1. [Hyperbolic Graph Representation Learning](https://hyperbolicgraphlearning.github.io/). Tutorial 2022 \
+1. [Hyperbolic Representation Learning for Computer Vision](https://sites.google.com/view/hyperbolic-tutorial-eccv22/homepage). Tutorial 2022 \
+*Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressel, Jeffrey Gu, Serena Yeung@ECCV2022* \
+https://hyperbolic-representation-learning.readthedocs.io/en/latest/
+
+2. [Hyperbolic Graph Representation Learning](https://hyperbolicgraphlearning.github.io/). Tutorial 2022 \
 *Min Zhou, Menglin Yang, Lujia Pan, Irwin King @ ECML-PKDD 2022*
 
 1. [Hyperbolic Neural Network](https://nurendra.me/hyperbolic-networks-tutorial/kdd-2022/). Tutorial 2022 \
-*Nurendra Choudhary, Nikhil Rao, ‪Karthik Subbian, Srinivasan Sengamedu, Chandan Reddy @ KDD 2022*
+*Nurendra Choudhary, Nikhil Rao, Karthik Subbian, Srinivasan Sengamedu, Chandan Reddy @ KDD 2022*
 
 1. [Hyperbolic Hyperbolic embeddings in machine learning and deep learning](https://www.youtube.com/watch?v=-ksbWExpWis). Tutorial 2020 \
 *Octavian Ganea 2020.*
