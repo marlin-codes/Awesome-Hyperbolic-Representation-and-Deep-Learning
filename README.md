@@ -1,5 +1,3 @@
-Contributed by: Menglin Yang, Min Zhou
-  
 ## Introduction
 
 Recently, hyperbolic spaces have emerged as a promising alternative for processing graph data with tree-like structure or power-law distribution, owing to its exponential growth property. Different from the Euclidean space which expands polynomially, the hyperbolic space grows exponentially which makes it gains natural advantages in abstracting tree-like or scale-free graphs with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with latest research developments. We are aware that there will inevitable be some mistakes and oversights, so if you have any questions and suggestions, please feel free to contact us (mlyang@link.cuhk.edu.hk). 
@@ -480,3 +478,5 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 
 1. [Unsupervised Hyperbolic Metric Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Unsupervised_Hyperbolic_Metric_Learning_CVPR_2021_paper.pdf), CVPR 2021 \
 *Jiexi Yan, Lei Luo, Cheng Deng, Heng Huang*
+
+Contributed by: Menglin Yang, Min Zhou
