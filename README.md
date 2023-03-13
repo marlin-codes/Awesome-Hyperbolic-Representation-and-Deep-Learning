@@ -52,8 +52,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 </table>
 
 Hyperbolic Machine Learning Groups:
-- Telegram: https://t.me/+xCX3OG-7pw5iYjdl
-- Wechat: mlwexin (Please add notes: hyperbolic)
+- Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
 ## [Latest update](#content)
