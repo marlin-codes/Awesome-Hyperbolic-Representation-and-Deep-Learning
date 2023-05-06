@@ -1,6 +1,6 @@
 ## Introduction
 
-Recently, hyperbolic spaces have emerged as a promising alternative for processing graph data with tree-like structure or power-law distribution, owing to its exponential growth property. Different from the Euclidean space which expands polynomially, the hyperbolic space grows exponentially which makes it gains natural advantages in abstracting tree-like or scale-free graphs with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with latest research developments. We are aware that there will inevitable be some mistakes and oversights, so if you have any questions and suggestions, please feel free to contact us (mlyang@link.cuhk.edu.hk). 
+Recently, hyperbolic spaces have emerged as a promising alternative for processing data with tree-like structure or power-law distribution, owing to its exponential growth property. Different from the Euclidean space which expands polynomially, the hyperbolic space grows exponentially which makes it gains natural advantages in abstracting tree-like or scale-free data with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with latest research developments. We are aware that there will inevitable be some mistakes and oversights, so if you have any questions and suggestions, please feel free to contact us (menglinyang.ac@gmail.com). 
 
 
 <table>
@@ -56,33 +56,12 @@ Hyperbolic Machine Learning Groups:
 
 
 ## [Latest update](#content)
+1. [Poincaré ResNet](https://arxiv.org/abs/2303.14027), arxiv 2023 \
+*Max van Spengler, Erwin Berkhout, Pascal Mettes*
 
-1. [Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering](https://arxiv.org/abs/2302.04545)
-
-2. [FFHR: Fully and Flexible Hyperbolic
-Representation for Knowledge Graph
-Completion](https://arxiv.org/pdf/2302.04088.pdf)
-
-3. [Dimensionality Selection for Hyperbolic Embeddings using Decomposed Normalized Maximum Likelihood Code-Length](https://www.researchsquare.com/article/rs-2550932/v1)
-
-4. [Hyperbolic Contrastive Learning](https://arxiv.org/pdf/2302.01409.pdf)
-
-5. [CO-SNE: Dimensionality Reduction and Visualization for Hyperbolic Data](https://arxiv.org/abs/2111.15037) for embedding visualization, CVPR 2022
-
-6. [HICF: Hyperbolic Informative Collaborative Filtering](https://arxiv.org/abs/2207.09051) for recommender systems, KDD 2022
-
-7. [HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) for clustering, KDD 2022
-
-8. [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling, arxiv 2022
-
-9. [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2205.02618) for clustering, IJCAI 2022
-
-10. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://arxiv.org/abs/2205.02047) for key phrases matching, Naacl 2022
-
-11. [Cross-lingual Word Embeddings in Hyperbolic Space](https://arxiv.org/abs/2205.01907) for word embedding, arxiv 2022
-
-12. [Geometry Interaction Knowledge Graph Embeddings](https://www.aaai.org/AAAI22Papers/AAAI-11284.CaoZ.pdf) for KG embedding, AAAI 2022
-
+1. [Hyperbolic Representation Learning for Computer Vision](https://sites.google.com/view/hyperbolic-tutorial-eccv22/homepage). Tutorial 2022 \
+*Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressel, Jeffrey Gu, Serena Yeung@ECCV2022* \
+https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 
 ## [Surveys, Books, Tools, Tutorials](#content)
 
@@ -158,6 +137,8 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112), NeurIPS 2018 \
 *Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann*
 
+1. [Poincaré ResNet](https://arxiv.org/abs/2303.14027), arxiv 2023 \
+*Max van Spengler, Erwin Berkhout, Pascal Mettes*
 
 ### [Hyperbolic Graph Neural Network](#content)
 
@@ -195,6 +176,8 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076), ICML 2020 \
 *Gregor Bachmann, Gary Bécigneul, Octavian-Eugen Ganea*
 
+1. [FMGNN: Fused Manifold Graph Neural Network](https://arxiv.org/abs/2304.01081), Arxiv 2023 \
+*Cheng Deng, Fan Xu, Jiaxing Ding, Luoyi Fu, Weinan Zhang, Xinbing Wang*
 
 ### [Ultrahyperbolic Learning](#content)
 
@@ -269,6 +252,12 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [Hyperbolic Hypergraphs for Sequential Recommendation](https://arxiv.org/abs/2108.08134), CIKM 2021 \
 *Yicong Li, Hongxu Chen, Xiangguo Sun, Zhenchao Sun, Lin Li, Lizhen Cui, Philip S. Yu, Guandong Xu*
 
+1. [HGCC: Enhancing Hyperbolic Graph Convolution Networks on Heterogeneous Collaborative Graph for Recommendation](https://arxiv.org/abs/2304.02961), arxiv 2022 \
+*Lu Zhang, Ning Wu*
+
+1. [Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering](https://arxiv.org/abs/2302.04545), arxiv 2023 \
+   *Bosong Huang, Weihao Yu, Ruzhong Xie, Jing Xiao, Jin Huang*
+
 #### [Hyperbolic Neural Network for Recommender Systems](#content)
 
 1. [Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021 \
@@ -292,7 +281,7 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 
 ### [Knowledge Graphs](#content)
 
-#### [Hyperbolic Graph Neural Network for Knowledge Graphs](#content)
+#### [GNN-based Knowledge Graphs](#content)
 
 1. [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162), EMNLP 2020 \
 *Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang*
@@ -303,9 +292,12 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf), WWW 2021 \
 *Shen Wang , Xiaokai Wei , Cicero Nogueira Nogueira dos Santos , Zhiguo Wang , Ramesh Nallapati , Andrew Arnold , Bing Xiang , Philip S. Yu , Isabel F. Cruz*
 
-#### [Hyperbolic Translational Models for KG](#content)
+#### [Non-GNN based KG](#content)
 
-1. [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2005.00545), ACL 2019 \
+1. [Geometry Interaction Knowledge Graph Embeddings](https://arxiv.org/abs/2206.12418) for KG embedding, AAAI 2022 \
+   *Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang*
+
+2. [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2005.00545), ACL 2019 \
 *Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré*
 
 1. [Multi-relational Poincaré Graph Embeddings](https://arxiv.org/abs/1905.09791), NeurIPS 2019 \
@@ -327,9 +319,15 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction](https://aclanthology.org/2021.findings-emnlp.251/). EMNLP findings 2021 \
 *Zhe Pan, Peng Wang*
 
+1. [FFHR: Fully and Flexible Hyperbolic
+Representation for Knowledge Graph
+Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
+*Wentao Shi, Junkang Wu, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Wei Wu, Xiangnan He*
+   
+
 ### [Molecular Learning](#content)
 
-#### [Hyperbolic Graph Neural Network for Molecular Learning](#content)
+#### [GNN-based Molecular Learning](#content)
 
 1. [Hyperbolic relational graph convolution networks plus: a simple but highly efficient QSAR-modeling method](https://academic.oup.com/bib/article-abstract/22/5/bbab112/6235968?redirectedFrom=fulltext), Briefings in Bioinformatics 2021 \
 *Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Cao, Tingjun Hou*
@@ -337,7 +335,7 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [Semi-supervised  hierarchical  drug  embedding  inhyperbolic space](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00681), J. Chem. Inf. Model 2020 \
 *Ke Yu\*, Shyam Visweswaran\*, and Kayhan Batmanghelich*
 
-#### [Hyperbolic Neural Network models for Molecular Learning](#content)
+#### [Non-GNN based for Molecular Learning](#content)
 
 1. [HiG2Vec: hierarchical representations of Gene Ontology and genes in the Poincaré ball](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857?login=false), Bioinformatics, 2021 \
 *Jaesik Kim, Dokyoon Kim, Kyung-Ah Sohn*
@@ -428,8 +426,16 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification](https://arxiv.org/abs/2010.02053), EMNLP findings \
 *Federico López, Michael Strube*
 
+1.  [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://arxiv.org/abs/2205.02047) for key phrases matching, Naacl 2022 \
+*Mingyang Song, Yi Feng, Liping Jing*
+
+1.  [Cross-lingual Word Embeddings in Hyperbolic Space](https://arxiv.org/abs/2205.01907) for word embedding, arxiv 2022
+   *Chandni Saxena, Mudit Chaudhary, Helen Meng*
 
 ### [Computer Vision](#content)
+1. [HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion](https://arxiv.org/abs/2304.00932), CVPR 2023 \
+*Sijie Wang, Qiyu Kang, Rui She, Wei Wang, Kai Zhao, Yang Song, Wee Peng Tay*
+
 1. [Hyperbolic Vision Transformers: Combining Improvements in Metric Learning](https://arxiv.org/abs/2203.10833),CVPR 2022 \
 *Aleksandr Ermolov, Leyla Mirvakhabova, Valentin Khrulkov, Nicu Sebe, Ivan Oseledets*
 
@@ -463,6 +469,9 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 1. [Meta Hyperbolic Networks for Zero-Shot Learning](https://www.sciencedirect.com/science/article/pii/S0925231222003344), Neurocomputing \
 *Yan Xu, Lifu Mu, ZhongJi, Xiyao Liu, JungongHan*
 
+1. [Poincaré ResNet](https://arxiv.org/abs/2303.14027), arxiv 2023 \
+*Max van Spengler, Erwin Berkhout, Pascal Mettes*
+
 ### [Natural Language Processing](#content)
 
 1. [Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3404835.3463095). SIGIR short paper 2021 \
@@ -472,12 +481,31 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 *Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K. Reddy*
 
 ### [Hyperbolic Metric Learning](#content)
+1. [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2205.02618) for clustering, IJCAI 2022 \
+   *Fangfei Lin, Bing Bai, Kun Bai, Yazhou Ren, Peng Zhao, Zenglin Xu*
+
 
 1. [Hyperbolic Busemann Learning with Ideal Prototypes](https://proceedings.neurips.cc/paper/2021/file/01259a0cb2431834302abe2df60a1327-Paper.pdf), NeurIPS 2021 \
 *Mina Ghadimi Atigh, Martin Keller-Ressel, Pascal Mettes*
 
-
 1. [Unsupervised Hyperbolic Metric Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Yan_Unsupervised_Hyperbolic_Metric_Learning_CVPR_2021_paper.pdf), CVPR 2021 \
 *Jiexi Yan, Lei Luo, Cheng Deng, Heng Huang*
+
+1. [Hyperbolic Contrastive Learning](https://arxiv.org/abs/2302.01409), arxiv \
+*Yun Yue, Fangzhou Lin, Kazunori D Yamada, Ziming Zhang*
+   
+### Open Problems
+
+1. [Dimensionality Selection for Hyperbolic Embeddings using Decomposed Normalized Maximum Likelihood Code-Length](https://www.researchsquare.com/article/rs-2550932/v1), arxiv 2023 \
+*Ryo Yuki, Yuichi Ike, Kenji Yamanishi*
+ 
+1. [CO-SNE: Dimensionality Reduction and Visualization for Hyperbolic Data](https://arxiv.org/abs/2111.15037) for embedding visualization, CVPR 2022 \
+*Yunhui Guo, Haoran Guo, Stella Yu*
+   
+1. [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling, arxiv 2022 \
+   *Fernando Galaz-Garcia, Marios Papamichalis, Kathryn Turnbull, Simon Lunagomez, Edoardo Airoldi*
+1. [HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) for clustering, KDD 2022
+*Eli Chien, Puoya Tabaghi, Olgica Milenkovic*
+
 
 Contributed by: Menglin Yang, Min Zhou
