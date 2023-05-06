@@ -57,24 +57,32 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest update](#content)
-1. [NeurIPS 2022 Oral (Spotlight)] Public Wisdom Matters! Discourse-Aware Hyperbolic Fourier Co-Attention for Social-Text Classification
+1.  [Public Wisdom Matters! Discourse-Aware Hyperbolic Fourier Co-Attention for Social-Text Classification](https://arxiv.org/abs/2209.13017),  NeurIPS 2022 Oral (Spotlight) \
+K Grover, SM Angara, M Akhtar, T Chakraborty
 
-1. ICLR 21 paper: Probing BERT in Hyperbolic Spaces
+3. [Rethinking the compositionality of point clouds through regularization in the hyperbolic space](https://arxiv.org/abs/2209.10318) (NeurIPS 2022) \
+   Antonio Montanaro, Diego Valsesia, Enrico Magli
 
-1. Rethinking the compositionality of point clouds through regularization in the hyperbolic space (NeurIPS 2022)
+2. [Probing BERT in Hyperbolic Spaces](https://arxiv.org/abs/2104.03869). ICLR 2021 \
+   Boli Chen, Yao Fu, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jing
 
-1. A Quadtree for Hyperbolic Space
+4. [A Quadtree for Hyperbolic Space](https://arxiv.org/abs/2305.01356), arxiv 2023 \
+    Sándor Kisfaludi-Bak, Geert van Wordragen
 
-1. HISum: Hyperbolic Interaction Model for Extractive Multi-Document Summarization (WWW 2023)
+5. [HISum: Hyperbolic Interaction Model for Extractive Multi-Document Summarization](https://dl.acm.org/doi/10.1145/3543507.3583197), WWW 2023 \
+    Mingyang Song,  Yi Feng,  Liping Jing
 
-1. Enhancing Hierarchy-Aware Graph Networks with Deep Dual Clustering for Session-based Recommendation（WWW 2023）
+6. [Enhancing Hierarchy-Aware Graph Networks with Deep Dual Clustering for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3543507.3583247), WWW 2023 \
+   Jiajie Su, Chaochao Chen, Weiming Liu, Fei Wu, Xiaolin Zheng, Haoming Lyu
 
-1. SINCERE: Sequential Interaction Networks representation learning on Co-Evolving RiEmannian manifolds
+7. [SINCERE: Sequential Interaction Networks representation learning on Co-Evolving RiEmannian manifolds](https://dl.acm.org/doi/abs/10.1145/3543507.3583353), WWW 2023 \
+   Junda Ye, Zhongbao Zhang, Li Sun, Yang Yan, Feiyang Wang, Fuxin Ren
 
-1. Leveraging Hierarchical Representations for Preserving Privacy and Utility in Text
+8. [Leveraging Hierarchical Representations for Preserving Privacy and Utility in Text](https://arxiv.org/abs/1910.08917), ICDM 2019
+   Oluwaseyi Feyisetan, Tom Diethe, Thomas Drake
 
 
-2. [Poincaré ResNet](https://arxiv.org/abs/2303.14027), arxiv 2023 \
+9. [Poincaré ResNet](https://arxiv.org/abs/2303.14027), arxiv 2023 \
 *Max van Spengler, Erwin Berkhout, Pascal Mettes*
 
 1. [Hyperbolic Representation Learning for Computer Vision](https://sites.google.com/view/hyperbolic-tutorial-eccv22/homepage). Tutorial 2022 \
