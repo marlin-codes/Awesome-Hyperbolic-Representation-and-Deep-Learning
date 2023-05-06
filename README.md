@@ -51,12 +51,30 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 </tr>
 </table>
 
-Hyperbolic Machine Learning Groups:
+
+**Hyperbolic Machine Learning Groups**
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
 ## [Latest update](#content)
-1. [Poincaré ResNet](https://arxiv.org/abs/2303.14027), arxiv 2023 \
+1. [NeurIPS 2022 Oral (Spotlight)] Public Wisdom Matters! Discourse-Aware Hyperbolic Fourier Co-Attention for Social-Text Classification
+
+1. ICLR 21 paper: Probing BERT in Hyperbolic Spaces
+
+1. Rethinking the compositionality of point clouds through regularization in the hyperbolic space (NeurIPS 2022)
+
+1. A Quadtree for Hyperbolic Space
+
+1. HISum: Hyperbolic Interaction Model for Extractive Multi-Document Summarization (WWW 2023)
+
+1. Enhancing Hierarchy-Aware Graph Networks with Deep Dual Clustering for Session-based Recommendation（WWW 2023）
+
+1. SINCERE: Sequential Interaction Networks representation learning on Co-Evolving RiEmannian manifolds
+
+1. Leveraging Hierarchical Representations for Preserving Privacy and Utility in Text
+
+
+2. [Poincaré ResNet](https://arxiv.org/abs/2303.14027), arxiv 2023 \
 *Max van Spengler, Erwin Berkhout, Pascal Mettes*
 
 1. [Hyperbolic Representation Learning for Computer Vision](https://sites.google.com/view/hyperbolic-tutorial-eccv22/homepage). Tutorial 2022 \
