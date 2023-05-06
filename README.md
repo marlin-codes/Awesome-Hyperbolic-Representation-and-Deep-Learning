@@ -533,5 +533,3 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 1. [HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) for clustering, KDD 2022
 *Eli Chien, Puoya Tabaghi, Olgica Milenkovic*
 
-
-Contributed by: Menglin Yang, Min Zhou
