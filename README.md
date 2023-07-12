@@ -522,7 +522,7 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 1. [Hyperbolic Contrastive Learning](https://arxiv.org/abs/2302.01409), arxiv \
 *Yun Yue, Fangzhou Lin, Kazunori D Yamada, Ziming Zhang*
    
-### Open Problems
+### Data-driven Geometry Learning
 
 1. [Dimensionality Selection for Hyperbolic Embeddings using Decomposed Normalized Maximum Likelihood Code-Length](https://www.researchsquare.com/article/rs-2550932/v1), arxiv 2023 \
 *Ryo Yuki, Yuichi Ike, Kenji Yamanishi*
@@ -532,6 +532,15 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
    
 1. [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790)  for hyperbolic sampling, arxiv 2022 \
    *Fernando Galaz-Garcia, Marios Papamichalis, Kathryn Turnbull, Simon Lunagomez, Edoardo Airoldi*
-1. [HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) for clustering, KDD 2022
+1. [HyperAid: Denoising in hyperbolic spaces for tree-fitting and hierarchical clustering](https://arxiv.org/abs/2205.09721) for clustering, KDD 2022 \
 *Eli Chien, Puoya Tabaghi, Olgica Milenkovic*
+
+1. [Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](https://openreview.net/forum?id=yoLGaLPEPo_) NeurIPS 2022 \
+Zhi Gao, Yuwei Wu, Yunde Jia, Mehrtash Harandi
+
+1. [Exploring Data Geometry for Continual Learning](https://arxiv.org/abs/2304.03931) CVPR 2023 \
+Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu
+
+1. [Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data](https://ieeexplore.ieee.org/abstract/document/9749838), TPAMI \
+Gao, Zhi, Yuwei Wu, Mehrtash Harandi, and Yunde Jia
 
