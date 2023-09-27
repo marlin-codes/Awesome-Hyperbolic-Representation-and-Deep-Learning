@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Recently, hyperbolic spaces have emerged as a promising alternative for processing data with tree-like structure or power-law distribution, owing to its exponential growth property. Different from the Euclidean space which expands polynomially, the hyperbolic space grows exponentially which makes it gains natural advantages in abstracting tree-like or scale-free data with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with latest research developments. We are aware that there will inevitable be some mistakes and oversights, so if you have any questions and suggestions, please feel free to contact us (mlyang.cuhk@outlook.com). 
+Recently, hyperbolic spaces have emerged as a promising alternative for processing data with tree-like structure or power-law distribution, owing to its exponential growth property. Different from the Euclidean space which expands polynomially, the hyperbolic space grows exponentially which makes it gains natural advantages in abstracting tree-like or scale-free data with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with latest research developments. We are aware that there will inevitable be some mistakes and oversights, so if you have any questions and suggestions, please feel free to contact us (menglin.yang@outlook.com). 
 
 
 <table>
