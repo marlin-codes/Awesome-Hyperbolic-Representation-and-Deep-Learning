@@ -60,17 +60,21 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 ## [Latest update by Nov 25, 2023](#content)
 
+1. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
+    Seunghyuk Cho, Juyong Lee, Dongwoo Kim
+1. [Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels](https://arxiv.org/abs/2311.11019), NeurIPS, 2023 \
+    Shu-Lin Xu, Yifan Sun, Faen Zhang, Anqi Xu, Xiu-Shen Wei, Yi Yang
 1. [Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach](https://arxiv.org/abs/2310.18918), NeurIPS 2023 \
 Nurendra Choudhary, Nikhil Rao, Chandan K. Reddy
-
+1. [Fitting trees to $\ell_1$-hyperbolic distances](https://openreview.net/forum?id=xo2lbfQE8I), NeurIPS 2023 \
+   Joon-Hyeok Yim, Anna Gilbert
 1. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://arxiv.org/abs/2311.00462v2), arxiv 2023 \
     Heng Dong, Junyu Zhang, Chongjie Zhang
 1. [Alignment and Outer Shell Isotropy for Hyperbolic Graph Contrastive Learning](https://arxiv.org/abs/2310.18209v1), arxiv 2023 \
    Yifei Zhang, Hao Zhu, Jiahong Liu, Piotr Koniusz, Irwin King
 1. [Riemannian Residual Neural Networks](https://arxiv.org/abs/2310.10013), arxiv 2023 \
    Isay Katsman, Eric Ming Chen, Sidhanth Holalkere, Anna Asch, Aaron Lou, Ser-Nam Lim, Christopher De Sa
-1. [Fitting trees to $\ell_1$-hyperbolic distances](https://openreview.net/forum?id=xo2lbfQE8I), NeurIPS 2023
-   Joon-Hyeok Yim, Anna Gilbert
+
 
 ## [Surveys, Books, Tools, Tutorials](#content)
 
@@ -141,10 +145,10 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 
 ### [Hyperbolic Shallow Model](#content)
 
-1. [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417), ICML 2018 \
+1. [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), NeurIPS 2017 \
 *Maximilian Nickel, Douwe Kiela*
 
-1. [Poincaré Embeddings for Learning Hierarchical Representations](https://arxiv.org/abs/1705.08039), NeurIPS 2017 \
+1. [Learning Continuous Hierarchies in the Lorentz Model of Hyperbolic Geometry](https://arxiv.org/abs/1806.03417), ICML 2018 \
 *Maximilian Nickel, Douwe Kiela*
 
 1. [Representation Tradeoffs for Hyperbolic Embeddings](https://arxiv.org/pdf/1804.03329.pdf), ICML 2018 \
