@@ -29,8 +29,11 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
     <td>&ensp;<a href="#ultrahyperbolic-learning">3.5 Ultrahyperbolic Learning</a></td>
     <td>&ensp;<a href="#hyperbolic-operations">3.6 Hyperbolic Operations</a></td>
 </tr> 
+<tr>
+    <td>&ensp;<a href="#hyperbolic-generation-models">3.7 Hyperbolic Generation Models</a></td>
+    <td>&ensp;</td>
+</tr>
 <tr><td colspan="2"><a href="#applications", p style="color:#B22222">4. Applications</a></td></tr> 
-
 <tr>
     <td>&ensp;<a href="#recommender-systems">4.1 Recommender Systems</a></td>
     <td>&ensp;<a href="#knowledge-graphs">4.2 Knowledge Graphs</a></td>
@@ -40,39 +43,43 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
     <td>&ensp;<a href="#dynamic-graphs">4.4 Dynamic Graphs</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#code-representation">4.4 Code Representation</a></td>
-    <td>&ensp;<a href="#graph-embeddings">4.5 Graph Embedding</a></td>
+    <td>&ensp;<a href="#code-representation">4.5 Code Representation</a></td>
+    <td>&ensp;<a href="#graph-embeddings">4.6 Graph Embedding</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="#word-embeddings">4.6 Word Embedding</a></td>
-    <td>&ensp;<a href="#multi-label-learning">4.7 Multi-label Learning</a></td>
+    <td>&ensp;<a href="#word-embeddings">4.7 Word Embedding</a></td>
+    <td>&ensp;<a href="#multi-label-learning">4.8 Multi-label Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#computer-vision">4.8 Computer Vision</a></td>
-    <td>&ensp;<a href="#natural-language-processing">4.9 Natural Language Processing</a></td>
+    <td>&ensp;<a href="#computer-vision">4.9 Computer Vision</a></td>
+    <td>&ensp;<a href="#natural-language-processing">4.10 Natural Language Processing</a></td>
 </tr>
 </table>
+
+
 
 
 **Hyperbolic Learning Groups**
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
-## [Latest update by Nov 25, 2023](#content)
+## [Latest update by Jan 12, 2024](#content)
 
-1. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
+1. [Hyperbolic Graph Diffusion Model](https://arxiv.org/abs/2306.07618), AAAI 2024 \
+   Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei
+2. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
     Seunghyuk Cho, Juyong Lee, Dongwoo Kim
-1. [Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels](https://arxiv.org/abs/2311.11019), NeurIPS, 2023 \
+3. [Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels](https://arxiv.org/abs/2311.11019), NeurIPS, 2023 \
     Shu-Lin Xu, Yifan Sun, Faen Zhang, Anqi Xu, Xiu-Shen Wei, Yi Yang
-1. [Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach](https://arxiv.org/abs/2310.18918), NeurIPS 2023 \
+4. [Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach](https://arxiv.org/abs/2310.18918), NeurIPS 2023 \
 Nurendra Choudhary, Nikhil Rao, Chandan K. Reddy
 1. [Fitting trees to $\ell_1$-hyperbolic distances](https://openreview.net/forum?id=xo2lbfQE8I), NeurIPS 2023 \
    Joon-Hyeok Yim, Anna Gilbert
-1. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://arxiv.org/abs/2311.00462v2), arxiv 2023 \
+2. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://arxiv.org/abs/2311.00462v2), arxiv 2023 \
     Heng Dong, Junyu Zhang, Chongjie Zhang
-1. [Alignment and Outer Shell Isotropy for Hyperbolic Graph Contrastive Learning](https://arxiv.org/abs/2310.18209v1), arxiv 2023 \
+3. [Alignment and Outer Shell Isotropy for Hyperbolic Graph Contrastive Learning](https://arxiv.org/abs/2310.18209v1), arxiv 2023 \
    Yifei Zhang, Hao Zhu, Jiahong Liu, Piotr Koniusz, Irwin King
-1. [Riemannian Residual Neural Networks](https://arxiv.org/abs/2310.10013), arxiv 2023 \
+4. [Riemannian Residual Neural Networks](https://arxiv.org/abs/2310.10013), arxiv 2023 \
    Isay Katsman, Eric Ming Chen, Sidhanth Holalkere, Anna Asch, Aaron Lou, Ser-Nam Lim, Christopher De Sa
 
 
@@ -246,15 +253,21 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [Ultrahyperbolic Representation Learning](https://arxiv.org/abs/2007.00211), NeurIPS 2020 \
 *Marc T. Law, Jos Stam*
 
+### [Hyperbolic Generation Models](#content)
+
+1. Normalizing Flow \
+[Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336), ICML 2020  \
+*Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton*
+1. [Hyperbolic Graph Diffusion Model](https://arxiv.org/abs/2306.07618), AAAI 2024 \
+   Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei
+
+
 ### [Hyperbolic Operations](#content)
 
 1. Mean Computation and BatchNorm \
 [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335), ICML 2020 \
 *Aaron Lou, Isay Katsman, Qingxuan Jiang, Serge Belongie, Ser-Nam Lim, Christopher De Sa*
 
-1. Normalizing Flow \
-[Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336), ICML 2020  \
-*Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton*
 
 1. Sampling \
 [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790), 2022 \
