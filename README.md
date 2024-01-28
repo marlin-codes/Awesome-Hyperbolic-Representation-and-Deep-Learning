@@ -245,6 +245,10 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 1. [FMGNN: Fused Manifold Graph Neural Network](https://arxiv.org/abs/2304.01081), TKDD 2023 \
 *Cheng Deng, Fan Xu, Jiaxing Ding, Luoyi Fu, Weinan Zhang, Xinbing Wang*
 
+1. [Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning](https://arxiv.org/abs/2309.04082), arxiv 2023 \
+Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
+
+
 ### [Semi-Riemannian Learning](#content)
 
 1. [Semi-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134), NeurIPS 2022 \
