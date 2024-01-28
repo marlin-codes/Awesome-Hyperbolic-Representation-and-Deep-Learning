@@ -59,12 +59,15 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 
-**Hyperbolic Learning Groups**
+**Hyperbolic Slack Group**
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
-## [Latest update by Jan 12, 2024](#content)
-
+## [Latest update by Jan 28, 2024](#content)
+1. [Accelerating hyperbolic t-SNE](https://arxiv.org/abs/2401.13708), arxiv 2024 \
+   Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, Elmar Eisemann, Klaus Hildebrandt
+1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), arxiv 2024 \
+   Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
 1. [Hyperbolic Graph Diffusion Model](https://arxiv.org/abs/2306.07618), AAAI 2024 \
    Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei
 2. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
