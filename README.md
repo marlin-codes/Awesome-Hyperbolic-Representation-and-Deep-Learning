@@ -31,7 +31,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 </tr> 
 <tr>
     <td>&ensp;<a href="#hyperbolic-generation-models">3.7 Hyperbolic Generation Models</a></td>
-    <td>&ensp;</td>
+    <td>&ensp;<a href="#llm-and-hyperbolic-space">3.7 LLM && Hyperbolic Space</a></td>
 </tr>
 <tr><td colspan="2"><a href="#applications", p style="color:#B22222">4. Applications</a></td></tr> 
 <tr>
@@ -63,13 +63,19 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
-## [Latest update by Jan 28, 2024](#content)
-1. [Accelerating hyperbolic t-SNE](https://arxiv.org/abs/2401.13708), arxiv 2024 \
-   Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, Elmar Eisemann, Klaus Hildebrandt
-1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), arxiv 2024 \
-   Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
-1. [Hyperbolic Graph Diffusion Model](https://arxiv.org/abs/2306.07618), AAAI 2024 \
-   Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei
+## [✨New❗️(Feb 10, 2024)](#content)
+1. [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh), ICLR 2024 
+
+1. [The Dark Side of the Hyperbolic Moon](https://openreview.net/forum?id=zbKcFZ6Dbp), ICLR 2024 
+
+1. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://openreview.net/forum?id=q9jQPA6zPK), ICLR 2024 
+
+1. [Fast Hyperboloid Decision Tree Algorithms](https://openreview.net/forum?id=TTonmgTT9X), ICLR 2024 
+
+1. [Ultra-sparse network advantage in deep learning via Cannistraci-Hebb brain-inspired training with hyperbolic meta-deep community-layered epitopology](https://openreview.net/forum?id=iayEcORsGd), ICLR 2024 
+
+1. [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L), ICLR 2024
+
 2. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
     Seunghyuk Cho, Juyong Lee, Dongwoo Kim
 3. [Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels](https://arxiv.org/abs/2311.11019), NeurIPS, 2023 \
@@ -267,7 +273,8 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 *Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton*
 1. [Hyperbolic Graph Diffusion Model](https://arxiv.org/abs/2306.07618), AAAI 2024 \
    Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei
-
+2. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
+    Seunghyuk Cho, Juyong Lee, Dongwoo Kim
 
 ### [Hyperbolic Operations](#content)
 
@@ -288,7 +295,14 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 [HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections](https://arxiv.org/abs/2106.03306), ICML 2021 \
 *Ines Chami\*, Albert Gu\*, Dat Nguyen, Christopher Ré*
 
+1. TSNE \
+ [Accelerating hyperbolic t-SNE](https://arxiv.org/abs/2401.13708), arxiv 2024 \
+   Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, Elmar Eisemann, Klaus Hildebrandt
 
+### [LLM and Hyperbolic Space](#content)
+
+1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), arxiv 2024 \
+   Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
 
 ## [Applications](#content)
 
