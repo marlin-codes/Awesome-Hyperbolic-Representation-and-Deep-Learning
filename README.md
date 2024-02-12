@@ -107,6 +107,10 @@ Nurendra Choudhary, Nikhil Rao, Chandan K. Reddy
 [GitHub](https://github.com/xiaoiker/Awesome-Hyperbolic-NeuralNetworks) \
 *Wei Peng, Tuomas Varanka, Abdelrahman Mostafa, Henglin Shi, Guoying Zhao*
 
+1. [Hyperbolic Geometry in Computer Vision: A Survey](https://arxiv.org/pdf/2304.10764.pdf), arxiv 2023. \
+   Pengfei Fang, Mehrtash Harandi, Trung Le, Dinh Phung
+
+
 ### [Books](#content)
 
 1. [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180), 2020. \
@@ -273,8 +277,11 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 *Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton*
 1. [Hyperbolic Graph Diffusion Model](https://arxiv.org/abs/2306.07618), AAAI 2024 \
    Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei
-2. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
+1. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
     Seunghyuk Cho, Juyong Lee, Dongwoo Kim
+
+1. [Lorentzian fully hyperbolic generative adversarial network](https://arxiv.org/abs/2201.12825), arxiv 2022 \
+   Eric Qu, Dongmian Zou
 
 ### [Hyperbolic Operations](#content)
 
