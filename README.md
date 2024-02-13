@@ -78,18 +78,24 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 2. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
     Seunghyuk Cho, Juyong Lee, Dongwoo Kim
+
 3. [Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels](https://arxiv.org/abs/2311.11019), NeurIPS, 2023 \
-    Shu-Lin Xu, Yifan Sun, Faen Zhang, Anqi Xu, Xiu-Shen Wei, Yi Yang
+    *Shu-Lin Xu, Yifan Sun, Faen Zhang, Anqi Xu, Xiu-Shen Wei, Yi Yang*
+
 4. [Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach](https://arxiv.org/abs/2310.18918), NeurIPS 2023 \
-Nurendra Choudhary, Nikhil Rao, Chandan K. Reddy
+   *Nurendra Choudhary, Nikhil Rao, Chandan K. Reddy*
+   
 1. [Fitting trees to $\ell_1$-hyperbolic distances](https://openreview.net/forum?id=xo2lbfQE8I), NeurIPS 2023 \
-   Joon-Hyeok Yim, Anna Gilbert
+   *Joon-Hyeok Yim, Anna Gilbert*
+
 2. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://arxiv.org/abs/2311.00462v2), arxiv 2023 \
-    Heng Dong, Junyu Zhang, Chongjie Zhang
+    *Heng Dong, Junyu Zhang, Chongjie Zhang*
+
 3. [Alignment and Outer Shell Isotropy for Hyperbolic Graph Contrastive Learning](https://arxiv.org/abs/2310.18209v1), arxiv 2023 \
-   Yifei Zhang, Hao Zhu, Jiahong Liu, Piotr Koniusz, Irwin King
+   *Yifei Zhang, Hao Zhu, Jiahong Liu, Piotr Koniusz, Irwin King*
+
 4. [Riemannian Residual Neural Networks](https://arxiv.org/abs/2310.10013), arxiv 2023 \
-   Isay Katsman, Eric Ming Chen, Sidhanth Holalkere, Anna Asch, Aaron Lou, Ser-Nam Lim, Christopher De Sa
+   *Isay Katsman, Eric Ming Chen, Sidhanth Holalkere, Anna Asch, Aaron Lou, Ser-Nam Lim, Christopher De Sa*
 
 
 ## [Surveys, Books, Tools, Tutorials](#content)
@@ -97,7 +103,7 @@ Nurendra Choudhary, Nikhil Rao, Chandan K. Reddy
 ### [Surveys](#content)
 
 1. [Hyperbolic Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/2305.06611), arxiv 2023 \
-   Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressel, Jeffrey Gu, Serena Yeung
+   *Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressel, Jeffrey Gu, Serena Yeung*
 
 2. [Hyperbolic Graph Neural Networks: A Review of Methods and Application](https://arxiv.org/abs/2202.13852), arxiv 2022.
 [GitHub](https://github.com/marlin-codes/HGNNs) \
@@ -108,19 +114,19 @@ Nurendra Choudhary, Nikhil Rao, Chandan K. Reddy
 *Wei Peng, Tuomas Varanka, Abdelrahman Mostafa, Henglin Shi, Guoying Zhao*
 
 1. [Hyperbolic Geometry in Computer Vision: A Survey](https://arxiv.org/pdf/2304.10764.pdf), arxiv 2023. \
-   Pengfei Fang, Mehrtash Harandi, Trung Le, Dinh Phung
+   *Pengfei Fang, Mehrtash Harandi, Trung Le, Dinh Phung*
 
 
 ### [Books](#content)
 
 1. [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180), 2020. \
-Brice Loustau
+*Brice Loustau*
 
 1. [Manifolds and Differential Geometry](https://www.ams.org/books/gsm/107/gsm107-endmatter.pdf), 2009. \
-Jeffrey M. Lee
+*Jeffrey M. Lee*
 
 1. [Introduction to Hyperbolic Geometry](https://link.springer.com/book/10.1007/978-1-4757-5585-5), 1995. \
-A Ramsay, RD Richtmyer 
+*A Ramsay, RD Richtmyer* 
 
 
 ### [Tools](#content)
@@ -129,27 +135,29 @@ A Ramsay, RD Richtmyer
 *Max Kochurov and Rasul Karimov and Serge Kozlukov*
 
 1. [Curvature Learning Framework](https://github.com/alibaba/Curvature-Learning-Framework) \
-Alibaba
+*Alibaba*
 
 1. [GraphZoo: A Development Toolkit for Graph Neural Networks with Hyperbolic Geometries](https://github.com/AnoushkaVyas/GraphZoo) WWW 2022 \
 *Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy*
 
 1. [HypLL: The Hyperbolic Learning Library](https://arxiv.org/abs/2306.06154), [GitHub](https://github.com/maxvanspengler/hyperbolic_learning_library) \
-   Max van Spengler, Philipp Wirth, Pascal Mettes
+   *Max van Spengler, Philipp Wirth, Pascal Mettes*
 
 
 ### [Tutorials](#content)
 
 1. [Hyperbolic Deep Learning for Computer Vision](https://sites.google.com/view/hdlcv-cvpr23tutorial/homepage) \
-   Pascal Mettes, Max van Spengler, Yunhui Guo, Stella Yu
+   *Pascal Mettes, Max van Spengler, Yunhui Guo, Stella Yu*
+
 2. [Hyperbolic networks: Theory, Architecture and Applications](https://nurendra.com/hyperbolic-networks-tutorial/) \
-   Nurendra Choudhary, Nikhil Rao, Karthik Subbian, Srinivasan H. Sengamedu, Chandan Reddy
+   *Nurendra Choudhary, Nikhil Rao, Karthik Subbian, Srinivasan H. Sengamedu, Chandan Reddy*
+
 3. [Hyperbolic Graph Neural Networks: A Tutorial on Methods and Applications](https://hyperbolicgnn.github.io/), KDD 2023 \
-    Min Zhou, Menglin Yang, Bo Xiong, Hui Xiong, Irwin King
+    *Min Zhou, Menglin Yang, Bo Xiong, Hui Xiong, Irwin King*
    
 4. [Hyperbolic Representation Learning for Computer Vision](https://sites.google.com/view/hyperbolic-tutorial-eccv22/homepage). Tutorial 2022 \
-*Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressel, Jeffrey Gu, Serena Yeung@ECCV2022* \
-https://hyperbolic-representation-learning.readthedocs.io/en/latest/
+   *Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressel, Jeffrey Gu, Serena Yeung@ECCV2022* \
+   https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 
 1. [Hyperbolic Graph Representation Learning](https://hyperbolicgraphlearning.github.io/). Tutorial 2022 \
 *Min Zhou, Menglin Yang, Lujia Pan, Irwin King @ ECML-PKDD 2022*
@@ -172,15 +180,15 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 *Maximilian Nickel, Douwe Kiela*
 
 1. [Representation Tradeoffs for Hyperbolic Embeddings](https://arxiv.org/pdf/1804.03329.pdf), ICML 2018 \
-   Frederic Sala, Christopher De Sa, Albert Gu, Christopher Re´
+   *Frederic Sala, Christopher De Sa, Albert Gu, Christopher Re´*
 
 1. [Hyperbolic Entailment Cones for Learning Hierarchical Embeddings](https://arxiv.org/abs/1804.01882), ICML 2018 \
-   Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann
+   *Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann*
 
 2. [Lorentzian Distance Learning for Hyperbolic Representations](https://proceedings.mlr.press/v97/law19a/law19a.pdf), ICML 2019 \
-   Marc T. Law, Renjie Liao, Jake Snell, Richard S. Zemel
+   *Marc T. Law, Renjie Liao, Jake Snell, Richard S. Zemel*
 3. [Hyperbolic Disk Embeddings for Directed Acyclic Graphs](https://arxiv.org/abs/1902.04335), ICML 2019 \
-   Ryota Suzuki, Ryusuke Takahama, Shun Onoda
+   *Ryota Suzuki, Ryusuke Takahama, Shun Onoda*
 
  
 ### [Hyperbolic Neural Network](#content)
@@ -192,7 +200,7 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 *Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Karl Moritz Hermann, Peter Battaglia, Victor Bapst, David Raposo, Adam Santoro, Nando de Freitas*
 
 1. [Continuous Hierarchical Representations with Poincaré Variational Auto-Encoders](https://arxiv.org/abs/1901.06033), NeurIPS 2019 \
-   Emile Mathieu, Charline Le Lan, Chris J. Maddison, Ryota Tomioka, Yee Whye Teh
+   *Emile Mathieu, Charline Le Lan, Chris J. Maddison, Ryota Tomioka, Yee Whye Teh*
 
 2. [Hyperbolic Neural Network++](https://arxiv.org/abs/2006.08210), ICLR 2021 \
 *Ryohei Shimizu, Yusuke Mukuta, Tatsuya Harada*
@@ -204,7 +212,7 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 *Max van Spengler, Erwin Berkhout, Pascal Mettes*
 
 1. [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://arxiv.org/abs/2112.03402), CVPR 2022 \
-   Xiran Fan, Chun-Hao Yang, Baba C. Vemuri
+   *Xiran Fan, Chun-Hao Yang, Baba C. Vemuri*
 
 
 ### [Hyperbolic Graph Neural Network](#content)
@@ -229,59 +237,72 @@ https://hyperbolic-representation-learning.readthedocs.io/en/latest/
 *Jiwoong Park, Junho Cho, Hyung Jin Chang, Jin Young Choi*
 
 1. [$\kappa$HGCN: Tree-likeness Modeling via Continuous and Discrete Curvature Learning](https://arxiv.org/abs/2212.01793), KDD 2023 \
-   Menglin Yang, Min Zhou, Lujia Pan, Irwin King
+   *Menglin Yang, Min Zhou, Lujia Pan, Irwin King*
+
+### [Theoretical Foundations](#content)
+1. [Representation Tradeoffs for Hyperbolic Embeddings](https://arxiv.org/abs/1804.03329), ICML 2018 \
+*Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala*
+
+1. [Generalization Error Bound for Hyperbolic Ordinal Embedding](https://arxiv.org/abs/2105.10475), ICML 2021 \
+   *Atsushi Suzuki, Atsushi Nitanda, Jing Wang, Linchuan Xu, Marc Cavazza, Kenji Yamanishi*
+1. [Generalization Bounds for Graph Embedding Using Negative Sampling: Linear vs Hyperbolic](https://proceedings.neurips.cc/paper/2021/hash/09779bb7930c8a0a44360e12b538ae3c-Abstract.html), NeurIPS 2021 \
+   *Atsushi Suzuki, Atsushi Nitanda, jing wang, Linchuan Xu, Kenji Yamanishi, Marc Cavazza*
 
 
 ### [Mixed Curvature Learning](#content)
 
-1. [Learning mixed-curvature representations in product spaces](https://openreview.net/forum?id=HJxeWnCcF7), ICLR 2019
-   Albert Gu, Frederic Sala, Beliz Gunel, Christopher Ré
+1. [Learning mixed-curvature representations in product spaces](https://openreview.net/forum?id=HJxeWnCcF7), ICLR 2019 \
+   *Albert Gu, Frederic Sala, Beliz Gunel, Christopher Ré*
 
 1. [Mixed-curvature variational autoencoders](), ICLR 2020 \
-   Skopek, Ondrej, Octavian-Eugen Ganea, and Gary Bécigneul.
+   *Skopek, Ondrej, Octavian-Eugen Ganea, and Gary Bécigneul*
+
 2. [Constant Curvature Graph Convolutional Networks](https://arxiv.org/abs/1911.05076), ICML 2020 \
-*Gregor Bachmann, Gary Bécigneul, Octavian-Eugen Ganea*
+   *Gregor Bachmann, Gary Bécigneul, Octavian-Eugen Ganea*
+
 1. [Mixed-curvature multi-relational graph neural network for knowledge graph completion](https://dl.acm.org/doi/abs/10.1145/3442381.3450118), WWW 2021 \
-   Wang, Shen, Xiaokai Wei, Cicero Nogueira Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew Arnold, Bing Xiang, Philip S. Yu, and Isabel F. Cruz.
+   *Wang, Shen, Xiaokai Wei, Cicero Nogueira Nogueira dos Santos, Zhiguo Wang, Ramesh Nallapati, Andrew Arnold, Bing Xiang, Philip S. Yu, and Isabel F. Cruz.*
+
 1. [A Self-supervised Mixed-curvature Graph Neural Network](https://arxiv.org/abs/2112.05393), AAAI 2022 \
-*Li Sun, Zhongbao Zhang, Junda Ye, Hao Peng, Jiawei Zhang, Sen Su, Philip S. Yu*
+   *Li Sun, Zhongbao Zhang, Junda Ye, Hao Peng, Jiawei Zhang, Sen Su, Philip S. Yu*
 
 1. [Enhancing Hyperbolic Graph Embeddings via Contrastive Learning](https://arxiv.org/abs/2201.08554), NeurIPS 2021 SSL Workshop \
-*Jiahong Liu, Menglin Yang, Min Zhou, Shanshan Feng, Philippe Fournier-Viger*
+   *Jiahong Liu, Menglin Yang, Min Zhou, Shanshan Feng, Philippe Fournier-Viger*
 
 1. [Geometry Interaction Learning](https://arxiv.org/abs/2010.12135), NeurIPS 2020 \
-*Shichao Zhu, Shirui Pan, Chuan Zhou, Jia Wu, Yanan Cao, Bin Wang*
+   *Shichao Zhu, Shirui Pan, Chuan Zhou, Jia Wu, Yanan Cao, Bin Wang*
 
 1. [FMGNN: Fused Manifold Graph Neural Network](https://arxiv.org/abs/2304.01081), TKDD 2023 \
-*Cheng Deng, Fan Xu, Jiaxing Ding, Luoyi Fu, Weinan Zhang, Xinbing Wang*
+   *Cheng Deng, Fan Xu, Jiaxing Ding, Luoyi Fu, Weinan Zhang, Xinbing Wang*
 
 1. [Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning](https://arxiv.org/abs/2309.04082), arxiv 2023 \
-Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
+   *Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee*
 
 
 ### [Semi-Riemannian Learning](#content)
 
 1. [Semi-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134), NeurIPS 2022 \
-*Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab*
+   *Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab*
 
 1. [Ultrahyperbolic Neural Networks](https://openreview.net/forum?id=sf2BxJNXC3K), NeurIPS 2021 \
-*Marc T Law*
+   *Marc T Law*
 
 1. [Ultrahyperbolic Representation Learning](https://arxiv.org/abs/2007.00211), NeurIPS 2020 \
-*Marc T. Law, Jos Stam*
+   *Marc T. Law, Jos Stam*
 
 ### [Hyperbolic Generation Models](#content)
 
-1. Normalizing Flow \
-[Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336), ICML 2020  \
-*Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton*
+1. [Latent Variable Modelling with Hyperbolic Normalizing Flows](https://arxiv.org/abs/2002.06336), ICML 2020  \
+   *Avishek Joey Bose, Ariella Smofsky, Renjie Liao, Prakash Panangaden, William L. Hamilton*
+
 1. [Hyperbolic Graph Diffusion Model](https://arxiv.org/abs/2306.07618), AAAI 2024 \
-   Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei
+   *Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei*
+
 1. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
-    Seunghyuk Cho, Juyong Lee, Dongwoo Kim
+    *Seunghyuk Cho, Juyong Lee, Dongwoo Kim*
 
 1. [Lorentzian fully hyperbolic generative adversarial network](https://arxiv.org/abs/2201.12825), arxiv 2022 \
-   Eric Qu, Dongmian Zou
+   *Eric Qu, Dongmian Zou*
 
 ### [Hyperbolic Operations](#content)
 
@@ -304,19 +325,18 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 
 1. TSNE \
  [Accelerating hyperbolic t-SNE](https://arxiv.org/abs/2401.13708), arxiv 2024 \
-   Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, Elmar Eisemann, Klaus Hildebrandt
+*Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, Elmar Eisemann, Klaus Hildebrandt*
 
 ### [LLM and Hyperbolic Space](#content)
 
 1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), arxiv 2024 \
-   Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
+*Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks*
 
 ## [Applications](#content)
 
 
 ### [Recommender Systems](#content)
 
-#### [Hyperbolic GNN-based Recommender Systems](#content)
 
 1. [HICF: Hyperbolic Informative Collaborative Filtering](https://arxiv.org/abs/2207.09051), KDD 2022 \
 *Menglin Yang, Zhihao Li, Min Zhou, Jiahong Liu, Irwin King*
@@ -346,7 +366,7 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 *Anchen Li, Bo Yang*
 
 6. [Enhancing Hierarchy-Aware Graph Networks with Deep Dual Clustering for Session-based Recommendation](https://dl.acm.org/doi/abs/10.1145/3543507.3583247), WWW 2023 \
-   Jiajie Su, Chaochao Chen, Weiming Liu, Fei Wu, Xiaolin Zheng, Haoming Lyu
+   *Jiajie Su, Chaochao Chen, Weiming Liu, Fei Wu, Xiaolin Zheng, Haoming Lyu*
 
 1. [HCGR: Hyperbolic Contrastive Graph Representation Learning for Session-based Recommendation](https://arxiv.org/abs/2107.05366), arxiv 2021 \
 *Naicheng Guo, Xiaolei Liu, Shaoshuai Li, Qiongxu Ma, Yunan Zhao, Bing Han, Lin Zheng, Kaixin Gao, Xiaobo Guo*
@@ -360,14 +380,16 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 1. [Lorentz Equivariant Model for Knowledge-Enhanced Collaborative Filtering](https://arxiv.org/abs/2302.04545), arxiv 2023 \
    *Bosong Huang, Weihao Yu, Ruzhong Xie, Jing Xiao, Jin Huang*
 
-#### [Hyperbolic General Recommender Systems](#content)
 
 1. [Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021 \
 *Sixiao Zhang, Hongxu Chen, Xiao Ming, Lizhen Cui, Hongzhi Yin, Guandong Xu*
+
 1. [HyperML: A Boosting Metric Learning Approach in Hyperbolic Space for Recommender Systems](https://arxiv.org/abs/1809.01703), WSDM 2020 \
 *Lucas Vinh Tran, Yi Tay, Shuai Zhang, Gao Cong, Xiaoli Li*
+
 1. [Learning Feature Interactions with Lorentzian Factorization Machine](https://arxiv.org/abs/1911.09821), AAAI 2020 \
 *Canran Xu, Ming Wu*
+
 1. [Scalable Hyperbolic Recommender Systems](https://arxiv.org/abs/1902.08648), WSDM 2020 \
 *Benjamin Paul Chamberlain, Stephen R. Hardwick, David R. Wardrope, Fabon Dzogang, Fabio Daolio, Saúl Vargas*
 
@@ -379,8 +401,6 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 
 ### [Knowledge Graphs](#content)
 
-#### [GNN-based Knowledge Graphs](#content)
-
 1. [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162), EMNLP 2020 \
 *Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang*
 
@@ -389,8 +409,6 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 
 1. [Mixed-Curvature Multi-relational Graph Neural Network for Knowledge Graph Completion](https://assets.amazon.science/0c/9d/51d98f1040b1bfa7dc52d1015750/mixed-curvature-multi-relational-graph-neural-network-for-knowledge-graph-completion.pdf), WWW 2021 \
 *Shen Wang , Xiaokai Wei , Cicero Nogueira Nogueira dos Santos , Zhiguo Wang , Ramesh Nallapati , Andrew Arnold , Bing Xiang , Philip S. Yu , Isabel F. Cruz*
-
-#### [Non-GNN based KG](#content)
 
 1. [Geometry Interaction Knowledge Graph Embeddings](https://arxiv.org/abs/2206.12418) for KG embedding, AAAI 2022 \
    *Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang*
@@ -417,23 +435,17 @@ Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
 1. [Hyperbolic Hierarchy-Aware Knowledge Graph Embedding for Link Prediction](https://aclanthology.org/2021.findings-emnlp.251/). EMNLP findings 2021 \
 *Zhe Pan, Peng Wang*
 
-1. [FFHR: Fully and Flexible Hyperbolic
-Representation for Knowledge Graph
-Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
+1. [FFHR: Fully and Flexible Hyperbolic Representation for Knowledge Graph Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 *Wentao Shi, Junkang Wu, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Wei Wu, Xiangnan He*
    
 
 ### [Molecular Learning](#content)
-
-#### [GNN-based Molecular Learning](#content)
 
 1. [Hyperbolic relational graph convolution networks plus: a simple but highly efficient QSAR-modeling method](https://academic.oup.com/bib/article-abstract/22/5/bbab112/6235968?redirectedFrom=fulltext), Briefings in Bioinformatics 2021 \
 *Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Cao, Tingjun Hou*
 
 1. [Semi-supervised  hierarchical  drug  embedding  inhyperbolic space](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00681), J. Chem. Inf. Model 2020 \
 *Ke Yu\*, Shyam Visweswaran\*, and Kayhan Batmanghelich*
-
-#### [Non-GNN based for Molecular Learning](#content)
 
 1. [HiG2Vec: hierarchical representations of Gene Ontology and genes in the Poincaré ball](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857?login=false), Bioinformatics, 2021 \
 *Jaesik Kim, Dokyoon Kim, Kyung-Ah Sohn*
@@ -447,7 +459,7 @@ Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 *Li Sun, Zhongbao Zhang, Jiawei Zhang, Feiyang Wang, Hao Peng, Sen Su, Philip S. Yu*
 
 1. [Exploring the Scale-Free Nature of Stock Markets: Hyperbolic Graph Learning for Algorithmic Trading](https://dl.acm.org/doi/10.1145/3442381.3450095),  WWW 2021 \
-*Ramit Sawhney , Shivam Agarwal , Arnav Wadhwa , Rajiv Shah*
+*Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa , Rajiv Shah*
 
 
 ### [Code Representation](#content)
@@ -458,7 +470,7 @@ Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 ### [Graph Embeddings](#content)
 
 1. [SINCERE: Sequential Interaction Networks representation learning on Co-Evolving RiEmannian manifolds](https://dl.acm.org/doi/abs/10.1145/3543507.3583353), WWW 2023 \
-   Junda Ye, Zhongbao Zhang, Li Sun, Yang Yan, Feiyang Wang, Fuxin Ren
+   *Junda Ye, Zhongbao Zhang, Li Sun, Yang Yan, Feiyang Wang, Fuxin Ren*
 
 1. [Hyperbolic Heterogeneous Information Network Embedding](https://ojs.aaai.org/index.php/AAAI/article/view/4471),  AAAI 2020 \
 *Xiao Wang, Yiding Zhang, Chuan Shi*
@@ -478,6 +490,9 @@ Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 1. [HEAT: Hyperbolic Embedding of Attributed Networks](https://arxiv.org/abs/1903.03036), IDEAL 2020 \
 *David McDonald, Shan He*
 
+1. [Hyperbolic Multiplex Network Embedding with Maps of Random Walk](https://arxiv.org/abs/1912.08927) \
+*Peiyuan Sun*
+
 ### [Word Embeddings](#content)
 
 1. [Poincare Glove: Hyperbolic Word Embeddings](https://arxiv.org/abs/1810.06546), ICLR 2019 \
@@ -489,17 +504,14 @@ Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 1. [Embedding text in hyperbolic spaces](https://arxiv.org/abs/1806.04313), ACL 2018 \
 *Bhuwan Dhingra, Christopher J. Shallue, Mohammad Norouzi, Andrew M. Dai, George E. Dahl*
 
-1. [Representation Tradeoffs for Hyperbolic Embeddings](https://arxiv.org/abs/1804.03329), ICML 2018 \
-*Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala*
-
 1. [Hyperbolic entailment cones for learning hierarchical embeddings](https://arxiv.org/abs/1804.01882), ICML 2018 \
 *Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann*
 
 1. [Low-rank approximations of hyperbolic embeddings](https://arxiv.org/abs/1903.07307) \
 *Pratik Jawanpuria, Mayank Meghwanshi, Bamdev Mishra*
 
-1. [Hyperbolic Multiplex Network Embedding with Maps of Random Walk](https://arxiv.org/abs/1912.08927) \
-*Peiyuan Sun*
+1. [Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings](https://arxiv.org/pdf/1902.00913.pdf) \
+*Matt Le, Stephen Roller, Laetitia Papaxanthos, Douwe Kiela, Maximilian Nickel*
 
 ### [Multi-label Learning](#content)
 
@@ -536,13 +548,13 @@ Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 *Aleksandr Ermolov, Leyla Mirvakhabova, Valentin Khrulkov, Nicu Sebe, Ivan Oseledets*
 
 1. [Hyperbolic Image-Text Representations](https://arxiv.org/pdf/2304.09172.pdf), ICML 2023 \
-   Karan Desai, Maximilian Nickel, Tanmay Rajpurohit, Justin Johnson, Ramakrishna Vedantam
+   *Karan Desai, Maximilian Nickel, Tanmay Rajpurohit, Justin Johnson, Ramakrishna Vedantam*
 
 1. [Hyperbolic Busemann Learning with Ideal Prototypes](https://openreview.net/forum?id=c_XcmuxwAY), NeurIPS 2021
-   Mina Ghadimi Atigh, Martin Keller-Ressel, Pascal Mettes
+   *Mina Ghadimi Atigh, Martin Keller-Ressel, Pascal Mettes*
 
 2. [Rethinking the compositionality of point clouds through regularization in the hyperbolic space](https://arxiv.org/abs/2209.10318) (NeurIPS 2022) \
-   Antonio Montanaro, Diego Valsesia, Enrico Magli
+   *Antonio Montanaro, Diego Valsesia, Enrico Magli*
 
 3. [HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion](https://arxiv.org/abs/2304.00932), CVPR 2023 \
 *Sijie Wang, Qiyu Kang, Rui She, Wei Wang, Kai Zhao, Yang Song, Wee Peng Tay*
@@ -580,13 +592,13 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 ### [Natural Language Processing](#content)
 
 1. [HISum: Hyperbolic Interaction Model for Extractive Multi-Document Summarization](https://dl.acm.org/doi/10.1145/3543507.3583197), WWW 2023 \
-    Mingyang Song,  Yi Feng,  Liping Jing
+    *Mingyang Song,  Yi Feng,  Liping Jing*
 
 1.  [Public Wisdom Matters! Discourse-Aware Hyperbolic Fourier Co-Attention for Social-Text Classification](https://arxiv.org/abs/2209.13017),  NeurIPS 2022 Oral (Spotlight) \
-K Grover, SM Angara, M Akhtar, T Chakraborty
+*K Grover, SM Angara, M Akhtar, T Chakraborty*
 
 1. [Probing BERT in Hyperbolic Spaces](https://arxiv.org/abs/2104.03869). ICLR 2021 \
-   Boli Chen, Yao Fu, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jing
+   *Boli Chen, Yao Fu, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jing*
 
 1. [Medical Triage Chatbot Diagnosis Improvement via Multi-relational Hyperbolic Graph Neural Network](https://dl.acm.org/doi/abs/10.1145/3404835.3463095). SIGIR short paper 2021 \
 *Zheng Liu , Xiaohan Li , Zeyu You , Tao Yang , Wei Fan , Philip Yu*
@@ -630,10 +642,10 @@ K Grover, SM Angara, M Akhtar, T Chakraborty
 Zhi Gao, Yuwei Wu, Yunde Jia, Mehrtash Harandi
 
 1. [Exploring Data Geometry for Continual Learning](https://arxiv.org/abs/2304.03931) CVPR 2023 \
-Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu
+*Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu*
 
 1. [Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data](https://ieeexplore.ieee.org/abstract/document/9749838), TPAMI \
-Gao, Zhi, Yuwei Wu, Mehrtash Harandi, and Yunde Jia
+*Gao, Zhi, Yuwei Wu, Mehrtash Harandi, and Yunde Jia*
 
 
 
