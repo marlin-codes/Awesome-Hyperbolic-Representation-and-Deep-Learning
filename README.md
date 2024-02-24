@@ -63,7 +63,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
-## [✨New❗️(Feb 10, 2024)](#content)
+## [✨New❗️(Feb 23, 2024)](#content)
 1. [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh), ICLR 2024 
 
 1. [The Dark Side of the Hyperbolic Moon](https://openreview.net/forum?id=zbKcFZ6Dbp), ICLR 2024 
@@ -97,6 +97,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 4. [Riemannian Residual Neural Networks](https://arxiv.org/abs/2310.10013), arxiv 2023 \
    *Isay Katsman, Eric Ming Chen, Sidhanth Holalkere, Anna Asch, Aaron Lou, Ser-Nam Lim, Christopher De Sa*
 
+1. [Tempered Calculus for ML: Application to Hyperbolic Model Embedding](https://arxiv.org/abs/2402.04163), arxiv 2024 \
+   *Richard Nock, Ehsan Amid, Frank Nielsen, Alexander Soen, Manfred K. Warmuth*
 
 ## [Surveys, Books, Tools, Tutorials](#content)
 
@@ -437,6 +439,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [FFHR: Fully and Flexible Hyperbolic Representation for Knowledge Graph Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 *Wentao Shi, Junkang Wu, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Wei Wu, Xiangnan He*
+
+1. [Enhancing Recommendation with Automated Tag Taxonomy Construction in Hyperbolic Space](https://ieeexplore.ieee.org/abstract/document/9835344), ICDE 2022 \
+   *Yanchao Tan; Carl Yang; Xiangyu Wei; Chaochao Chen; Longfei Li; Xiaolin Zheng*
    
 
 ### [Molecular Learning](#content)
