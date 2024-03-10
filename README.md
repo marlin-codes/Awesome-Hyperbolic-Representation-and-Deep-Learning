@@ -77,7 +77,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L), ICLR 2024
 
 2. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
-    Seunghyuk Cho, Juyong Lee, Dongwoo Kim
+    *Seunghyuk Cho, Juyong Lee, Dongwoo Kim*
 
 3. [Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels](https://arxiv.org/abs/2311.11019), NeurIPS, 2023 \
     *Shu-Lin Xu, Yifan Sun, Faen Zhang, Anqi Xu, Xiu-Shen Wei, Yi Yang*
@@ -335,7 +335,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks*
 
 1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
-   Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari
+   *Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari*
 
 ## [Applications](#content)
 
@@ -547,7 +547,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 ### [Computer Vision](#content)
 
 1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
-   Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari
+   *Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari*
 
 2. [Hyperbolic Image Embedding](https://arxiv.org/abs/1904.02239), CVPR 2020 \
 *Valentin Khrulkov, Leyla Mirvakhabova, Evgeniya Ustinova, Ivan Oseledets, Victor Lempitsky*
@@ -588,7 +588,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *Zhenzhen Weng, Mehmet Giray Ogut, Shai Limonchik, Serena Yeung*
 
 1. [Searching for Actions on the Hyperbole](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9157196), CVPR 2020 \
-Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
+*Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek*
 
 1. [Mix Dimension in Poincaré Geometry for 3D Skeleton-based Action Recognition](https://dl.acm.org/doi/abs/10.1145/3394171.3413910), ACM MM 2020 \
 *Wei Peng, Jingang Shi, Zhaoqiang Xia, Guoying Zhao*
@@ -618,10 +618,10 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 *Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K. Reddy*
 
 1. [Leveraging Hierarchical Representations for Preserving Privacy and Utility in Text](https://arxiv.org/abs/1910.08917), ICDM 2019
-   Oluwaseyi Feyisetan, Tom Diethe, Thomas Drake
+   *Oluwaseyi Feyisetan, Tom Diethe, Thomas Drake*
 
 1. [Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering](https://dl.acm.org/doi/10.1145/3159652.3159664), WSDM 2018
-   Yi Tay, Luu Anh Tuan, Siu Cheung Hui
+   *Yi Tay, Luu Anh Tuan, Siu Cheung Hui*
 
 ### [Hyperbolic Metric Learning](#content)
 1. [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2205.02618) for clustering, IJCAI 2022 \
@@ -637,7 +637,7 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 *Yun Yue, Fangzhou Lin, Kazunori D Yamada, Ziming Zhang*
 
 4. [A Quadtree for Hyperbolic Space](https://arxiv.org/abs/2305.01356), arxiv 2023 \
-    Sándor Kisfaludi-Bak, Geert van Wordragen
+    *Sándor Kisfaludi-Bak, Geert van Wordragen*
    
 ### Data-driven Geometry Learning
 
@@ -653,13 +653,13 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 *Eli Chien, Puoya Tabaghi, Olgica Milenkovic*
 
 1. [Hyperbolic Feature Augmentation via Distribution Estimation and Infinite Sampling on Manifolds](https://openreview.net/forum?id=yoLGaLPEPo_) NeurIPS 2022 \
-Zhi Gao, Yuwei Wu, Yunde Jia, Mehrtash Harandi
+*Zhi Gao, Yuwei Wu, Yunde Jia, Mehrtash Harandi*
 
 1. [Exploring Data Geometry for Continual Learning](https://arxiv.org/abs/2304.03931) CVPR 2023 \
 *Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu*
 
 1. [Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data](https://ieeexplore.ieee.org/abstract/document/9749838), TPAMI \
-*Gao, Zhi, Yuwei Wu, Mehrtash Harandi, and Yunde Jia*
+*Zhi Gan, Yuwei Wu, Mehrtash Harandi, and Yunde Jia*
 
 
 
