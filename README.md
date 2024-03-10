@@ -63,7 +63,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
-## [✨New❗️(Feb 23, 2024)](#content)
+## [✨New❗️(March 9, 2024)](#content)
 1. [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh), ICLR 2024 
 
 1. [The Dark Side of the Hyperbolic Moon](https://openreview.net/forum?id=zbKcFZ6Dbp), ICLR 2024 
