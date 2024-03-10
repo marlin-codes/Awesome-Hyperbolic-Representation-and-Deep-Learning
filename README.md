@@ -317,7 +317,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790), 2022 \
 *Fernando Galaz-Garcia, Marios Papamichalis, Kathryn Turnbull, Simon Lunagomez, Edoardo Airoldi*
 
-1. MixUp \
+1. MixUp and Data Augmentation \
 [HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776/), EMNLP 2021 \
 *Ramit Sawhney, Megh Thakkar, Shivam Agarwal, Di Jin, Diyi Yang, Lucie Flek*
 
@@ -333,6 +333,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), arxiv 2024 \
 *Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks*
+
+1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
+   Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari
 
 ## [Applications](#content)
 
@@ -543,7 +546,10 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 ### [Computer Vision](#content)
 
-1. [Hyperbolic Image Embedding](https://arxiv.org/abs/1904.02239), CVPR 2020 \
+1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
+   Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari
+
+2. [Hyperbolic Image Embedding](https://arxiv.org/abs/1904.02239), CVPR 2020 \
 *Valentin Khrulkov, Leyla Mirvakhabova, Evgeniya Ustinova, Ivan Oseledets, Victor Lempitsky*
 
 1. [Hyperbolic Image Segmentation](https://arxiv.org/abs/2203.05898), CVPR 2022 \
@@ -555,13 +561,13 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [Hyperbolic Image-Text Representations](https://arxiv.org/pdf/2304.09172.pdf), ICML 2023 \
    *Karan Desai, Maximilian Nickel, Tanmay Rajpurohit, Justin Johnson, Ramakrishna Vedantam*
 
-1. [Hyperbolic Busemann Learning with Ideal Prototypes](https://openreview.net/forum?id=c_XcmuxwAY), NeurIPS 2021
+2. [Hyperbolic Busemann Learning with Ideal Prototypes](https://openreview.net/forum?id=c_XcmuxwAY), NeurIPS 2021
    *Mina Ghadimi Atigh, Martin Keller-Ressel, Pascal Mettes*
 
-2. [Rethinking the compositionality of point clouds through regularization in the hyperbolic space](https://arxiv.org/abs/2209.10318) (NeurIPS 2022) \
+3. [Rethinking the compositionality of point clouds through regularization in the hyperbolic space](https://arxiv.org/abs/2209.10318) (NeurIPS 2022) \
    *Antonio Montanaro, Diego Valsesia, Enrico Magli*
 
-3. [HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion](https://arxiv.org/abs/2304.00932), CVPR 2023 \
+4. [HypLiLoc: Towards Effective LiDAR Pose Regression with Hyperbolic Fusion](https://arxiv.org/abs/2304.00932), CVPR 2023 \
 *Sijie Wang, Qiyu Kang, Rui She, Wei Wang, Kai Zhao, Yang Song, Wee Peng Tay*
 
 
@@ -613,6 +619,9 @@ Teng Long, Pascal Mettes, Heng Tao Shen, Cees Snoek
 
 1. [Leveraging Hierarchical Representations for Preserving Privacy and Utility in Text](https://arxiv.org/abs/1910.08917), ICDM 2019
    Oluwaseyi Feyisetan, Tom Diethe, Thomas Drake
+
+1. [Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering](https://dl.acm.org/doi/10.1145/3159652.3159664), WSDM 2018
+   Yi Tay, Luu Anh Tuan, Siu Cheung Hui
 
 ### [Hyperbolic Metric Learning](#content)
 1. [Contrastive Multi-view Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2205.02618) for clustering, IJCAI 2022 \
