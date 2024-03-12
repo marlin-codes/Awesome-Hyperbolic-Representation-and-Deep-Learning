@@ -404,6 +404,13 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [Node2LV: Squared Lorentzian Representations for Node Proximity](https://ieeexplore.ieee.org/document/9458940)， ICDE 2021 \
 *Shanshan Feng, Lisi Chen, Kaiqi Zhao, Wei Wei, Fan Li, Shuo Shang*
 
+1. [Hyperbolic Neural Collaborative Recommender](https://ieeexplore.ieee.org/abstract/document/9946432), TKDE 2022 \
+   Anchen Li; Bo Yang; Huan Huo; Hongxu Chen; Guandong Xu; Zhen Wang
+2. [Enhancing Recommendation with Automated Tag Taxonomy Construction in Hyperbolic Space](https://ieeexplore.ieee.org/abstract/document/9835344), ICDE 2022 \
+   *Yanchao Tan; Carl Yang; Xiangyu Wei; Chaochao Chen; Longfei Li; Xiaolin Zheng*
+3. [Hyperbolic Personalized Tag Recommendation](https://link.springer.com/chapter/10.1007/978-3-031-00126-0_14), DASFAA 2022 \
+   Weibin Zhao, Aoran Zhang, Lin Shang, Yonghong Yu, Li Zhang, Can Wang, Jiajun Chen & Hongzhi Yin 
+
 ### [Knowledge Graphs](#content)
 
 1. [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162), EMNLP 2020 \
@@ -442,9 +449,6 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [FFHR: Fully and Flexible Hyperbolic Representation for Knowledge Graph Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 *Wentao Shi, Junkang Wu, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Wei Wu, Xiangnan He*
-
-1. [Enhancing Recommendation with Automated Tag Taxonomy Construction in Hyperbolic Space](https://ieeexplore.ieee.org/abstract/document/9835344), ICDE 2022 \
-   *Yanchao Tan; Carl Yang; Xiangyu Wei; Chaochao Chen; Longfei Li; Xiaolin Zheng*
    
 
 ### [Molecular Learning](#content)
