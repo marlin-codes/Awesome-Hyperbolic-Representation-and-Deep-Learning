@@ -120,6 +120,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ### [Books](#content)
+1. [An Introduction to Geometric Topology](https://arxiv.org/pdf/1610.02592.pdf), 2022 \
+*Bruno Martelli*
 
 1. [Hyperbolic Geometry](https://arxiv.org/abs/2003.11180), 2020. \
 *Brice Loustau*
