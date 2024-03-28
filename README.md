@@ -242,6 +242,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [$\kappa$HGCN: Tree-likeness Modeling via Continuous and Discrete Curvature Learning](https://arxiv.org/abs/2212.01793), KDD 2023 \
    *Menglin Yang, Min Zhou, Lujia Pan, Irwin King*
+1. [Residual Hyperbolic Graph Convolution Networks](https://ojs.aaai.org/index.php/AAAI/article/view/29559), AAAI 2024 \
+   Yangkai Xue, Jindou Dai, Zhipeng Lu, Yuwei Wu, Yunde Jia
 
 ### [Theoretical Foundations](#content)
 1. [Representation Tradeoffs for Hyperbolic Embeddings](https://arxiv.org/abs/1804.03329), ICML 2018 \
@@ -463,6 +465,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [HiG2Vec: hierarchical representations of Gene Ontology and genes in the Poincaré ball](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857?login=false), Bioinformatics, 2021 \
 *Jaesik Kim, Dokyoon Kim, Kyung-Ah Sohn*
+
+1. [Contrastive Poincaré Maps for single-cell data analysis](https://openreview.net/pdf?id=zsUKE98bNu), ICLR workshop 2024 \
+   Nithya Bhasker, Hattie Chung, Louis Boucherie, Vladislav Kim, Stefanie Speidel, Melanie Weber
 
 ### [Dynamic Graphs](#content)
 
