@@ -341,6 +341,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
    *Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari*
 
+1. [LLMs are Good Action Recognizers](https://arxiv.org/html/2404.00532v1), arxiv 2024 \
+   *Haoxuan Qu, Yujun Cai, Jun Liu*
+
 ## [Applications](#content)
 
 
@@ -557,6 +560,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 ### [Computer Vision](#content)
 
+1. [Improving Visual Recognition with Hyperbolical Visual Hierarchy Mapping](https://arxiv.org/pdf/2404.00974.pdf)
+   Hyeongjun Kwon, Jinhyun Jang, Jin Kim, Kwonyoung Kim, Kwanghoon Sohn
 1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
    *Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari*
 
