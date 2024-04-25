@@ -63,7 +63,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
-## [✨New❗️(March 28, 2024)](#content)
+## [✨New❗️(April 25, 2024)](#content)
 1. [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh), ICLR 2024 
 
 1. [The Dark Side of the Hyperbolic Moon](https://openreview.net/forum?id=zbKcFZ6Dbp), ICLR 2024 
@@ -283,9 +283,13 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning](https://arxiv.org/abs/2309.04082), arxiv 2023 \
    *Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee*
+   
 
 
 ### [Semi-Riemannian Learning](#content)
+
+1. [Directed Graph Embeddings in Pseudo-Riemannian Manifolds](https://arxiv.org/abs/2106.08678), ICML 2021 \
+   Aaron Sim, Maciej Wiatrak, Angus Brayne, Páidí Creed, Saee Paliwal
 
 1. [Semi-Riemannian Graph Convolutional Networks](https://arxiv.org/abs/2106.03134), NeurIPS 2022 \
    *Bo Xiong, Shichao Zhu, Nico Potyka, Shirui Pan, Chuan Zhou, Steffen Staab*
@@ -295,6 +299,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [Ultrahyperbolic Representation Learning](https://arxiv.org/abs/2007.00211), NeurIPS 2020 \
    *Marc T. Law, Jos Stam*
+
 
 ### [Hyperbolic Generation Models](#content)
 
@@ -420,6 +425,12 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 ### [Knowledge Graphs](#content)
 
+2. [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2005.00545), ACL 2019 \
+*Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré*
+
+1. [Multi-relational Poincaré Graph Embeddings](https://arxiv.org/abs/1905.09791), NeurIPS 2019 \
+*Ivana Balažević, Carl Allen, Timothy Hospedales*
+
 1. [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162), EMNLP 2020 \
 *Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang*
 
@@ -432,11 +443,6 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [Geometry Interaction Knowledge Graph Embeddings](https://arxiv.org/abs/2206.12418) for KG embedding, AAAI 2022 \
    *Zongsheng Cao, Qianqian Xu, Zhiyong Yang, Xiaochun Cao, Qingming Huang*
 
-2. [Low-Dimensional Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2005.00545), ACL 2019 \
-*Ines Chami, Adva Wolf, Da-Cheng Juan, Frederic Sala, Sujith Ravi, Christopher Ré*
-
-1. [Multi-relational Poincaré Graph Embeddings](https://arxiv.org/abs/1905.09791), NeurIPS 2019 \
-*Ivana Balažević, Carl Allen, Timothy Hospedales*
 
 1. [Modeling Heterogeneous Hierarchies with Relation-specific Hyperbolic Cones](https://arxiv.org/abs/2110.14923)， NeurIPS 2021 \
 *Yushi Bai, Rex Ying, Hongyu Ren, Jure Leskovec*
@@ -456,7 +462,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [FFHR: Fully and Flexible Hyperbolic Representation for Knowledge Graph Completion](https://arxiv.org/pdf/2302.04088.pdf),arxiv 2023 \
 *Wentao Shi, Junkang Wu, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Wei Wu, Xiangnan He*
-   
+
+1. [Mixed Geometry Message and Trainable Convolutional Attention Network for Knowledge Graph Completion](https://ojs.aaai.org/index.php/AAAI/article/view/28745), AAAI 2024 \
+   Bin Shang, Yinliang Zhao, Jun Liu, Di Wang
 
 ### [Molecular Learning](#content)
 
