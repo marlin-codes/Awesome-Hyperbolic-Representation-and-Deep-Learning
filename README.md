@@ -254,6 +254,13 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [Generalization Bounds for Graph Embedding Using Negative Sampling: Linear vs Hyperbolic](https://proceedings.neurips.cc/paper/2021/hash/09779bb7930c8a0a44360e12b538ae3c-Abstract.html), NeurIPS 2021 \
    *Atsushi Suzuki, Atsushi Nitanda, jing wang, Linchuan Xu, Kenji Yamanishi, Marc Cavazza*
 
+### Analysis
+
+1. [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013) WACV \
+*Gabriel Moreira, Manuel Marques, João Paulo Costeira, Alexander Hauptmann*
+
+1. [Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021 \
+*Sixiao Zhang, Hongxu Chen, Xiao Ming, Lizhen Cui, Hongzhi Yin, Guandong Xu*
 
 ### [Mixed Curvature Learning](#content)
 
