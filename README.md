@@ -31,7 +31,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 </tr> 
 <tr>
     <td>&ensp;<a href="#hyperbolic-generation-models">3.7 Hyperbolic Generation Models</a></td>
-    <td>&ensp;<a href="#llm-and-hyperbolic-space">3.7 LLM && Hyperbolic Space</a></td>
+    <td>&ensp;<a href="#llm-and-hyperbolic-space">3.8 LLM && Hyperbolic Space</a></td>
 </tr>
 <tr><td colspan="2"><a href="#applications", p style="color:#B22222">4. Applications</a></td></tr> 
 <tr>
@@ -63,7 +63,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
-## [✨New❗️(April 25, 2024)](#content)
+## [✨New❗️(May 2, 2024)](#content)
 1. [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh), ICLR 2024 
 
 1. [The Dark Side of the Hyperbolic Moon](https://openreview.net/forum?id=zbKcFZ6Dbp), ICLR 2024 
