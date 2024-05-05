@@ -692,5 +692,14 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data](https://ieeexplore.ieee.org/abstract/document/9749838), TPAMI \
 *Zhi Gao, Yuwei Wu, Mehrtash Harandi, and Yunde Jia*
 
-
-
+## Citation
+To cite this repository:
+```
+@misc{hyperbolic-repo,
+  author = {Menglin Yang, Min Zhou},
+  title = {{Hyperbolic Representation and Deep Learning: A Comprehensive Collection}},
+  howpublished = {\url{https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning}},
+  year = 2024,
+  month = May
+}
+```
