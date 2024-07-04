@@ -63,43 +63,46 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
 
 
-## [✨New❗️(May 5, 2024)](#content)
-1. [The Numerical Stability of Hyperbolic Representation Learning](https://proceedings.mlr.press/v202/mishne23a.html), ICML 2023
+## [✨New❗️(July 4, 2024)](#content)
+1. [Hypformer: Exploring Efficient Hyperbolic Transformer Fully in Hyperbolic Space](https://arxiv.org/abs/2407.01290), KDD 2024
+1. [Hyperbolicity Measures “Democracy” in Real-World Networks](https://arxiv.org/abs/1503.03061), Phys. Rev. E 2015
+
+3. [The Numerical Stability of Hyperbolic Representation Learning](https://proceedings.mlr.press/v202/mishne23a.html), ICML 2023
    
-2. [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh), ICLR 2024 
+4. [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://openreview.net/forum?id=ekz1hN5QNh), ICLR 2024 
 
-3. [The Dark Side of the Hyperbolic Moon](https://openreview.net/forum?id=zbKcFZ6Dbp), ICLR 2024 
+5. [The Dark Side of the Hyperbolic Moon](https://openreview.net/forum?id=zbKcFZ6Dbp), ICLR 2024 
 
-4. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://openreview.net/forum?id=q9jQPA6zPK), ICLR 2024 
+6. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://openreview.net/forum?id=q9jQPA6zPK), ICLR 2024 
 
-5. [Fast Hyperboloid Decision Tree Algorithms](https://openreview.net/forum?id=TTonmgTT9X), ICLR 2024 
+7. [Fast Hyperboloid Decision Tree Algorithms](https://openreview.net/forum?id=TTonmgTT9X), ICLR 2024 
 
-6. [Ultra-sparse network advantage in deep learning via Cannistraci-Hebb brain-inspired training with hyperbolic meta-deep community-layered epitopology](https://openreview.net/forum?id=iayEcORsGd), ICLR 2024 
+8. [Ultra-sparse network advantage in deep learning via Cannistraci-Hebb brain-inspired training with hyperbolic meta-deep community-layered epitopology](https://openreview.net/forum?id=iayEcORsGd), ICLR 2024 
 
-7. [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L), ICLR 2024
+9.  [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L), ICLR 2024
 
-8. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
+10. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
     *Seunghyuk Cho, Juyong Lee, Dongwoo Kim*
 
-9.  [Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels](https://arxiv.org/abs/2311.11019), NeurIPS, 2023 \
+11. [Hyperbolic Space with Hierarchical Margin Boosts Fine-Grained Learning from Coarse Labels](https://arxiv.org/abs/2311.11019), NeurIPS, 2023 \
     *Shu-Lin Xu, Yifan Sun, Faen Zhang, Anqi Xu, Xiu-Shen Wei, Yi Yang*
 
-10. [Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach](https://arxiv.org/abs/2310.18918), NeurIPS 2023 \
+12. [Hyperbolic Graph Neural Networks at Scale: A Meta Learning Approach](https://arxiv.org/abs/2310.18918), NeurIPS 2023 \
    *Nurendra Choudhary, Nikhil Rao, Chandan K. Reddy*
    
-11. [Fitting trees to $\ell_1$-hyperbolic distances](https://openreview.net/forum?id=xo2lbfQE8I), NeurIPS 2023 \
+13. [Fitting trees to $\ell_1$-hyperbolic distances](https://openreview.net/forum?id=xo2lbfQE8I), NeurIPS 2023 \
    *Joon-Hyeok Yim, Anna Gilbert*
 
-12. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://arxiv.org/abs/2311.00462v2), arxiv 2023 \
+14. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://arxiv.org/abs/2311.00462v2), arxiv 2023 \
     *Heng Dong, Junyu Zhang, Chongjie Zhang*
 
-13. [Alignment and Outer Shell Isotropy for Hyperbolic Graph Contrastive Learning](https://arxiv.org/abs/2310.18209v1), arxiv 2023 \
+15. [Alignment and Outer Shell Isotropy for Hyperbolic Graph Contrastive Learning](https://arxiv.org/abs/2310.18209v1), arxiv 2023 \
    *Yifei Zhang, Hao Zhu, Jiahong Liu, Piotr Koniusz, Irwin King*
 
-14. [Riemannian Residual Neural Networks](https://arxiv.org/abs/2310.10013), arxiv 2023 \
+16. [Riemannian Residual Neural Networks](https://arxiv.org/abs/2310.10013), arxiv 2023 \
    *Isay Katsman, Eric Ming Chen, Sidhanth Holalkere, Anna Asch, Aaron Lou, Ser-Nam Lim, Christopher De Sa*
 
-15. [Tempered Calculus for ML: Application to Hyperbolic Model Embedding](https://arxiv.org/abs/2402.04163), arxiv 2024 \
+17. [Tempered Calculus for ML: Application to Hyperbolic Model Embedding](https://arxiv.org/abs/2402.04163), arxiv 2024 \
    *Richard Nock, Ehsan Amid, Frank Nielsen, Alexander Soen, Manfred K. Warmuth*
 
 ## [Surveys, Books, Tools, Tutorials](#content)
@@ -220,6 +223,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [Nested Hyperbolic Spaces for Dimensionality Reduction and Hyperbolic NN Design](https://arxiv.org/abs/2112.03402), CVPR 2022 \
    *Xiran Fan, Chun-Hao Yang, Baba C. Vemuri*
 
+1. [Hypformer: Exploring Efficient Hyperbolic Transformer Fully in Hyperbolic Space](https://arxiv.org/abs/2407.01290), KDD 2024 \
+   Menglin Yang, Harshit Verma, Delvin Ce Zhang, Jiahong Liu, Irwin King, Rex Ying
+
 
 ### [Hyperbolic Graph Neural Network](#content)
 
@@ -265,6 +271,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908) KDD 2021 \
 *Sixiao Zhang, Hongxu Chen, Xiao Ming, Lizhen Cui, Hongzhi Yin, Guandong Xu*
+
+1. [Hyperbolicity Measures “Democracy” in Real-World Networks](https://arxiv.org/abs/1503.03061), Phys. Rev. E 2015
+   Michele Borassi, Alessandro Chessa, and Guido Caldarelli
 
 ### [Mixed Curvature Learning](#content)
 
