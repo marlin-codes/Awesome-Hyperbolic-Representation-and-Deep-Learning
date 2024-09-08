@@ -75,7 +75,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-> [🔥 New (Sept 8, 2024)] Notes: add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 20224 papers, if I missed your papers, feel free to let me know.
+> 🔥 Update Notes (Sept 8, 2024) : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers, if I missed your papers, feel free to let me know.
 
 
 **ICML 2024**
