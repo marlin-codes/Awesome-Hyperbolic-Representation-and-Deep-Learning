@@ -573,17 +573,26 @@ Wentao Shi, Junkang Wu, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Wei Wu, Xiangnan 
 
 ### [Molecular Learning](#content)
 
-1. [Hyperbolic relational graph convolution networks plus: a simple but highly efficient QSAR-modeling method](https://academic.oup.com/bib/article-abstract/22/5/bbab112/6235968?redirectedFrom=fulltext), Briefings in Bioinformatics 2021 \
-Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Cao, Tingjun Hou
-
 1. [Semi-supervised  hierarchical  drug  embedding  inhyperbolic space](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00681), J. Chem. Inf. Model 2020 \
 Ke Yu\*, Shyam Visweswaran\*, and Kayhan Batmanghelich
 
 1. [HiG2Vec: hierarchical representations of Gene Ontology and genes in the Poincaré ball](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857?login=false), Bioinformatics, 2021 \
 Jaesik Kim, Dokyoon Kim, Kyung-Ah Sohn
 
+1. [Hyperbolic relational graph convolution networks plus: a simple but highly efficient QSAR-modeling method](https://academic.oup.com/bib/article-abstract/22/5/bbab112/6235968?redirectedFrom=fulltext), Briefings in Bioinformatics 2021 \
+Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Cao, Tingjun Hou
+
 1. [Contrastive Poincaré Maps for single-cell data analysis](https://openreview.net/pdf?id=zsUKE98bNu), ICLR workshop 2024 \
    Nithya Bhasker, Hattie Chung, Louis Boucherie, Vladislav Kim, Stefanie Speidel, Melanie Weber
+
+1. [Hyperbolic Graph Diffusion Model](https://arxiv.org/abs/2306.07618), AAAI 2024 \
+   Lingfeng Wen, Xuan Tang, Mingjie Ouyang, Xiangxiang Shen, Jian Yang, Daxin Zhu, Mingsong Chen, Xian Wei
+   
+1. [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188), ICML 2024 \
+   Xingcheng Fu, Yisen Gao, Yuecen Wei, Qingyun Sun, Hao Peng, Jianxin Li, Xianxian Li
+
+1. [Deep generative model embedding of single-cell RNA-Seq profiles on hyperspheres and hyperbolic spaces](https://www.nature.com/articles/s41467-021-22851-4), Natur Communications 2021 \
+   Jiarui Ding, Aviv Regev 
  
 ### [Dynamic Graphs](#content)
 
@@ -806,6 +815,6 @@ To cite this repository:
   title = {{Hyperbolic Representation and Deep Learning: A Comprehensive Collection}},
   howpublished = {\url{https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning}},
   year = 2024,
-  month = May
+  month = September
 }
 ```
