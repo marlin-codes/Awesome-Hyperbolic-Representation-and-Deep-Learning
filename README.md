@@ -191,6 +191,7 @@ Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy
 1. [HypLL: The Hyperbolic Learning Library](https://arxiv.org/abs/2306.06154), [GitHub](https://github.com/maxvanspengler/hyperbolic_learning_library) \
    Max van Spengler, Philipp Wirth, Pascal Mettes
 
+1. [Geomstats](https://geomstats.github.io/), [Pymanopt](https://pymanopt.org/)
 
 ### [Tutorials](#content)
 
