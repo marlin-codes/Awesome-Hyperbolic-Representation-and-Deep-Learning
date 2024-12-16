@@ -75,7 +75,16 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-> 🔥 Update Notes (Sept 8, 2024) : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers, if I missed your papers, feel free to let me know.
+- Dec 16, 2024 : add NeurIPS 2024 papers 🔥 
+- Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
+ 
+
+**NeurIPS 2024**
+1. [Learning Structured Representations with Hyperbolic Embeddings](https://arxiv.org/abs/2412.01023), NeurIPS 2024 \
+Aditya Sinha, Siqi Zeng, Makoto Yamada, Han Zhao
+
+1. [Hyperbolic Embeddings of Supervised Models](https://openreview.net/pdf/462449e98af15b416d5418ce67b4921a32541c11.pdf), NeurIPS 2024, [Slides](https://users.cecs.anu.edu.au/~rnock/docs/neurips24-nansw-slides.pdf) \
+Richard Nock, Ehsan Amid, Frank Nielsen, Alexander Soen, Manfred Warmuth
 
 
 **ICML 2024**
