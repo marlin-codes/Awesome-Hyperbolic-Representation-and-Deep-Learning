@@ -75,7 +75,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-- Dec 16, 2024 : add NeurIPS 2024 papers 🔥 
+- Dec 29, 2024 : update NeurIPS 2024 papers 🔥 
+- Dec 16, 2024 : add NeurIPS 2024 papers
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
@@ -85,6 +86,9 @@ Aditya Sinha, Siqi Zeng, Makoto Yamada, Han Zhao
 
 1. [Hyperbolic Embeddings of Supervised Models](https://openreview.net/pdf/462449e98af15b416d5418ce67b4921a32541c11.pdf), NeurIPS 2024, [Slides](https://users.cecs.anu.edu.au/~rnock/docs/neurips24-nansw-slides.pdf) \
 Richard Nock, Ehsan Amid, Frank Nielsen, Alexander Soen, Manfred Warmuth
+
+1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), NeurIPS 2024 \
+Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
 
 
 **ICML 2024**
@@ -455,7 +459,7 @@ Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, E
 
 ### [LLM and Hyperbolic Space](#content)
 
-1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), arxiv 2024 \
+1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), NeurIPS 2024 \
 Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
 
 1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
