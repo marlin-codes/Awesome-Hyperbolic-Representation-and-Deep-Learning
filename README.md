@@ -85,6 +85,9 @@ Richard Nock, Ehsan Amid, Frank Nielsen, Alexander Soen, Manfred Warmuth
 1. [Language Models as Hierarchy Encoders](https://arxiv.org/abs/2401.11374), NeurIPS 2024 \
 Yuan He, Zhangdie Yuan, Jiaoyan Chen, Ian Horrocks
 
+1. [Non-Euclidean Mixture Model for Social Network Embedding](https://arxiv.org/pdf/2411.04876), NeurIPS 2024 \
+Roshni G. Iyer, Yewen Wang, Wei Wang, Yizhou Sun
+
 
 **ICML 2024**
 1. [Hyperbolic Active Learning for Semantic Segmentation under Domain Shift](https://proceedings.mlr.press/v235/franco24a.html), ICML 2024 \
