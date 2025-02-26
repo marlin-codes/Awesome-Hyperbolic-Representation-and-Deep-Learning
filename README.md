@@ -429,10 +429,7 @@ Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
 1. [Lorentzian fully hyperbolic generative adversarial network](https://arxiv.org/abs/2201.12825), arxiv 2022 \
    Eric Qu, Dongmian Zou
 
-1. [Hyperbolic VAE via Latent Gaussian Distributions](https://arxiv.org/abs/2209.15217), NeurIPS 2023 \
-    Seunghyuk Cho, Juyong Lee, Dongwoo Kim
-
-1. [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188), ICML 2024 \
+2. [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188), ICML 2024 \
    Xingcheng Fu, Yisen Gao, Yuecen Wei, Qingyun Sun, Hao Peng, Jianxin Li, Xianxian Li
 
 ### [Hyperbolic Operations](#content)
@@ -849,7 +846,7 @@ Zhi Gao, Yuwei Wu, Yunde Jia, Mehrtash Harandi
 1. [Exploring Data Geometry for Continual Learning](https://arxiv.org/abs/2304.03931) CVPR 2023 \
 Zhi Gao, Chen Xu, Feng Li, Yunde Jia, Mehrtash Harandi, Yuwei Wu
 
-1. [Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data](https://ieeexplore.ieee.org/abstract/document/9749838), TPAMI \
+1. [Curvature-Adaptive Meta-Learning for Fast Adaptation to Manifold Data](https://ieeexplore.ieee.org/abstract/document/9749838), TPAMI 2023\
 Zhi Gao, Yuwei Wu, Mehrtash Harandi, and Yunde Jia
 
 ## Citation
