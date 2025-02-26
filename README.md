@@ -70,15 +70,15 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-- Feb 26, 2025 : update ICLR 2025 papers
-- Dec 29, 2024 : update NeurIPS 2024 papers 🔥 
+- Feb 26, 2025 : update ICLR 2025 papers 🔥 
+- Dec 29, 2024 : update NeurIPS 2024 papers 
 - Dec 16, 2024 : add NeurIPS 2024 papers
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
 
 **ICLR 2025**
-1. [Compositional Entailment Learning for Hyperbolic Vision-Language Models](), ICLR 2025 \
+1. [Compositional Entailment Learning for Hyperbolic Vision-Language Models](https://openreview.net/forum?id=3i13Gev2hV), ICLR 2025 \
    Avik Pal, Max van Spengler, Guido Maria D'Amely di Melendugno, Alessandro Flaborea, Fabio Galasso, Pascal Mettes
 
 1. [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0), ICLR 2025 \
