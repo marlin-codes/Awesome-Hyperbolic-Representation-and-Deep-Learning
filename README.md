@@ -70,10 +70,29 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- Feb 26, 2025 : update ICLR 2025 papers
 - Dec 29, 2024 : update NeurIPS 2024 papers 🔥 
 - Dec 16, 2024 : add NeurIPS 2024 papers
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
+
+
+**ICLR 2025**
+1. [Compositional Entailment Learning for Hyperbolic Vision-Language Models](), ICLR 2025 \
+   Avik Pal, Max van Spengler, Guido Maria D'Amely di Melendugno, Alessandro Flaborea, Fabio Galasso, Pascal Mettes
+
+1. [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0), ICLR 2025 \
+   Raiyan R. Khan, Philippe Chlenski, Itsik Pe'er
+
+1. [Tree-Wasserstein Distance for High Dimensional Data with a Latent Feature Hierarchy](https://openreview.net/forum?id=nYjAzwor9R), ICLR 2025 \
+   Ya-Wei Eileen Lin, Ronald R. Coifman, Gal Mishne, Ronen Talmon
+
+1. [Gyrogroup Batch Normalization](https://openreview.net/forum?id=d1NWq4PjJW), ICLR 2025 \
+   Ziheng Chen, Yue Song, Xiaojun Wu, Nicu Sebe
+
+1. [Spectro-Riemannian Graph Neural Networks](https://openreview.net/forum?id=2MLvV7fvAz), ICLR 2025 \
+   Karish Grover, Haiyang Yu, Xiang song, Qi Zhu, Han Xie, Vassilis N. Ioannidis, Christos Faloutsos
+
 
 **NeurIPS 2024**
 1. [Learning Structured Representations with Hyperbolic Embeddings](https://arxiv.org/abs/2412.01023), NeurIPS 2024 \
