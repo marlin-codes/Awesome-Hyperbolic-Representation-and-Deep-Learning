@@ -67,14 +67,53 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 **Hyperbolic Slack Group**
 - Slack: https://join.slack.com/t/hyperboliclearning/shared_invite/zt-1qcqgtwfr-HpsRSzDhvkAEal6dOnKDvA
+- Website: https://hyperboliclearning.github.io/
 
 
 ## [Latest Update](#content)
-- Feb 26, 2025 : update ICLR 2025 papers 🔥 
+- Jun  7, 2025 : update CVPR 2025, SIGIR 2025, ACL 2025 paper 🔥
+- Feb 26, 2025 : update ICLR 2025 papers 
 - Dec 29, 2024 : update NeurIPS 2024 papers 
 - Dec 16, 2024 : add NeurIPS 2024 papers
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
+
+
+> 🔥: [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) by Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, Leandros Tassiulas, Menglin Yang, Rex Ying
+
+**CVPR2025**
+
+1. [Hyperbolic Category Discovery](https://arxiv.org/abs/2504.06120), CVPR 2025 \
+*Yuanpei Liu, Zhenqi He, Kai Han*
+
+1. [Parameter-efficient Fine-tuning in Hyperspherical Space for Open-vocabulary Semantic Segmentation](https://arxiv.org/abs/2405.18840), CVPR 2025 \
+*Zelin Peng, Zhengqin Xu, Zhilin Zeng, Changsong Wen, Yu Huang, Menglin Yang, Feilong Tang, Wei Shen*
+
+1. [Hyperbolic Safety-Aware Vision-Language Models](https://arxiv.org/abs/2503.12127), CVPR 2025 \
+*Tobia Poppi, Tejaswi Kasarla, Pascal Mettes, Lorenzo Baraldi, Rita Cucchiara*
+
+1. [Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/34838), CVPR 2025 \
+*Tanuj Sur, Samrat Mukherjee, Kaizer Rahaman, Subhasis Chaudhuri, Muhammad Haris Khan, Biplab Banerjee*
+
+1. [Deep Change Monitoring: A Hyperbolic Representative Learning Framework and a Dataset for Long-term Fine-grained Tree Change Detection](https://arxiv.org/abs/2503.00643), CVPR 2025 \
+*Yante Li, Hanwen Qi, Haoyu Chen, Liang Xinlian, Guoying Zhao*
+
+
+**ACL Findings 2025**
+1. [Enhancing Multi-Hop Reasoning for Question Answering with Hyperbolic Representations](https://2025.aclweb.org/program/find_papers/), ACL Findings 2025 \
+*Simon Welz, Lucie Flek, Akbar Karimi*
+
+**SIGIR 2025**
+1. [VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space]([https://sigir2025.dei.unipd.it/accepted-papers.html](https://sigir2025.dei.unipd.it/accepted-papers.html)), SIGIR 2025 \
+*Yong Chen, Li Li, Wei Peng, Songzhi Su*
+
+1. [Large Language Models Enhanced Hyperbolic Space Recommender Systems](https://arxiv.org/abs/2504.05694), SIGIR 2025 \
+*Wentao Cheng, Zhida Qin, Zexue Wu, Pengzhan Zhou, Tianyu Huang*
+
+1. [Hyperbolic Multi-Criteria Rating Recommendation](https://sigir2025.dei.unipd.it/accepted-papers.html), SIGIR 2025 \
+*Zhihao Guo, Ting Han, Peng Song, Chenjiao Feng, Kaixuan Yao, Jiye Liang*
+
+---
 
 
 **ICLR 2025**
