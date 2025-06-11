@@ -93,6 +93,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- Jun 10, 2025 : add ICML 2025, ICML 2024 papers
 - Jun  7, 2025 : update CVPR 2025, SIGIR 2025, ACL 2025 paper 🔥
 - Feb 26, 2025 : update ICLR 2025 papers 
 - Dec 29, 2024 : update NeurIPS 2024 papers 
@@ -102,6 +103,31 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 > 🔥: [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) by Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, Leandros Tassiulas, Menglin Yang, Rex Ying
+
+**ICML2025**
+1. [Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations](https://arxiv.org/abs/2505.23014), ICML 2025 \
+*Juwei Yue, Haikuo Li, Jiawei Sheng, Xiaodong Li, Taoyu Su, Tingwen Liu, Li Guo*
+
+1. [Sparse Spectral Training and Inference on Euclidean and Hyperbolic Neural Networks](https://arxiv.org/abs/2405.15481), ICML 2025 \
+*Jialin Zhao, Yingtao Zhang, Xinghang Li, Huaping Liu, Carlo Cannistraci*
+
+1. [Low-distortion and GPU-compatible Tree Embeddings in Hyperbolic Space](https://arxiv.org/abs/2502.17130), ICML 2025 \
+*Max van Spengler, Pascal Mettes*
+
+1. [Learning Along the Arrow of Time: Hyperbolic Geometry for Backward-Compatible Representation Learning](https://arxiv.org/abs/2506.05826), ICML 2025 \ 
+*Ngoc Bui, Menglin Yang, Runjin Chen, Leonardo Neves, Mingxuan Ju, Zhitao Ying, Neil Shah, Tong Zhao*
+
+1. [Hyperbolic Graph Transformer for Collaborative Filtering](https://arxiv.org/abs/2502.15693), ICML 2025 \
+*Yang Xin, Xingrun Li, Heng Chang, Yang Jinze, Xihong Yang, Shengyu Tao, Maiko Shigeno, Ningkang Chang, Junfeng Wang, Dawei Yin, Erxue Min*
+
+1. [Mixed-Curvature Decision Trees and Random Forests](https://arxiv.org/abs/2410.13879), ICML 2025 \
+*Philippe Chlenski, Quentin Chu, Raiyan Khan, Kaizhu Du, Antonio Moretti, Itsik Pe'er*
+
+1. [A Mixed-Curvature based Pre-training Paradigm for Multi-Task Vehicle Routing Solver](https://openreview.net/forum?id=JsPyLqCgks), ICML 2025 \
+*Suyu Liu, Zhiguang Cao, Shanshan Feng, Yew Soon Ong*
+
+1. [Curvature-aware Graph Attention for PDEs on Manifolds](https://xiucheng.org/assets/pdfs/icml25-curv-gt.pdf), ICML 2025 \
+*Yunfeng Liao, Jiawen Guan, Xiucheng Li*
 
 **CVPR2025**
 
@@ -192,12 +218,22 @@ Ruikun Li, Huandong Wang, Jinghua Piao, Qingmin Liao, Yong Li
 1. [Improving Robustness of Hyperbolic Neural Networks by Lipschitz Analysis](https://dl.acm.org/doi/pdf/10.1145/3637528.3671875), KDD 2024 \
 Yuekang Li*, Yidan Mao*, Yifei Yang, Dongmian Zou
 
-
-
 **WWW 2024**
 1. [An Efficient Automatic Meta-Path Selection for Social Event Detection via Hyperbolic Space](https://dl.acm.org/doi/10.1145/3589334.3645526), WWW 2024 \
 Zitai Qiu. Congbo Ma, Jia Wu. Jian Yang
 
+**ICLR 2024**
+1. [Leveraging Hyperbolic Embeddings for Coarse-to-Fine Robot Design](https://arxiv.org/abs/2311.00462), ICLR 2024 \
+*Heng Dong, Junyu Zhang, Chongjie Zhang*
+
+1. [Fully Hyperbolic Convolutional Neural Networks for Computer Vision](https://arxiv.org/abs/2303.15919), ICLR 2024 \
+*Ahmad Bdeir, Kristian Schwethelm, Niels Landwehr*
+
+1. [Fast Hyperboloid Decision Tree Algorithms](https://arxiv.org/abs/2310.13841), ICLR 2024 \
+*Philippe Chlenski, Ethan Turok, Antonio Moretti, Itsik Pe'er*
+
+1. [Shadow Cones: A Generalized Framework for Partial Order Embeddings](https://arxiv.org/abs/2305.15215), ICLR 2024 \
+*Tao Yu, Toni J.B. Liu, Albert Tseng, Christopher De Sa*
 
 **SIGIR 2024**
 1. [MetaHKG: Meta Hyperbolic Learning for Few-shot Temporal Reasonin](https://dl.acm.org/doi/10.1145/3626772.3657711), SIGIR 2024 \
@@ -274,6 +310,9 @@ Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy
    Max van Spengler, Philipp Wirth, Pascal Mettes
 
 1. [Geomstats](https://geomstats.github.io/), [Pymanopt](https://pymanopt.org/)
+
+1. [Manify: A Python Library for Learning Non-Euclidean Representations](https://arxiv.org/abs/2503.09576) \
+   Philippe Chlenski, Kaizhu Du, Dylan Satow, Itsik Pe'er
 
 ### [Tutorials](#content)
 
@@ -423,6 +462,7 @@ Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
 
 1. [The Numerical Stability of Hyperbolic Representation Learning](https://proceedings.mlr.press/v202/mishne23a.html), ICML 2023 \
    Gal Mishne, Zhengchao Wan, Yusu Wang, Sheng Yang
+   
 1. [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013) WACV \
    Gabriel Moreira, Manuel Marques, João Paulo Costeira, Alexander Hauptmann
 
@@ -476,7 +516,18 @@ Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
 1. [Curve Your Attention: Mixed-Curvature Transformers for Graph Representation Learning](https://arxiv.org/abs/2309.04082), arxiv 2023 \
    Sungjun Cho, Seunghyuk Cho, Sungwoo Park, Hankook Lee, Honglak Lee, Moontae Lee
    
-1. [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L), ICLR 2024
+1. [Matrix Manifold Neural Networks++](https://openreview.net/forum?id=30aSE3FB3L), ICLR 2024 \
+   Xuan Son Nguyen, Shuo Yang, Aymeric Histace
+
+1. [Linear Classifiers in Product Space Forms](Puoya Tabaghi, Chao Pan, Eli Chien, Jianhao Peng, Olgica Milenkovic), arXiv 2022 \
+   Puoya Tabaghi, Chao Pan, Eli Chien, Jianhao Peng, Olgica Milenkovic
+
+1. [Principal Component Analysis in Space Forms](https://arxiv.org/abs/2301.02750), arXiv 2022 \
+   Puoya Tabaghi, Michael Khanzadeh, Yusu Wang, Sivash Mirarab
+
+1. [Mixed-Curvature Decision Trees and Random Forests](https://arxiv.org/abs/2410.13879), ICML 2025 \
+   Philippe Chlenski, Quentin Chu, Raiyan R. Khan, Kaizhu Du, Antonio Khalil Moretti, Itsik Pe'er
+   
 
 ### [Semi-Riemannian Learning](#content)
 
@@ -510,16 +561,50 @@ Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
 2. [Hyperbolic Geometric Latent Diffusion Model for Graph Generation](https://arxiv.org/abs/2405.03188), ICML 2024 \
    Xingcheng Fu, Yisen Gao, Yuecen Wei, Qingyun Sun, Hao Peng, Jianxin Li, Xianxian Li
 
+### [Hyperbolic Classifiers](#content)
+
+**Support vector machines**
+1. [Large-Margin Classification in Hyperbolic Space](https://arxiv.org/abs/1806.00437), AISTATS 2019\
+   Hyunghoon Cho, Benjamin DeMeo, Jian Peng, Bonnie Berger
+
+1. [Kernel Methods in Hyperbolic Spaces](https://openaccess.thecvf.com/content/ICCV2021/papers/Fang_Kernel_Methods_in_Hyperbolic_Spaces_ICCV_2021_paper.pdf), ICCV 2021 \
+   Pengfei Fang, Mehrtash Harandi, Lars Petersson
+
+1. [Robust Large-Margin Learning in Hyperbolic Space](https://arxiv.org/abs/2004.05465), NeurIPS 2020\
+   Melanie Weber, Manzil Zaheer, Ankit Singh Rawat, Aditya Menon, Sanjiv Kumar
+
+1. [Horospherical Decision Boundaries for Large Margin Classification in Hyperbolic Space](https://arxiv.org/abs/2302.06807), NeurIPS 2023 \
+   Xiran Fan, Chun-Hao Yang, Baba C. Vemuri
+
+**Random Forests**
+1. [Hyperbolic Random Forests](https://arxiv.org/abs/2308.13279), TMLR 2024 \
+   Lars Doorenbos, Pablo Márquez-Neila, Raphael Sznitman, Pascal Mettes
+
+1. [Fast Hyperboloid Decision Tree Algorithms](https://arxiv.org/abs/2310.13841), ICLR 2024 \
+   Philippe Chlenski, Ethan Turok, Antonio Moretti, Itsik Pe'er
+
+1. [Mixed-Curvature Decision Trees and Random Forests](https://arxiv.org/abs/2410.13879), ICML 2025\
+   Philippe Chlenski, Quentin Chu, Raiyan R. Khan, Kaizhu Du, Antonio Khalil Moretti, Itsik Pe'er
+
+1. [Even Faster Hyperbolic Random Forests: A Beltrami-Klein Wrapper Approach](https://www.arxiv.org/abs/2506.04360), arXiv 2025 \
+   Philippe Chlenski, Itsik Pe'er
+
 ### [Hyperbolic Operations](#content)
 
 1. Mean Computation and BatchNorm \
 [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335), ICML 2020 \
 Aaron Lou, Isay Katsman, Qingxuan Jiang, Serge Belongie, Ser-Nam Lim, Christopher De Sa
 
+1. Sampling \
+[A Wrapped Normal Distribution on Hyperbolic Space for Gradient-Based Learning](https://arxiv.org/abs/1902.02992), ICML 2019 \
+Yoshihiro Nagano, Shoichiro Yamaguchi, Yasuhiro Fujita, Masanori Koyama
 
 1. Sampling \
 [Wrapped Distributions on homogeneous Riemannian manifolds](https://arxiv.org/abs/2204.09790), 2022 \
 Fernando Galaz-Garcia, Marios Papamichalis, Kathryn Turnbull, Simon Lunagomez, Edoardo Airoldi
+
+1. Sampling \
+[A Rotated Hyperbolic Wrapped Normal Distribution for Hierarchical Representation Learning](https://arxiv.org/abs/2205.13371), NeurIPS 2022 \
 
 1. MixUp and Data Augmentation \
 [HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776/), EMNLP 2021 \
@@ -532,6 +617,11 @@ Ines Chami\*, Albert Gu\*, Dat Nguyen, Christopher Ré*
 1. TSNE \
  [Accelerating hyperbolic t-SNE](https://arxiv.org/abs/2401.13708), arxiv 2024 \
 Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, Elmar Eisemann, Klaus Hildebrandt
+
+1. Hierarchical Clustering\
+   [From Trees to Continuous Embeddings and Back: Hyperbolic Hierarchical Clustering](https://arxiv.org/abs/2010.00402) \
+   Ines Chami, Albert Gu, Vaggos Chatziafratis, Christopher Ré
+   
 
 ### [LLM and Hyperbolic Space](#content)
 
@@ -1000,6 +1090,41 @@ Yuekang Li, Yidan Mao, Yifei Yang, Dongmian Zou
 
 1. [Hyperbolic Multi-Criteria Rating Recommendation](https://sigir2025.dei.unipd.it/accepted-papers.html), SIGIR 2025 \
 *Zhihao Guo, Ting Han, Peng Song, Chenjiao Feng, Kaixuan Yao, Jiye Liang*
+
+### [Biology](#content)
+
+**Phylogenetics**
+
+1. [Visualising very large phylogenetic trees in three dimensional hyperbolic space](https://pubmed.ncbi.nlm.nih.gov/15117420/), BMC Bioinformatics 2004\
+   Timothy Hughes, Young Hyun, David A Liberles
+
+1. [Novel metric for hyperbolic phylogenetic tree embeddings](https://www.biorxiv.org/content/10.1101/2020.10.09.334243v1.full), Biology Methods and Protocols 2021\
+   Hirotaka Matsumoto, Takahiro Mimori, Tsukasa Fukunaga
+
+1. [Learning Hyperbolic Embedding for Phylogenetic Tree Placement and Updates](https://www.mdpi.com/2079-7737/11/9/1256), Biology 2022\
+   Yueyu Jiang, Puoya Tabaghi, Siavash Mirarab
+
+1. [GeoPhy: Differentiable Phylogenetic Inference via Geometric Gradients of Tree Topologies], NeurIPS 2023\
+   Takahiro Mimori, Michiaki Hamada
+
+1. [Differentiable Phylogenetics via Hyperbolic Embeddings with Dodonaphy](https://arxiv.org/abs/2309.11732), Bioinformatics Advances 2024 \
+   Matthew Macaulay and Mathieu Fourment
+
+1. [Variational Combinatorial Sequential Monte Carlo for Bayesian Phylogenetics in Hyperbolic Space](https://arxiv.org/abs/2501.17965), AISTATS 2025 \
+   Alex Chen, Philipe Chlenski, Kenneth Munyuza, Antonio Khalil Moretti, Christian A. Naesseth, Itsik Pe'er
+
+**Genomics**
+1. [Neural Distance Embeddings for Biological Sequences](https://arxiv.org/abs/2109.09740), NeurIPS 2021 \
+   Gabriele Corso, Rex Ying, Michal Pándy, Petar Veličković, Jure Leskovec, Pietro Liò
+
+1. [Deep generative model embedding of single-cell RNA-Seq profiles on hyperspheres and hyperbolic spaces](https://pubmed.ncbi.nlm.nih.gov/33953202/), Nature Communications 2021\
+   Jiarui Ding, Aviv Regev
+
+1. [Poincaré Maps for Analyzing Complex Hierarchies in Single-Cell Data](https://pubmed.ncbi.nlm.nih.gov/32528075/), Nature Communications 2020 \
+   Anna Klimovskaia, David Lopez-Paz, Léon Bottou, Maximilian Nickel
+
+1. [Hyperbolic Genome Embeddings](https://openreview.net/forum?id=NkGDNM8LB0), ICLR 2025 \
+   Raiyan R. Khan, Philippe Chlenski, Itsik Pe'er
 
 ## Citation
 To cite this repository:
