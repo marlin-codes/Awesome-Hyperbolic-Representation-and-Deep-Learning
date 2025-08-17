@@ -7,63 +7,63 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 <table>
 <tr><td colspan="2"><a href="#latest-update" style="color:#B22222">1. Latest Update</a></td></tr> 
-<tr><td colspan="2"><a href="papers.md#methods-and-models" style="color:#B22222">2. Methods and Models</a></td></tr> 
+<tr><td colspan="2"><a href="papers.md#2-methods-and-models" style="color:#B22222">2. Methods and Models</a></td></tr> 
 <tr>
-    <td>&ensp;<a href="papers.md#hyperbolic-shallow-model">2.1 Hyperbolic Shallow Model</a></td>
-    <td>&ensp;<a href="papers.md#hyperbolic-neural-network">2.2 Hyperbolic Neural Network</a></td>
+    <td>&ensp;<a href="papers.md#21-hyperbolic-shallow-model">2.1 Hyperbolic Shallow Model</a></td>
+    <td>&ensp;<a href="papers.md#22-hyperbolic-neural-network">2.2 Hyperbolic Neural Network</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="papers.md#hyperbolic-graph-neural-network">2.3 Hyperbolic Graph Neural Network</a></td>
-    <td>&ensp;<a href="papers.md#hyperbolic-transformer">2.4 Hyperbolic Transformer</a></td>
+    <td>&ensp;<a href="papers.md#23-hyperbolic-graph-neural-network">2.3 Hyperbolic Graph Neural Network</a></td>
+    <td>&ensp;<a href="papers.md#24-hyperbolic-transformer">2.4 Hyperbolic Transformer</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#mixed-curvature-learning">2.5 Mixed Curvature Learning</a></td>
-    <td>&ensp;<a href="papers.md#semi-riemannian-learning">2.6 Semi-Riemannian Learning</a></td>
+    <td>&ensp;<a href="papers.md#29-mixed-curvature-learning">2.5 Mixed Curvature Learning</a></td>
+    <td>&ensp;<a href="papers.md#210-semi-riemannian-learning">2.6 Semi-Riemannian Learning</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="papers.md#hyperbolic-generative-models">2.7 Hyperbolic Generative Models</a></td>
-    <td>&ensp;<a href="papers.md#hyperbolic-operations">2.8 Hyperbolic Operations</a></td>
+    <td>&ensp;<a href="papers.md#211-hyperbolic-generative-models">2.7 Hyperbolic Generative Models</a></td>
+    <td>&ensp;<a href="papers.md#213-hyperbolic-operations">2.8 Hyperbolic Operations</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#llm-and-hyperbolic-space">2.9 LLM && Hyperbolic Space</a></td>
-    <td>&ensp;<a href="papers.md#analysis">2.10 Analysis</a></td>
+    <td>&ensp;<a href="papers.md#214-llm-and-hyperbolic-space">2.9 LLM && Hyperbolic Space</a></td>
+    <td>&ensp;<a href="papers.md#26-analysis">2.10 Analysis</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#numerical-problems">2.11 Numerical Problems</a></td>
-    <td>&ensp;<a href="papers.md#explicitly-tree-embedding">2.12 Explicitly Tree Embedding</a></td>
+    <td>&ensp;<a href="papers.md#27-numerical-problems">2.11 Numerical Problems</a></td>
+    <td>&ensp;<a href="papers.md#28-explicitly-tree-embedding">2.12 Explicitly Tree Embedding</a></td>
 </tr>
-<tr><td colspan="2"><a href="papers.md#applications" style="color:#B22222">3. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="papers.md#3-applications" style="color:#B22222">3. Applications</a></td></tr> 
 <tr>
-    <td>&ensp;<a href="papers.md#natural-language-processing">3.1 Natural Language Processing</a></td>
-    <td>&ensp;<a href="papers.md#computer-vision">3.2 Computer Vision</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="papers.md#graph-embeddings">3.3 Graph Embedding</a></td>
-    <td>&ensp;<a href="papers.md#recommender-systems">3.4 Recommender Systems</a></td>
+    <td>&ensp;<a href="papers.md#31-natural-language-processing">3.1 Natural Language Processing</a></td>
+    <td>&ensp;<a href="papers.md#32-computer-vision">3.2 Computer Vision</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#knowledge-graphs">3.5 Knowledge Graphs</a></td>
-    <td>&ensp;<a href="papers.md#molecular-learning">3.6 Molecular Learning</a></td>
+    <td>&ensp;<a href="papers.md#33-graph-embeddings">3.3 Graph Embedding</a></td>
+    <td>&ensp;<a href="papers.md#34-recommender-systems">3.4 Recommender Systems</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#code-representation">3.7 Code Representation</a></td>
-    <td>&ensp;<a href="papers.md#multi-label-learning">3.8 Multi-label Learning</a></td>
+    <td>&ensp;<a href="papers.md#35-knowledge-graphs">3.5 Knowledge Graphs</a></td>
+    <td>&ensp;<a href="papers.md#36-molecular-learning">3.6 Molecular Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#hyperbolic-metric-learning">3.9 Hyperbolic Metric Learning</a></td>
-    <td>&ensp;<a href="papers.md#data-driven-geometry-learning">3.10 Data-driven Geometry Learning</a></td>
+    <td>&ensp;<a href="papers.md#37-code-representation">3.7 Code Representation</a></td>
+    <td>&ensp;<a href="papers.md#38-multi-label-learning">3.8 Multi-label Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#few-shot-learning">3.11 Few-Shot Learning</a></td>
-    <td>&ensp;<a href="papers.md#open-vocabulary-learning">3.12 Open-Vocabulary Learning</a></td>
+    <td>&ensp;<a href="papers.md#39-hyperbolic-metric-learning">3.9 Hyperbolic Metric Learning</a></td>
+    <td>&ensp;<a href="papers.md#310-data-driven-geometry-learning">3.10 Data-driven Geometry Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#safety-and-robustness">3.13 Safety and Robustness</a></td>
-    <td>&ensp;<a href="papers.md#environmental-monitoring">3.14 Environmental Monitoring</a></td>
+    <td>&ensp;<a href="papers.md#311-few-shot-learning">3.11 Few-Shot Learning</a></td>
+    <td>&ensp;<a href="papers.md#312-open-vocabulary-learning">3.12 Open-Vocabulary Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#category-discovery">3.15 Category Discovery</a></td>
-    <td>&ensp;<a href="papers.md#multi-criteria-learning">3.16 Multi-Criteria Learning</a></td>
+    <td>&ensp;<a href="papers.md#313-safety-and-robustness">3.13 Safety and Robustness</a></td>
+    <td>&ensp;<a href="papers.md#314-environmental-monitoring">3.14 Environmental Monitoring</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="papers.md#315-category-discovery">3.15 Category Discovery</a></td>
+    <td>&ensp;<a href="papers.md#316-multi-criteria-learning">3.16 Multi-Criteria Learning</a></td>
 </tr>
 </table>
 
