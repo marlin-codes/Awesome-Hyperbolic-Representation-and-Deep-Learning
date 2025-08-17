@@ -76,9 +76,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-- August 17, 2025: add ICCV 2025 papers
+- August 17, 2025: add ICCV 2025 papers 🔥
 - Jun 10, 2025 : add ICML 2025, ICML 2024 papers
-- Jun  7, 2025 : update CVPR 2025, SIGIR 2025, ACL 2025 paper 🔥
+- Jun  7, 2025 : update CVPR 2025, SIGIR 2025, ACL 2025 paper
 - Feb 26, 2025 : update ICLR 2025 papers 
 - Dec 29, 2024 : update NeurIPS 2024 papers 
 - Dec 16, 2024 : add NeurIPS 2024 papers
@@ -100,16 +100,19 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 **ICCV 2025**
 
+1. [Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](https://arxiv.org/pdf/2507.17402),  [Code](https://github.com/lijun2005/ICCV25-HLFormer), ICCV 2025, \
+*Jun Li, Jinpeng Wang, Chaolei Tan, Niu Lian, Long Chen, Yaowei Wang, Min Zhang, Shu-Tao Xia, Bin Chen*
+
 1. [HypDAE: Hyperbolic Diffusion Autoencoders for Hierarchical Few-shot Image Generation](https://arxiv.org/abs/2411.17784), ICCV 2025 \
 *Lingxiao Li, Kaixuan Fan, Boqing Gong, Xiangyu Yue*
 
 1. [Learning Visual Hierarchies in Hyperbolic Space for Image Retrieval](https://arxiv.org/abs/2411.17490), ICCV 2025 \
 *Ziwei Wang, Sameera Ramasinghe, Chenchen Xu, Julien Monteil, Loris Bazzani, Thalaiyasingam Ajanthan*
 
-1. [Riemannian-Geometric Fingerprints of Generative Models](https://arxiv.org/abs/2506.22802), arXiv 2024 \
+1. [Riemannian-Geometric Fingerprints of Generative Models](https://arxiv.org/abs/2506.22802), ICCV 2025 \
 *Hae Jin Song, Laurent Itti*
 
-**ICML2025**
+**ICML 2025**
 1. [Hyperbolic-PDE GNN: Spectral Graph Neural Networks in the Perspective of A System of Hyperbolic Partial Differential Equations](https://arxiv.org/abs/2505.23014), ICML 2025 \
 *Juwei Yue, Haikuo Li, Jiawei Sheng, Xiaodong Li, Taoyu Su, Tingwen Liu, Li Guo*
 

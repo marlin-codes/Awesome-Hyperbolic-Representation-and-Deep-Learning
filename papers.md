@@ -88,7 +88,7 @@ This document contains detailed paper listings organized by subcategories. For t
 
 1. [Hyperbolic Deep Learning for Foundation Models: A Survey](https://arxiv.org/abs/2507.17787), KDD 2025 \
   *Neil He, Hiren Madhu, Ngoc Bui, Menglin Yang, Rex Ying*
-  
+
 1. [Hyperbolic Deep Learning in Computer Vision: A Survey](https://arxiv.org/abs/2305.06611), arxiv 2023 \
    Pascal Mettes, Mina Ghadimi Atigh, Martin Keller-Ressel, Jeffrey Gu, Serena Yeung
 
@@ -526,10 +526,13 @@ Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K.
 
 ### [Computer Vision](#content)
 
+1. [Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](https://arxiv.org/pdf/2507.17402),  [Code](https://github.com/lijun2005/ICCV25-HLFormer), ICCV 2025, \
+*Jun Li, Jinpeng Wang, Chaolei Tan, Niu Lian, Long Chen, Yaowei Wang, Min Zhang, Shu-Tao Xia, Bin Chen*
+
 1. [HypDAE: Hyperbolic Diffusion Autoencoders for Hierarchical Few-shot Image Generation](https://arxiv.org/abs/2411.17784), ICCV 2025 \
 *Lingxiao Li, Kaixuan Fan, Boqing Gong, Xiangyu Yue*
 
-1. [Learning Visual Hierarchies in Hyperbolic Space for Image Retrieval](https://arxiv.org/abs/2411.17490), arXiv 2024 \
+1. [Learning Visual Hierarchies in Hyperbolic Space for Image Retrieval](https://arxiv.org/abs/2411.17490), ICCV 2025 \
 *Ziwei Wang, Sameera Ramasinghe, Chenchen Xu, Julien Monteil, Loris Bazzani, Thalaiyasingam Ajanthan*
 
 1. [Hyperbolic Category Discovery](https://arxiv.org/abs/2504.06120), CVPR 2025 \
@@ -550,7 +553,7 @@ Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K.
 1. [Improving Visual Recognition with Hyperbolical Visual Hierarchy Mapping](https://arxiv.org/pdf/2404.00974.pdf), CVPR 2025
    Hyeongjun Kwon, Jinhyun Jang, Jin Kim, Kwonyoung Kim, Kwanghoon Sohn
 
-1. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
+2. [HyperSDFusion: Bridging Hierarchical Structures in Language and Geometry for Enhanced 3D Text2Shape Generation](https://arxiv.org/pdf/2403.00372.pdf), arxiv 2024 \
    Zhiying Leng, Tolga Birdal, Xiaohui Liang, Federico Tombari
 
 
