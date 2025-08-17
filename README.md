@@ -7,7 +7,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 <table>
 <tr><td colspan="2"><a href="#latest-update" style="color:#B22222">1. Latest Update</a></td></tr> 
-<tr><td colspan="2"><a href="#methods-and-models" style="color:#B22222">2. Methods and Models</a></td></tr> 
+<tr><td colspan="2"><a href="papers.md#methods-and-models" style="color:#B22222">2. Methods and Models</a></td></tr> 
 <tr>
     <td>&ensp;<a href="papers.md#hyperbolic-shallow-model">2.1 Hyperbolic Shallow Model</a></td>
     <td>&ensp;<a href="papers.md#hyperbolic-neural-network">2.2 Hyperbolic Neural Network</a></td>
@@ -32,7 +32,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
     <td>&ensp;<a href="papers.md#numerical-problems">2.11 Numerical Problems</a></td>
     <td>&ensp;<a href="papers.md#explicitly-tree-embedding">2.12 Explicitly Tree Embedding</a></td>
 </tr>
-<tr><td colspan="2"><a href="#applications" style="color:#B22222">3. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="papers.md#applications" style="color:#B22222">3. Applications</a></td></tr> 
 <tr>
     <td>&ensp;<a href="papers.md#natural-language-processing">3.1 Natural Language Processing</a></td>
     <td>&ensp;<a href="papers.md#computer-vision">3.2 Computer Vision</a></td>
