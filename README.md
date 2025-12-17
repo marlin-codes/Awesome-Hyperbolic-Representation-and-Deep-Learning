@@ -76,7 +76,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-- August 17, 2025: add ICCV 2025 papers 🔥
+- December 17, 2025: add NeurIPS 2025, AAAI 2026 papers 🔥
+- August 17, 2025: add ICCV 2025 papers
 - Jun 10, 2025 : add ICML 2025, ICML 2024 papers
 - Jun  7, 2025 : update CVPR 2025, SIGIR 2025, ACL 2025 paper
 - Feb 26, 2025 : update ICLR 2025 papers 
@@ -86,7 +87,32 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
  
 
 
-> 🔥: [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) by Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, Leandros Tassiulas, Menglin Yang, Rex Ying
+**NeurIPS 2025**
+1. [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722), NeurIPS 2025 \
+*Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, Leandros Tassiulas, Menglin Yang, Rex Ying*
+
+1. [Hyperbolic Fine-Tuning for Large Language Models](https://neurips.cc/virtual/2025/poster/117823), NeurIPS 2025 (Spotlight) \
+*Menglin Yang, Ram Samarth B B, Aosong Feng, Bo Xiong, Jiahong Liu, Irwin King, Rex Ying*
+
+1. [HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models](https://neurips.cc/virtual/2025/poster/118372), NeurIPS 2025 (Oral) \
+*Zelin Peng, Zhengqin Xu, Qingyang Liu, Xiaokang Yang, Wei Shen*
+
+1. [Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623), [Code](https://github.com/Guang000/HDD), NeurIPS 2025 \
+*Wenyuan Li, Guang Li, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama*
+
+1. [Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation](https://arxiv.org/abs/2506.00129), [Code](https://github.com/ed-fish/geo-sign), NeurIPS 2025 \
+*Edward Fish, Richard Bowden*
+
+**NeurIPS 2025 Workshop**
+1. [Hyperbolic Multimodal Representation Learning for Biological Taxonomies](https://arxiv.org/abs/2508.16744), NeurIPS 2025 Workshop on Imageomics \
+*ZeMing Gong, Chuanqi Tang, Xiaoliang Huo, Nicholas Pellegrino, Austin T. Wang, Graham W. Taylor, Angel X. Chang, Scott C. Lowe, Joakim Bruslund Haurum*
+
+1. [Hyperbolic Few-Shot Learning for Taxonomic Plant Classification](https://openreview.net/forum?id=7F9ObzcT7I), NeurIPS 2025 Workshop on Imageomics \
+*Mithil Shah*
+
+**AAAI 2026**
+1. [Hyperbolic Hierarchical Alignment Reasoning Network for Text-3D Retrieval](https://arxiv.org/abs/2511.11045), AAAI 2026 \
+*Wenrui Li, Yidan Lu, Yeyu Chai, Rui Zhao, Hengyu Man, Xiaopeng Fan*
 
 **KDD 2025**
 1. [Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3690624.3709249), KDD 2025 \

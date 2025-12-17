@@ -444,6 +444,10 @@ Fernando Galaz-Garcia, Marios Papamichalis, Kathryn Turnbull, Simon Lunagomez, E
 [HYPMIX: Hyperbolic Interpolative Data Augmentation](https://aclanthology.org/2021.emnlp-main.776/), EMNLP 2021 \
 Ramit Sawhney, Megh Thakkar, Shivam Agarwal, Di Jin, Diyi Yang, Lucie Flek
 
+1. Dataset Distillation \
+[Hyperbolic Dataset Distillation](https://arxiv.org/abs/2505.24623), [Code](https://github.com/Guang000/HDD), NeurIPS 2025 \
+*Wenyuan Li, Guang Li, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama*
+
 1. PCA \
 [HoroPCA: Hyperbolic Dimensionality Reduction via Horospherical Projections](https://arxiv.org/abs/2106.03306), ICML 2021 \
 Ines Chami\*, Albert Gu\*, Dat Nguyen, Christopher Ré*
@@ -459,8 +463,14 @@ Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, E
 
 ### [2.14 LLM and Hyperbolic Space](#content)
 
-1. [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722) 🔥 \
-Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, Leandros Tassiulas, Menglin Yang, Rex Ying
+1. [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722), NeurIPS 2025 🔥 \
+*Neil He, Rishabh Anand, Hiren Madhu, Ali Maatouk, Smita Krishnaswamy, Leandros Tassiulas, Menglin Yang, Rex Ying*
+
+1. [Hyperbolic Fine-Tuning for Large Language Models](https://neurips.cc/virtual/2025/poster/117823), NeurIPS 2025 (Spotlight) \
+*Menglin Yang, Ram Samarth B B, Aosong Feng, Bo Xiong, Jiahong Liu, Irwin King, Rex Ying*
+
+1. [HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models](https://neurips.cc/virtual/2025/poster/118372), NeurIPS 2025 (Oral) \
+*Zelin Peng, Zhengqin Xu, Qingyang Liu, Xiaokang Yang, Wei Shen*
 
 1. [Large Language Models Enhanced Hyperbolic Space Recommender Systems](https://arxiv.org/abs/2504.05694), SIGIR 2025 \
 *Wentao Cheng, Zhida Qin, Zexue Wu, Pengzhan Zhou, Tianyu Huang*
@@ -537,6 +547,12 @@ Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K.
 
 1. [Learning Visual Hierarchies in Hyperbolic Space for Image Retrieval](https://arxiv.org/abs/2411.17490), ICCV 2025 \
 *Ziwei Wang, Sameera Ramasinghe, Chenchen Xu, Julien Monteil, Loris Bazzani, Thalaiyasingam Ajanthan*
+
+1. [Geo-Sign: Hyperbolic Contrastive Regularisation for Geometrically Aware Sign Language Translation](https://arxiv.org/abs/2506.00129), [Code](https://github.com/ed-fish/geo-sign), NeurIPS 2025 \
+*Edward Fish, Richard Bowden*
+
+1. [Hyperbolic Hierarchical Alignment Reasoning Network for Text-3D Retrieval](https://arxiv.org/abs/2511.11045), AAAI 2026 \
+*Wenrui Li, Yidan Lu, Yeyu Chai, Rui Zhao, Hengyu Man, Xiaopeng Fan*
 
 1. [Hyperbolic Category Discovery](https://arxiv.org/abs/2504.06120), CVPR 2025 \
 *Yuanpei Liu, Zhenqi He, Kai Han*
@@ -897,6 +913,9 @@ Zhi Gao, Yuwei Wu, Mehrtash Harandi, and Yunde Jia
 1. [Hyperbolic Uncertainty-Aware Few-Shot Incremental Point Cloud Segmentation](https://cvpr.thecvf.com/virtual/2025/poster/34838), CVPR 2025 \
 *Tanuj Sur, Samrat Mukherjee, Kaizer Rahaman, Subhasis Chaudhuri, Muhammad Haris Khan, Biplab Banerjee*
 
+1. [Hyperbolic Few-Shot Learning for Taxonomic Plant Classification](https://openreview.net/forum?id=7F9ObzcT7I), NeurIPS 2025 Workshop on Imageomics \
+*Mithil Shah*
+
 1. [Hyperbolic vs Euclidean Embeddings in Few-Shot Learning: Two Sides of the Same Coin](https://arxiv.org/abs/2309.10013) WACV \
    Gabriel Moreira, Manuel Marques, João Paulo Costeira, Alexander Hauptmann
 
@@ -937,6 +956,9 @@ Yuekang Li, Yidan Mao, Yifei Yang, Dongmian Zou
 ### [3.17 Biology](#content)
 
 **Phylogenetics**
+
+1. [Hyperbolic Multimodal Representation Learning for Biological Taxonomies](https://arxiv.org/abs/2508.16744), NeurIPS 2025 Workshop on Imageomics \
+*ZeMing Gong, Chuanqi Tang, Xiaoliang Huo, Nicholas Pellegrino, Austin T. Wang, Graham W. Taylor, Angel X. Chang, Scott C. Lowe, Joakim Bruslund Haurum*
 
 1. [Visualising very large phylogenetic trees in three dimensional hyperbolic space](https://pubmed.ncbi.nlm.nih.gov/15117420/), BMC Bioinformatics 2004\
    Timothy Hughes, Young Hyun, David A Liberles
