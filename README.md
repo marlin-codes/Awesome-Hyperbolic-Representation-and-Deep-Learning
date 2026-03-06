@@ -3,67 +3,68 @@
 
 ## Introduction
 
-Recently, hyperbolic spaces have emerged as a promising alternative for processing data with a tree-like structure or power-law distribution, owing to its exponential growth property and tree-likeness prior. Different from the Euclidean space, which expands polynomially, the hyperbolic space grows exponentially which makes it gain natural advantages in abstracting tree-like or scale-free data with hierarchical organizations.  In this repository, we categorize papers related to hyperbolic representation learning into different types to facilitate researcher studies and to promote the development of the community. We will keep updating this repository with the latest research developments. We are aware that there will inevitably be some mistakes and oversights, so if you have any questions or suggestions, please feel free to contact us (menglin.yang[@]outlook.com).
+Recently, hyperbolic spaces have emerged as a promising alternative for processing data with a tree-like structure or power-law distribution, owing to its exponential growth property and tree-likeness prior. Different from the Euclidean space, which expands polynomially, the hyperbolic space grows exponentially which makes it gain natural advantages in abstracting tree-like or scale-free data with hierarchical organizations. In this repository, we organize papers into core methods, domain applications, and cross-domain task settings to make the taxonomy easier to navigate. We will keep updating this repository with the latest research developments. We are aware that there will inevitably be some mistakes and oversights, so if you have any questions or suggestions, please feel free to contact us (menglin.yang[@]outlook.com).
 
 <table>
 <tr><td colspan="2"><a href="#latest-update" style="color:#B22222">1. Latest Update</a></td></tr> 
-<tr><td colspan="2"><a href="papers.md#2-methods-and-models" style="color:#B22222">2. Methods and Models</a></td></tr> 
+<tr><td colspan="2"><a href="papers.md#2-core-methods-and-geometry" style="color:#B22222">2. Core Methods and Geometry</a></td></tr>
 <tr>
-    <td>&ensp;<a href="papers.md#21-hyperbolic-shallow-model">2.1 Hyperbolic Shallow Model</a></td>
-    <td>&ensp;<a href="papers.md#22-hyperbolic-neural-network">2.2 Hyperbolic Neural Network</a></td>
+    <td>&ensp;<a href="papers.md#21-hyperbolic-shallow-models-and-embeddings">2.1 Hyperbolic Shallow Models and Embeddings</a></td>
+    <td>&ensp;<a href="papers.md#22-hyperbolic-neural-networks">2.2 Hyperbolic Neural Networks</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="papers.md#23-hyperbolic-graph-neural-network">2.3 Hyperbolic Graph Neural Network</a></td>
-    <td>&ensp;<a href="papers.md#24-hyperbolic-transformer">2.4 Hyperbolic Transformer</a></td>
+    <td>&ensp;<a href="papers.md#23-hyperbolic-graph-neural-networks">2.3 Hyperbolic Graph Neural Networks</a></td>
+    <td>&ensp;<a href="papers.md#24-attention-transformers-and-sequence-models">2.4 Attention, Transformers, and Sequence Models</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#29-mixed-curvature-learning">2.5 Mixed Curvature Learning</a></td>
-    <td>&ensp;<a href="papers.md#210-semi-riemannian-learning">2.6 Semi-Riemannian Learning</a></td>
+    <td>&ensp;<a href="papers.md#25-theory-analysis-and-numerical-stability">2.5 Theory, Analysis, and Numerical Stability</a></td>
+    <td>&ensp;<a href="papers.md#26-hierarchy-and-tree-modeling">2.6 Hierarchy and Tree Modeling</a></td>
 </tr> 
 <tr>
-    <td>&ensp;<a href="papers.md#211-hyperbolic-generative-models">2.7 Hyperbolic Generative Models</a></td>
-    <td>&ensp;<a href="papers.md#213-hyperbolic-operations">2.8 Hyperbolic Operations</a></td>
+    <td>&ensp;<a href="papers.md#27-mixed-curvature-and-alternative-geometries">2.7 Mixed-Curvature and Alternative Geometries</a></td>
+    <td>&ensp;<a href="papers.md#28-hyperbolic-generative-models">2.8 Hyperbolic Generative Models</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#214-llm-and-hyperbolic-space">2.9 LLM && Hyperbolic Space</a></td>
-    <td>&ensp;<a href="papers.md#26-analysis">2.10 Analysis</a></td>
+    <td>&ensp;<a href="papers.md#29-hyperbolic-classifiers-and-decision-models">2.9 Hyperbolic Classifiers and Decision Models</a></td>
+    <td>&ensp;<a href="papers.md#210-hyperbolic-operations-and-representation-utilities">2.10 Hyperbolic Operations and Representation Utilities</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#27-numerical-problems">2.11 Numerical Problems</a></td>
-    <td>&ensp;<a href="papers.md#28-explicitly-tree-embedding">2.12 Explicitly Tree Embedding</a></td>
+    <td>&ensp;<a href="papers.md#211-llms-and-foundation-models">2.11 LLMs and Foundation Models</a></td>
+    <td></td>
 </tr>
-<tr><td colspan="2"><a href="papers.md#3-applications" style="color:#B22222">3. Applications</a></td></tr> 
+<tr><td colspan="2"><a href="papers.md#3-domain-applications" style="color:#B22222">3. Domain Applications</a></td></tr>
 <tr>
-    <td>&ensp;<a href="papers.md#31-natural-language-processing">3.1 Natural Language Processing</a></td>
-    <td>&ensp;<a href="papers.md#32-computer-vision">3.2 Computer Vision</a></td>
+    <td>&ensp;<a href="papers.md#31-language-and-text-applications">3.1 Language and Text Applications</a></td>
+    <td>&ensp;<a href="papers.md#32-computer-vision-graphics-and-robotics">3.2 Computer Vision, Graphics, and Robotics</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#33-graph-embeddings">3.3 Graph Embedding</a></td>
+    <td>&ensp;<a href="papers.md#33-graphs-and-networked-data">3.3 Graphs and Networked Data</a></td>
     <td>&ensp;<a href="papers.md#34-recommender-systems">3.4 Recommender Systems</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="papers.md#35-knowledge-graphs">3.5 Knowledge Graphs</a></td>
-    <td>&ensp;<a href="papers.md#36-molecular-learning">3.6 Molecular Learning</a></td>
+    <td>&ensp;<a href="papers.md#36-biology-and-molecular-learning">3.6 Biology and Molecular Learning</a></td>
 </tr>
 <tr>
     <td>&ensp;<a href="papers.md#37-code-representation">3.7 Code Representation</a></td>
-    <td>&ensp;<a href="papers.md#38-multi-label-learning">3.8 Multi-label Learning</a></td>
+    <td></td>
+</tr>
+<tr><td colspan="2"><a href="papers.md#4-task-oriented-settings" style="color:#B22222">4. Task-Oriented Settings</a></td></tr>
+<tr>
+    <td>&ensp;<a href="papers.md#41-multi-label-and-hierarchical-classification">4.1 Multi-label and Hierarchical Classification</a></td>
+    <td>&ensp;<a href="papers.md#42-metric-learning-retrieval-and-clustering">4.2 Metric Learning, Retrieval, and Clustering</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#39-hyperbolic-metric-learning">3.9 Hyperbolic Metric Learning</a></td>
-    <td>&ensp;<a href="papers.md#310-data-driven-geometry-learning">3.10 Data-driven Geometry Learning</a></td>
+    <td>&ensp;<a href="papers.md#43-data-driven-geometry-learning-and-adaptation">4.3 Data-Driven Geometry Learning and Adaptation</a></td>
+    <td>&ensp;<a href="papers.md#44-few-shot-and-low-data-learning">4.4 Few-Shot and Low-Data Learning</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#311-few-shot-learning">3.11 Few-Shot Learning</a></td>
-    <td>&ensp;<a href="papers.md#312-open-vocabulary-learning">3.12 Open-Vocabulary Learning</a></td>
+    <td>&ensp;<a href="papers.md#45-open-vocabulary-zero-shot-and-category-discovery">4.5 Open-Vocabulary, Zero-Shot, and Category Discovery</a></td>
+    <td>&ensp;<a href="papers.md#46-safety-robustness-and-privacy">4.6 Safety, Robustness, and Privacy</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="papers.md#313-safety-and-robustness">3.13 Safety and Robustness</a></td>
-    <td>&ensp;<a href="papers.md#314-environmental-monitoring">3.14 Environmental Monitoring</a></td>
-</tr>
-<tr>
-    <td>&ensp;<a href="papers.md#315-category-discovery">3.15 Category Discovery</a></td>
-    <td>&ensp;<a href="papers.md#316-multi-criteria-learning">3.16 Multi-Criteria Learning</a></td>
+    <td>&ensp;<a href="papers.md#47-environmental-monitoring">4.7 Environmental Monitoring</a></td>
+    <td>&ensp;<a href="papers.md#48-multi-criteria-learning">4.8 Multi-Criteria Learning</a></td>
 </tr>
 </table>
 
@@ -76,8 +77,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-- March 7, 2026: add ICLR 2026, CVPR 2026 papers
-- December 17, 2025: add NeurIPS 2025, AAAI 2026 papers 🔥
+- March 7, 2026: add ICLR 2026, CVPR 2026 papers 🔥
+- December 17, 2025: add NeurIPS 2025, AAAI 2026 papers 
 - August 17, 2025: add ICCV 2025 papers
 - Jun 10, 2025 : add ICML 2025, ICML 2024 papers
 - Jun  7, 2025 : update CVPR 2025, SIGIR 2025, ACL 2025 paper
@@ -302,7 +303,7 @@ Ruijie Wang, Yutong Zhang, Jinyang Li, Shengzhong Liu, Dachun Sun, Tianchen Wang
 Yanchao Tan, Hang Lv, Zihao Zhou, Wenzhong Guo, Bo Xiong, Weiming Liu, Chaochao Chen, Shiping Wang, Carl Yang
 
 **CVPR 2024**
-1. [Rethinking Generalizable Face Anti-spoofing via Hierarchical Prototype-guided Distribution Refinement in Hyperbolic Space](https://openaccess.thecvf.com//content/CVPR2024/papers/Hu_Rethinking_Generalizable_Face_Anti-spoofing_via_Hierarchical_Prototype-guided_Distribution_Refinement_in_CVPR_2024_paper.pdf), CVPR 2024 \
+1. [Rethinking Generalizable Face Anti-spoofing via Hierarchical Prototype-guided Distribution Refinement in Hyperbolic Space](https://openaccess.thecvf.com/content/CVPR2024/papers/Hu_Rethinking_Generalizable_Face_Anti-spoofing_via_Hierarchical_Prototype-guided_Distribution_Refinement_in_CVPR_2024_paper.pdf), CVPR 2024 \
 Chengyang Hu, Ke-Yue Zhang, Taiping Yao, Shouhong Ding, Lizhuang Ma
 
 1. [Improving Visual Recognition with Hyperbolical Visual Hierarchy Mapping](https://arxiv.org/abs/2404.00974), CVPR 2024 \
@@ -319,5 +320,3 @@ Sameera Ramasinghe Violetta Shevchenko Gil Avraham Ajanthan Thalaiyasingam
 
 1. [G^3-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_G3-LQ_Marrying_Hyperbolic_Alignment_with_Explicit_Semantic-Geometric_Modeling_for_3D_CVPR_2024_paper.pdf), CVPR 2024 \
 Yuan Wang, Yali Li, Shengjin Wang
-
-
