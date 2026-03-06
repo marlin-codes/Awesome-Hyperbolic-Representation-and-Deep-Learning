@@ -291,6 +291,9 @@ Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
 
 ### [2.6 Analysis](#content)
 
+1. [Understanding and Improving Hyperbolic Deep Reinforcement Learning](https://openreview.net/forum?id=7rfdenlP1L), ICLR 2026 Poster \
+*Timo Klein, Thomas Lang, Andrii Shkabrii, Alexander Sturm, Kevin Sidak, Lukas Miklautz, Claudia Plant, Yllka Velaj, Sebastian Tschiatschek*
+
 1. [Riemannian-Geometric Fingerprints of Generative Models](https://arxiv.org/abs/2506.22802), arXiv 2024 \
 *Hae Jin Song, Laurent Itti*
 
@@ -538,6 +541,18 @@ Nurendra Choudhary , Nikhil Rao , Sumeet Katariya , Karthik Subbian , Chandan K.
    Yi Tay, Luu Anh Tuan, Siu Cheung Hui
 
 ### [3.2 Computer Vision](#content)
+
+1. [Hyperbolic Prototype Learning with Uncertainty-Aware Consistency for Continual Test-Time Segmentation](https://www.linkedin.com/posts/sdivakarbhat_two-accepted-cvpr-activity-7431711068017582080-zvj2), CVPR 2026 \
+*Siddhant Gole, Akash Pal, Amit More, Srinivasa Divakar Bhat, Subhasis Chaudhuri, Biplab Banerjee*
+
+1. [GeoWorld: Geometric World Models](https://arxiv.org/abs/2602.23058), CVPR 2026 \
+*Zeyu Zhang, Danning Li, Ian Reid, Richard Hartley*
+
+1. [HiTag: Hierarchical Image Tagging with Hyperbolic Vision-Language Modeling](https://bjxdw.github.io/), CVPR 2026 \
+*Yi Yang, Ziyue Peng, Kang Zhang, Xincheng Tan, Fan Lu, Jingting Ding, Kecheng Zheng, Minfeng Zhu, Wei Chen*
+
+1. [HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition](https://arxiv.org/abs/2506.04764), CVPR 2026 \
+*Suhan Woo, Seongwon Lee, Jinwoo Jang, Euntai Kim*
 
 1. [Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning](https://arxiv.org/pdf/2507.17402),  [Code](https://github.com/lijun2005/ICCV25-HLFormer), ICCV 2025, \
 *Jun Li, Jinpeng Wang, Chaolei Tan, Niu Lian, Long Chen, Yaowei Wang, Min Zhang, Shu-Tao Xia, Bin Chen*
@@ -817,6 +832,9 @@ Wentao Shi, Junkang Wu, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Wei Wu, Xiangnan 
 
 ### [3.6 Molecular Learning](#content)
 
+1. [PoinnCARE: Hyperbolic Multi-Modal Learning for Enzyme Classification](https://openreview.net/forum?id=dGxAYNK6JU), ICLR 2026 Poster \
+Kun Xie, Peng Zhou, Xingyi Zhang, Wei Liu, Peilin Zhao, Sibo Wang, Biaobin Jiang
+
 1. [Semi-supervised  hierarchical  drug  embedding  inhyperbolic space](https://pubs.acs.org/doi/10.1021/acs.jcim.0c00681), J. Chem. Inf. Model 2020 \
 Ke Yu\*, Shyam Visweswaran\*, and Kayhan Batmanghelich
 
@@ -840,6 +858,9 @@ Zhenxing Wu, Dejun Jiang, Chang-Yu Hsieh, Guangyong Chen, Ben Liao, Dongsheng Ca
  
 
 ### [3.7 Code Representation](#content)
+
+1. [The Natural Geometry of Code: Hyperbolic Representation Learning for Program Reasoning](https://openreview.net/forum?id=oq4jXWaFyH), ICLR 2026 Poster \
+Weilin Zhou
 
 1. [Hyperbolic Representations of Source Code](https://assets.amazon.science/55/d9/58097f0d41b886269b30e5c68522/hyperbolic-representations-of-source-code.pdf) AAAI 2022 \
 Raiyan Khan, Thanh V. Nguyen, Sengamedu H. Srinivasan

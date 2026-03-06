@@ -76,6 +76,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- March 7, 2026: add ICLR 2026, CVPR 2026 papers
 - December 17, 2025: add NeurIPS 2025, AAAI 2026 papers 🔥
 - August 17, 2025: add ICCV 2025 papers
 - Jun 10, 2025 : add ICML 2025, ICML 2024 papers
@@ -86,6 +87,29 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
+
+**CVPR 2026**
+1. [Hyperbolic Prototype Learning with Uncertainty-Aware Consistency for Continual Test-Time Segmentation](https://www.linkedin.com/posts/sdivakarbhat_two-accepted-cvpr-activity-7431711068017582080-zvj2), CVPR 2026 \
+*Siddhant Gole, Akash Pal, Amit More, Srinivasa Divakar Bhat, Subhasis Chaudhuri, Biplab Banerjee*
+
+1. [GeoWorld: Geometric World Models](https://arxiv.org/abs/2602.23058), CVPR 2026 \
+*Zeyu Zhang, Danning Li, Ian Reid, Richard Hartley*
+
+1. [HiTag: Hierarchical Image Tagging with Hyperbolic Vision-Language Modeling](https://bjxdw.github.io/), CVPR 2026 \
+*Yi Yang, Ziyue Peng, Kang Zhang, Xincheng Tan, Fan Lu, Jingting Ding, Kecheng Zheng, Minfeng Zhu, Wei Chen*
+
+1. [HypeVPR: Exploring Hyperbolic Space for Perspective to Equirectangular Visual Place Recognition](https://arxiv.org/abs/2506.04764), CVPR 2026 \
+*Suhan Woo, Seongwon Lee, Jinwoo Jang, Euntai Kim*
+
+**ICLR 2026**
+1. [Understanding and Improving Hyperbolic Deep Reinforcement Learning](https://openreview.net/forum?id=7rfdenlP1L), ICLR 2026 Poster \
+*Timo Klein, Thomas Lang, Andrii Shkabrii, Alexander Sturm, Kevin Sidak, Lukas Miklautz, Claudia Plant, Yllka Velaj, Sebastian Tschiatschek*
+
+1. [PoinnCARE: Hyperbolic Multi-Modal Learning for Enzyme Classification](https://openreview.net/forum?id=dGxAYNK6JU), ICLR 2026 Poster \
+*Kun Xie, Peng Zhou, Xingyi Zhang, Wei Liu, Peilin Zhao, Sibo Wang, Biaobin Jiang*
+
+1. [The Natural Geometry of Code: Hyperbolic Representation Learning for Program Reasoning](https://openreview.net/forum?id=oq4jXWaFyH), ICLR 2026 Poster \
+*Weilin Zhou*
 
 **NeurIPS 2025**
 1. [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722), NeurIPS 2025 \
@@ -295,6 +319,5 @@ Sameera Ramasinghe Violetta Shevchenko Gil Avraham Ajanthan Thalaiyasingam
 
 1. [G^3-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_G3-LQ_Marrying_Hyperbolic_Alignment_with_Explicit_Semantic-Geometric_Modeling_for_3D_CVPR_2024_paper.pdf), CVPR 2024 \
 Yuan Wang, Yali Li, Shengjin Wang
-
 
 
