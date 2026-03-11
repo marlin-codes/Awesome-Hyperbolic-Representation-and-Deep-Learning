@@ -225,6 +225,9 @@ Jindou Dai, Yuwei Wu, Zhi Gao, Yunde Jia
 1. [Hyperbolic Graph Attention Network](https://arxiv.org/abs/1912.03046), Transcations on Big Data 2021 \
 Yiding Zhang, Xiao Wang, Xunqiang Jiang, Chuan Shi, Yanfang Ye
 
+1. [Hyperbolic Kernel Convolution: A Generic Framework](https://proceedings.mlr.press/v269/qu25a.html), LoG 2025 \
+Eric Qu, Lige Zhang, Habib Debaya, Yue Wu, Dongmian Zou
+
 1. [Unsupervised Hyperbolic Representation Learning via Message Passing Auto-Encoders](https://arxiv.org/abs/2103.16046), CVPR 2021 \
 Jiwoong Park, Junho Cho, Hyung Jin Chang, Jin Young Choi
 
@@ -311,6 +314,9 @@ Nico Alvarado, Hans Lobel
 
 1. [Shadow Cones: A Generalized Framework for Partial Order Embeddings](https://arxiv.org/abs/2305.15215), ICLR 2024 \
 *Tao Yu, Toni J.B. Liu, Albert Tseng, Christopher De Sa*
+
+1. [Hyperboloid GPLVM for Discovering Continuous Hierarchies via Nonparametric Estimation](https://proceedings.mlr.press/v258/watanabe25a.html), AISTATS 2025 \
+Koshi Watanabe, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama
 
 1. [Low-distortion and GPU-compatible Tree Embeddings in Hyperbolic Space](https://arxiv.org/abs/2502.17130), ICML 2025 \
 *Max van Spengler, Pascal Mettes*
@@ -511,6 +517,9 @@ Mingyang Song, Yi Feng, Liping Jing
 1. [Public Wisdom Matters! Discourse-Aware Hyperbolic Fourier Co-Attention for Social-Text Classification](https://arxiv.org/abs/2209.13017), NeurIPS 2022 Oral (Spotlight) \
 K Grover, SM Angara, M Akhtar, T Chakraborty
 
+1. [Exploring Hyperbolic Hierarchical Structure for Multimodal Rumor Detection](https://aclanthology.org/2025.findings-emnlp.8/), Findings of EMNLP 2025 \
+Md Mahbubur Rahman, Shufeng Hao, Chongyang Shi, An Lao, Jinyan Liu
+
 1. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://arxiv.org/abs/2205.02047), NAACL 2022 \
 Mingyang Song, Yi Feng, Liping Jing
 
@@ -528,6 +537,9 @@ Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Red
 
 1. [Improving Visual Recognition with Hyperbolical Visual Hierarchy Mapping](https://arxiv.org/pdf/2404.00974.pdf), CVPR 2025 \
 Hyeongjun Kwon, Jinhyun Jang, Jin Kim, Kwonyoung Kim, Kwanghoon Sohn
+
+1. [Hyperbolic Prototypical Entailment Cones for Image Classification](https://proceedings.mlr.press/v258/fonio25a.html), AISTATS 2025 \
+Samuele Fonio, Roberto Esposito, Marco Aldinucci
 
 1. [Hyperbolic Image Embedding](https://arxiv.org/abs/1904.02239), CVPR 2020 \
 Valentin Khrulkov, Leyla Mirvakhabova, Evgeniya Ustinova, Ivan Oseledets, Victor Lempitsky
@@ -660,6 +672,12 @@ Ramit Sawhney, Shivam Agarwal, Arnav Wadhwa, Rajiv Shah
 1. [Large Language Models Enhanced Hyperbolic Space Recommender Systems](https://arxiv.org/abs/2504.05694), SIGIR 2025 \
 *Wentao Cheng, Zhida Qin, Zexue Wu, Pengzhan Zhou, Tianyu Huang*
 
+1. [Review-Based Hyperbolic Cross-Domain Recommendation](https://www.wsdm-conference.org/2025/accepted-papers/), WSDM 2025 \
+Yoonhyuk Choi, Jiho Choi, Taewook Ko
+
+1. [Learning geometry-aware recommender systems with manifold regularization](https://recsys.acm.org/recsys25/accepted-contributions/), RecSys 2025 (LBR) \
+Zaira Zainulabidova, Julia Borisova, Alexander Hvatov
+
 1. [Where are we in embedding spaces? A Comprehensive Analysis on Network Embedding Approaches for Recommender Systems](https://arxiv.org/abs/2105.08908), KDD 2021 \
 Sixiao Zhang, Hongxu Chen, Xiao Ming, Lizhen Cui, Hongzhi Yin, Guandong Xu
 
@@ -687,6 +705,9 @@ Anchen Li, Bo Yang, Huan Huo, Hongxu Chen, Guandong Xu, Zhen Wang
 
 1. [Hyperbolic Graph Transformer for Collaborative Filtering](https://arxiv.org/abs/2502.15693), ICML 2025 \
 *Yang Xin, Xingrun Li, Heng Chang, Yang Jinze, Xihong Yang, Shengyu Tao, Maiko Shigeno, Ningkang Chang, Junfeng Wang, Dawei Yin, Erxue Min*
+
+1. [Leveraging Geometric Insights in Hyperbolic Triplet Loss for Improved Recommendations](https://recsys.acm.org/recsys25/accepted-contributions/), RecSys 2025 (LBR) \
+Viacheslav Yusupov, Maxim Rakhuba, Evgeny Frolov
 
 **Knowledge-aware and KG-enhanced Recommendation**
 1. [HAKG: Hierarchy-Aware Knowledge Gated Network for Recommendation](https://arxiv.org/abs/2204.04959), SIGIR 2022 \
@@ -756,6 +777,9 @@ Ivana Balažević, Carl Allen, Timothy Hospedales
 1. [Knowledge Association with Hyperbolic Knowledge Graph Embeddings](https://arxiv.org/abs/2010.02162), EMNLP 2020 \
 Zequn Sun, Muhao Chen, Wei Hu, Chengming Wang, Jian Dai, Wei Zhang
 
+1. [Knowledge Graph Completion with Mixed Geometry Tensor Factorization](https://proceedings.mlr.press/v258/yusupov25a.html), AISTATS 2025 \
+Viacheslav Yusupov, Maxim Rakhuba, Evgeny Frolov
+
 1. [HyperKG: Hyperbolic Knowledge Graph Embeddings for Knowledge Base Completion](https://arxiv.org/abs/1908.04895), arXiv \
 Prodromos Kolyvakis, Alexandros Kalousis, Dimitris Kiritsis
 
@@ -766,6 +790,9 @@ Wentao Shi, Junkang Wu, Xuezhi Cao, Jiawei Chen, Wenqiang Lei, Wei Wu, Xiangnan 
 Bin Shang, Yinliang Zhao, Jun Liu, Di Wang
 
 **Temporal and Logical Reasoning**
+1. [HyperKGR: Knowledge Graph Reasoning in Hyperbolic Space with Graph Neural Network Encoding Symbolic Path](https://aclanthology.org/2025.emnlp-main.1279/), EMNLP 2025 \
+Lihui Liu
+
 1. [Hyperbolic Temporal Knowledge Graph Embeddings with Relational and Time Curvatures](https://arxiv.org/abs/2106.04311), ACL 2021 \
 Sebastien Montella, Lina Rojas-Barahona, Johannes Heinecke
 
@@ -825,8 +852,8 @@ Takahiro Mimori, Michiaki Hamada
 1. [Differentiable Phylogenetics via Hyperbolic Embeddings with Dodonaphy](https://arxiv.org/abs/2309.11732), Bioinformatics Advances 2024 \
 Matthew Macaulay, Mathieu Fourment
 
-1. [Variational Combinatorial Sequential Monte Carlo for Bayesian Phylogenetics in Hyperbolic Space](https://arxiv.org/abs/2501.17965), AISTATS 2025 \
-Alex Chen, Philipe Chlenski, Kenneth Munyuza, Antonio Khalil Moretti, Christian A. Naesseth, Itsik Pe'er
+1. [Variational Combinatorial Sequential Monte Carlo for Bayesian Phylogenetics in Hyperbolic Space](https://proceedings.mlr.press/v258/chen25f.html), AISTATS 2025 \
+Alex Chen, Philippe Chlenski, Kenneth Munyuza, Antonio Khalil Moretti, Christian A. Naesseth, Itsik Pe'er
 
 **Genomics, Ontologies, and Single-Cell Biology**
 1. [HiG2Vec: hierarchical representations of Gene Ontology and genes in the Poincaré ball](https://academic.oup.com/bioinformatics/article/37/18/2971/6184857?login=false), Bioinformatics 2021 \
@@ -993,6 +1020,9 @@ Huimin Li, Zhentao Chen, Yunhao Xu, Junlin Hu
 
 1. [Improving Robustness of Hyperbolic Neural Networks by Lipschitz Analysis](https://dl.acm.org/doi/pdf/10.1145/3637528.3671875), KDD 2024 \
 Yuekang Li, Yidan Mao, Yifei Yang, Dongmian Zou
+
+1. [Human-Inspired Obfuscation for Model Unlearning: Local and Global Strategies with Hyperbolic Representations](https://aclanthology.org/2025.findings-emnlp.774/), Findings of EMNLP 2025 \
+Zekun Wang, Jingjie Zeng, Yingxu Li, Liang Yang, Hongfei Lin
 
 1. [Leveraging Hierarchical Representations for Preserving Privacy and Utility in Text](https://arxiv.org/abs/1910.08917), ICDM 2019 \
 Oluwaseyi Feyisetan, Tom Diethe, Thomas Drake

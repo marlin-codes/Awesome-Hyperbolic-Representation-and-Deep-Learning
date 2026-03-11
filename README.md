@@ -77,6 +77,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- March 11, 2026: add EMNLP 2025, WSDM 2025, RecSys 2025, AISTATS 2025, LoG 2025 papers 🔥
 - March 7, 2026: add ICLR 2026, CVPR 2026 papers 🔥
 - December 17, 2025: add NeurIPS 2025, AAAI 2026 papers 
 - August 17, 2025: add ICCV 2025 papers
@@ -138,6 +139,45 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 **AAAI 2026**
 1. [Hyperbolic Hierarchical Alignment Reasoning Network for Text-3D Retrieval](https://arxiv.org/abs/2511.11045), AAAI 2026 \
 *Wenrui Li, Yidan Lu, Yeyu Chai, Rui Zhao, Hengyu Man, Xiaopeng Fan*
+
+**EMNLP 2025**
+1. [HyperKGR: Knowledge Graph Reasoning in Hyperbolic Space with Graph Neural Network Encoding Symbolic Path](https://aclanthology.org/2025.emnlp-main.1279/), EMNLP 2025 \
+*Lihui Liu*
+
+**EMNLP Findings 2025**
+1. [Exploring Hyperbolic Hierarchical Structure for Multimodal Rumor Detection](https://aclanthology.org/2025.findings-emnlp.8/), Findings of EMNLP 2025 \
+*Md Mahbubur Rahman, Shufeng Hao, Chongyang Shi, An Lao, Jinyan Liu*
+
+1. [Human-Inspired Obfuscation for Model Unlearning: Local and Global Strategies with Hyperbolic Representations](https://aclanthology.org/2025.findings-emnlp.774/), Findings of EMNLP 2025 \
+*Zekun Wang, Jingjie Zeng, Yingxu Li, Liang Yang, Hongfei Lin*
+
+**WSDM 2025**
+1. [Review-Based Hyperbolic Cross-Domain Recommendation](https://www.wsdm-conference.org/2025/accepted-papers/), WSDM 2025 \
+*Yoonhyuk Choi, Jiho Choi, Taewook Ko*
+
+**RecSys 2025**
+1. [Learning geometry-aware recommender systems with manifold regularization](https://recsys.acm.org/recsys25/accepted-contributions/), RecSys 2025 (LBR) \
+*Zaira Zainulabidova, Julia Borisova, Alexander Hvatov*
+
+1. [Leveraging Geometric Insights in Hyperbolic Triplet Loss for Improved Recommendations](https://recsys.acm.org/recsys25/accepted-contributions/), RecSys 2025 (LBR) \
+*Viacheslav Yusupov, Maxim Rakhuba, Evgeny Frolov*
+
+**AISTATS 2025**
+1. [Knowledge Graph Completion with Mixed Geometry Tensor Factorization](https://proceedings.mlr.press/v258/yusupov25a.html), AISTATS 2025 \
+*Viacheslav Yusupov, Maxim Rakhuba, Evgeny Frolov*
+
+1. [Hyperbolic Prototypical Entailment Cones for Image Classification](https://proceedings.mlr.press/v258/fonio25a.html), AISTATS 2025 \
+*Samuele Fonio, Roberto Esposito, Marco Aldinucci*
+
+1. [Hyperboloid GPLVM for Discovering Continuous Hierarchies via Nonparametric Estimation](https://proceedings.mlr.press/v258/watanabe25a.html), AISTATS 2025 \
+*Koshi Watanabe, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama*
+
+1. [Variational Combinatorial Sequential Monte Carlo for Bayesian Phylogenetics in Hyperbolic Space](https://proceedings.mlr.press/v258/chen25f.html), AISTATS 2025 \
+*Alex Chen, Philippe Chlenski, Kenneth Munyuza, Antonio Khalil Moretti, Christian A. Naesseth, Itsik Pe'er*
+
+**LoG 2025**
+1. [Hyperbolic Kernel Convolution: A Generic Framework](https://proceedings.mlr.press/v269/qu25a.html), LoG 2025 \
+*Eric Qu, Lige Zhang, Habib Debaya, Yue Wu, Dongmian Zou*
 
 **KDD 2025**
 1. [Understanding and Mitigating Hyperbolic Dimensional Collapse in Graph Contrastive Learning](https://dl.acm.org/doi/abs/10.1145/3690624.3709249), KDD 2025 \
