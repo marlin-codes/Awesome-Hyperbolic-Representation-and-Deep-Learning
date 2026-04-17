@@ -77,6 +77,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- April 17, 2026: add WACV 2026, ICLR 2026, ACL Findings 2025, COLING 2025 papers 🔥
 - March 11, 2026: add EMNLP 2025, WSDM 2025, RecSys 2025, AISTATS 2025, LoG 2025 papers 🔥
 - March 7, 2026: add ICLR 2026, CVPR 2026 papers 🔥
 - December 17, 2025: add NeurIPS 2025, AAAI 2026 papers 
@@ -89,6 +90,10 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
+
+**WACV 2026**
+1. [Lorentz Entailment Cone for Semantic Segmentation](https://openaccess.thecvf.com/content/WACV2026/html/Hasan_Lorentz_Entailment_Cone_for_Semantic_Segmentation_WACV_2026_paper.html), WACV 2026 \
+*Zahid Hasan, Masud Ahmed, Nirmalya Roy*
 
 **CVPR 2026**
 1. [Hyperbolic Prototype Learning with Uncertainty-Aware Consistency for Continual Test-Time Segmentation](https://www.linkedin.com/posts/sdivakarbhat_two-accepted-cvpr-activity-7431711068017582080-zvj2), CVPR 2026 \
@@ -112,6 +117,12 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [The Natural Geometry of Code: Hyperbolic Representation Learning for Program Reasoning](https://openreview.net/forum?id=oq4jXWaFyH), ICLR 2026 Poster \
 *Weilin Zhou*
+
+1. [Intrinsic Lorentz Neural Network](https://openreview.net/forum?id=NNnkLi1ALt), ICLR 2026 Poster \
+*Xianglong Shi, Ziheng Chen, Yunhan Jiang, Nicu Sebe*
+
+1. [PHyCLIP: $\ell_1$-Product of Hyperbolic Factors Unifies Hierarchy and Compositionality in Vision-Language Representation Learning](https://openreview.net/forum?id=I3Ct1eDmVI), ICLR 2026 Poster \
+*Daiki Yoshikawa, Takashi Matsubara*
 
 **NeurIPS 2025**
 1. [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722), NeurIPS 2025 \
@@ -246,9 +257,16 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *Yante Li, Hanwen Qi, Haoyu Chen, Liang Xinlian, Guoying Zhao*
 
 
+**COLING 2025**
+1. [Graph Representation Learning in Hyperbolic Space via Dual-Masked](https://aclanthology.org/2025.coling-main.43/), COLING 2025 \
+*Rui Gong, Zuyun Jiang, Daren Zha*
+
 **ACL Findings 2025**
 1. [Enhancing Multi-Hop Reasoning for Question Answering with Hyperbolic Representations](https://2025.aclweb.org/program/find_papers/), ACL Findings 2025 \
 *Simon Welz, Lucie Flek, Akbar Karimi*
+
+1. [Lifelong Model Editing with Graph-Based External Memory](https://aclanthology.org/2025.findings-acl.690/), Findings of ACL 2025 \
+*Yash Kumar Atri, Ahmed Alaa, Thomas Hartvigsen*
 
 **SIGIR 2025**
 1. [VoRec: Enhancing Recommendation with Voronoi Diagram in Hyperbolic Space](https://sigir2025.dei.unipd.it/accepted-papers.html), SIGIR 2025 \
