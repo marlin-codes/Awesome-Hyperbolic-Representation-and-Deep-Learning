@@ -77,6 +77,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- July 18, 2026: add ACL 2026, KDD 2026, MIDL 2026 papers 🔥
 - June 2, 2026: add CVPR 2026, AAAI 2026, IJCAI-ECAI 2026 papers 🔥
 - May 22, 2026: add AISTATS 2026, ICML 2026, WSDM 2026 papers 🔥
 - May 2, 2026: update WACV 2026, COLING 2025, ACL Findings 2025, TheWebConf 2026, SIGIR 2026 papers
@@ -221,6 +222,36 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [Text-Driven Fusion for Infrared and Visible Images: Achieving Image Scene Adaptation on Hyperbolic Space](https://icml.cc/virtual/2026/poster/62712), ICML 2026 \
 *Huan Kang, Hui Li, Tianyang Xu, Tao Zhou, Xiaojun Wu, Josef Kittler*
+
+**MIDL 2026**
+1. [Hyperbolic U-Net for Robust Medical Image Segmentation](https://proceedings.mlr.press/v315/mishra26a.html), MIDL 2026 \
+*Swasti S. Mishra, Max van Spengler, Erwin Berkhout, Pascal Mettes*
+
+**ACL 2026**
+1. [Beyond Single-View Detection: A Dual-Space Reasoning Framework for Interpretable Harmful Meme Understanding](https://aclanthology.org/2026.acl-long.480/), ACL 2026 \
+*Wenqing Hou, Hongkui Tu, Ye Wang, Yue Zhang, Yuying Liu, Dong Zhu, Liqun Gao, Bin Zhou*
+
+1. [TellWhisper: Tell Whisper Who Speaks When](https://aclanthology.org/2026.acl-long.861/), ACL 2026 \
+*Yifan Hu, Peiji Yang, Zhisheng Wang, Yicheng Zhong, Rui Liu*
+
+1. [Query-Aware Knowledge Retrieval via Hyperbolic Structuring](https://aclanthology.org/2026.acl-long.986/), ACL 2026 \
+*Chuang Zhou, Junnan Dong, Yilin Xiao, Shengyuan Chen, Su Dong, di Yin, Xing Sun, Zhaozhuo Xu, Xiao Huang*
+
+1. [MAGIC: Deep Geometric Evolution with Structural Consensus for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2026.acl-long.1011/), ACL 2026 \
+*Chengao Liu, Yuan Li, Yingze Wang, Jianbin Jiao*
+
+1. [Prosody as Supervision: Bridging the Non-Verbal–Verbal for Multilingual Speech Emotion Recognition](https://aclanthology.org/2026.acl-long.1940/), ACL 2026 \
+*Girish, Mohd Mujtaba Akhtar, Muskaan Singh*
+
+1. [LOTUS: Evolving Multimodal Unlearning via Hyperbolic Entailment and Lorentz Transport](https://aclanthology.org/2026.acl-long.2195/), ACL 2026 \
+*Zekun Wang, Jingjie Zeng, Yingxu Li, Hongfei Lin, Liang Yang*
+
+**KDD 2026**
+1. [Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective](https://dl.acm.org/doi/10.1145/3770854.3780335), KDD 2026 \
+*Yuecen Wei, Liu Yang, Beining Yang, Qingyun Sun, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu*
+
+1. [Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3770855.3817750), KDD 2026 \
+*Yifan Jin, Qirui Ji, Bin Qin, Jiangmeng Li, Lixiang Liu, Fuchun Sun, Changwen Zheng*
 
 **NeurIPS 2025**
 1. [HELM: Hyperbolic Large Language Models via Mixture-of-Curvature Experts](https://arxiv.org/abs/2505.24722), NeurIPS 2025 \

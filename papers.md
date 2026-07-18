@@ -214,6 +214,9 @@ Boliang Hao, Bailing Zhang, Fangyu Wu
 1. [Hyperbolic Neural Operator](https://icml.cc/virtual/2026/poster/65554), ICML 2026 \
 jieyuan pei, Zhuoxuan Li, Wei Li, Haobo Zhang, jiawei jiang, Jianwei Zheng
 
+1. [Hyperbolic U-Net for Robust Medical Image Segmentation](https://proceedings.mlr.press/v315/mishra26a.html), MIDL 2026 \
+Swasti S. Mishra, Max van Spengler, Erwin Berkhout, Pascal Mettes
+
 1. [Hyperbolic Busemann Neural Networks](https://openaccess.thecvf.com/content/CVPR2026/html/Chen_Hyperbolic_Busemann_Neural_Networks_CVPR_2026_paper.html), CVPR 2026 \
 Ziheng Chen, Bernhard Schölkopf, Nicu Sebe
 
@@ -365,6 +368,9 @@ Guangjie Zeng, Hao Peng, Angsheng Li, Li Sun, Chunyang Liu, Shengze Li, Yicheng 
 
 1. [EEG-Based Multimodal Learning via Hyperbolic Mixture-of-Curvature Experts](https://icml.cc/virtual/2026/poster/63612), ICML 2026 \
 Runhe Zhou, Shanglin Li, Guanxiang Huang, Xinliang Zhou, Qibin Zhao, Motoaki Kawanabe, Yi Ding, Cuntai Guan
+
+1. [MAGIC: Deep Geometric Evolution with Structural Consensus for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2026.acl-long.1011/), ACL 2026 \
+Chengao Liu, Yuan Li, Yingze Wang, Jianbin Jiao
 
 1. [Principal Component Analysis in Space Forms](https://arxiv.org/abs/2301.02750), arXiv 2022 \
    Puoya Tabaghi, Michael Khanzadeh, Yusu Wang, Sivash Mirarab
@@ -518,6 +524,15 @@ Kunlun Xu, YanQin Zhang, Wenwen Qiang, Jiahuan Zhou
 1. [HypRAG: Hyperbolic Dense Retrieval for Retrieval Augmented Generation](https://icml.cc/virtual/2026/poster/60847), ICML 2026 \
 Hiren Madhu, Ngoc Bui, Ali Maatouk, Leandros Tassiulas, Smita Krishnaswamy, Menglin Yang, Sukanta Ganguly, Kiran Srinivasan, ZHITAO YING
 
+1. [Query-Aware Knowledge Retrieval via Hyperbolic Structuring](https://aclanthology.org/2026.acl-long.986/), ACL 2026 \
+Chuang Zhou, Junnan Dong, Yilin Xiao, Shengyuan Chen, Su Dong, di Yin, Xing Sun, Zhaozhuo Xu, Xiao Huang
+
+1. [LOTUS: Evolving Multimodal Unlearning via Hyperbolic Entailment and Lorentz Transport](https://aclanthology.org/2026.acl-long.2195/), ACL 2026 \
+Zekun Wang, Jingjie Zeng, Yingxu Li, Hongfei Lin, Liang Yang
+
+1. [Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3770855.3817750), KDD 2026 \
+Yifan Jin, Qirui Ji, Bin Qin, Jiangmeng Li, Lixiang Liu, Fuchun Sun, Changwen Zheng
+
 ## [3. Domain Applications](#content)
 
 These sections group papers by primary application domain. Cross-domain task settings such as few-shot learning or open-vocabulary learning are collected in Section 4.
@@ -565,6 +580,15 @@ Md Mahbubur Rahman, Shufeng Hao, Chongyang Shi, An Lao, Jinyan Liu
 1. [Hyperbolic Multimodal Generative Representation Learning for Generalized Zero-Shot Multimodal Information Extraction](https://www2026.thewebconf.org/accepted/research-tracks.html), TheWebConf 2026 \
 *Baohang Zhou, Kehui Song, Rize Jin, Yu Zhao, Xuhui Sui, Xinying Qian, Xingyue Guo, Ying Zhang*
 
+1. [Beyond Single-View Detection: A Dual-Space Reasoning Framework for Interpretable Harmful Meme Understanding](https://aclanthology.org/2026.acl-long.480/), ACL 2026 \
+Wenqing Hou, Hongkui Tu, Ye Wang, Yue Zhang, Yuying Liu, Dong Zhu, Liqun Gao, Bin Zhou
+
+1. [TellWhisper: Tell Whisper Who Speaks When](https://aclanthology.org/2026.acl-long.861/), ACL 2026 \
+Yifan Hu, Peiji Yang, Zhisheng Wang, Yicheng Zhong, Rui Liu
+
+1. [Prosody as Supervision: Bridging the Non-Verbal–Verbal for Multilingual Speech Emotion Recognition](https://aclanthology.org/2026.acl-long.1940/), ACL 2026 \
+Girish, Mohd Mujtaba Akhtar, Muskaan Singh
+
 1. [Hyperbolic Relevance Matching for Neural Keyphrase Extraction](https://arxiv.org/abs/2205.02047), NAACL 2022 \
 Mingyang Song, Yi Feng, Liping Jing
 
@@ -588,6 +612,9 @@ Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Red
 
 1. [H2-Surv: Hierarchical Hyperbolic Multimodal Representation Learning for Survival Prediction](https://openaccess.thecvf.com/content/CVPR2026/html/Yang_H2-Surv_Hierarchical_Hyperbolic_Multimodal_Representation_Learning_for_Survival_Prediction_CVPR_2026_paper.html), CVPR 2026 \
 *Jiaqi Yang, Wenting Chen, Xiangjian He, Yuanbai Li, Sen Yang, Linlin Shen, Xiaohan Xing*
+
+1. [Hyperbolic U-Net for Robust Medical Image Segmentation](https://proceedings.mlr.press/v315/mishra26a.html), MIDL 2026 \
+Swasti S. Mishra, Max van Spengler, Erwin Berkhout, Pascal Mettes
 
 1. [Dual-Domain Multimodal Hyperbolic Fusion for Cardiopulmonary Disease Diagnosis in Emergency Care](https://openaccess.thecvf.com/content/WACV2026/html/Nan_Dual-Domain_Multimodal_Hyperbolic_Fusion_for_Cardiopulmonary_Disease_Diagnosis_in_Emergency_WACV_2026_paper.html), WACV 2026 \
 *Ke Nan, Maggie Samaan, Benjamin Burns, Xia Ning, Yuchi Han, Yuan Xue*
@@ -716,6 +743,12 @@ Roshni G. Iyer, Yewen Wang, Wei Wang, Yizhou Sun
 
 1. [SLFM: Semi-Supervised Local Community Detection Based on Hyperbolic Flow Matching](https://www2026.thewebconf.org/accepted/research-tracks.html), TheWebConf 2026 \
 *Haixu Xiong, Li Sun, Yun Xiong, Suyang Zhou, Hongrun Ren, Yangyong Zhu*
+
+1. [Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective](https://dl.acm.org/doi/10.1145/3770854.3780335), KDD 2026 \
+Yuecen Wei, Liu Yang, Beining Yang, Qingyun Sun, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
+
+1. [Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3770855.3817750), KDD 2026 \
+Yifan Jin, Qirui Ji, Bin Qin, Jiangmeng Li, Lixiang Liu, Fuchun Sun, Changwen Zheng
 
 **Directed, Signed, and Attributed Graphs**
 1. [Hyperbolic Disk Embeddings for Directed Acyclic Graphs](https://arxiv.org/pdf/1902.04335.pdf), ICML 2019 \
@@ -902,6 +935,9 @@ Bin Shang, Yinliang Zhao, Jun Liu, Di Wang
 Zehua Duo, Jiang Li, Xiangdong Su, Guanglai Gao
 
 **Temporal and Logical Reasoning**
+1. [MAGIC: Deep Geometric Evolution with Structural Consensus for Temporal Knowledge Graph Reasoning](https://aclanthology.org/2026.acl-long.1011/), ACL 2026 \
+Chengao Liu, Yuan Li, Yingze Wang, Jianbin Jiao
+
 1. [HyperKGR: Knowledge Graph Reasoning in Hyperbolic Space with Graph Neural Network Encoding Symbolic Path](https://aclanthology.org/2025.emnlp-main.1279/), EMNLP 2025 \
 Lihui Liu
 
@@ -1185,6 +1221,18 @@ Zhenzhen Weng, Mehmet Giray Ogut, Shai Limonchik, Serena Yeung
 Yan Xu, Lifu Mu, ZhongJi, Xiyao Liu, JungongHan
 
 ### [4.6 Safety, Robustness, and Privacy](#content)
+
+1. [Beyond Single-View Detection: A Dual-Space Reasoning Framework for Interpretable Harmful Meme Understanding](https://aclanthology.org/2026.acl-long.480/), ACL 2026 \
+Wenqing Hou, Hongkui Tu, Ye Wang, Yue Zhang, Yuying Liu, Dong Zhu, Liqun Gao, Bin Zhou
+
+1. [Hyperbolic U-Net for Robust Medical Image Segmentation](https://proceedings.mlr.press/v315/mishra26a.html), MIDL 2026 \
+Swasti S. Mishra, Max van Spengler, Erwin Berkhout, Pascal Mettes
+
+1. [LOTUS: Evolving Multimodal Unlearning via Hyperbolic Entailment and Lorentz Transport](https://aclanthology.org/2026.acl-long.2195/), ACL 2026 \
+Zekun Wang, Jingjie Zeng, Yingxu Li, Hongfei Lin, Liang Yang
+
+1. [Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective](https://dl.acm.org/doi/10.1145/3770854.3780335), KDD 2026 \
+Yuecen Wei, Liu Yang, Beining Yang, Qingyun Sun, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu
 
 1. [Hyperbolic Prototype Learning with Uncertainty-Aware Consistency for Continual Test-Time Segmentation](https://openaccess.thecvf.com/content/CVPR2026/html/Gole_Hyperbolic_Prototype_Learning_with_Uncertainty-Aware_Consistency_for_Continual_Test-Time_Segmentation_CVPR_2026_paper.html), CVPR 2026 \
 *Siddhant Gole, Akash Pal, Amit More, S Divakar Bhat, Subhasis Chaudhuri, Biplab Banerjee*
