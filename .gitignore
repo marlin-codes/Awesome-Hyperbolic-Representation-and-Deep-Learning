@@ -1,3 +1,5 @@
 local/
 paper/
 comments
+.DS_Store
+report/

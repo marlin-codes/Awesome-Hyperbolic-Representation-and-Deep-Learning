@@ -77,6 +77,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- July 28, 2026: add ACL Findings 2026 paper
 - July 18, 2026: add ACL 2026, KDD 2026, MIDL 2026 papers 🔥
 - June 2, 2026: add CVPR 2026, AAAI 2026, IJCAI-ECAI 2026 papers 🔥
 - May 22, 2026: add AISTATS 2026, ICML 2026, WSDM 2026 papers 🔥
@@ -245,6 +246,10 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 1. [LOTUS: Evolving Multimodal Unlearning via Hyperbolic Entailment and Lorentz Transport](https://aclanthology.org/2026.acl-long.2195/), ACL 2026 \
 *Zekun Wang, Jingjie Zeng, Yingxu Li, Hongfei Lin, Liang Yang*
+
+**ACL Findings 2026**
+1. [HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering](https://aclanthology.org/2026.findings-acl.527/), Findings of ACL 2026 \
+*Yuyu Liu, Sarang Rajendra Patil, Mengjia Xu, Tengfei Ma*
 
 **KDD 2026**
 1. [Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective](https://dl.acm.org/doi/10.1145/3770854.3780335), KDD 2026 \

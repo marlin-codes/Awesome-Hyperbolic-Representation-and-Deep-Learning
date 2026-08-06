@@ -562,6 +562,9 @@ Boli Chen, Yao Fu, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jin
 1. [Hyperbolic Representation Learning for Fast and Efficient Neural Question Answering](https://dl.acm.org/doi/10.1145/3159652.3159664), WSDM 2018 \
 Yi Tay, Luu Anh Tuan, Siu Cheung Hui
 
+1. [HypEHR: Hyperbolic Modeling of Electronic Health Records for Efficient Question Answering](https://aclanthology.org/2026.findings-acl.527/), Findings of ACL 2026 \
+Yuyu Liu, Sarang Rajendra Patil, Mengjia Xu, Tengfei Ma
+
 1. [Multi-Hop Reasoning for Question Answering with Hyperbolic Representations](https://aclanthology.org/2025.findings-acl.908/), Findings of ACL 2025 \
 *Simon Welz, Lucie Flek, Akbar Karimi*
 
