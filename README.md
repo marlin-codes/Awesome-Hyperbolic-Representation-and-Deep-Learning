@@ -77,6 +77,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers
+- August 8, 2026: add SIGIR 2026, KDD 2026 papers
 - July 28, 2026: add ACL Findings 2026 paper
 - July 18, 2026: add ACL 2026, KDD 2026, MIDL 2026 papers 🔥
 - June 2, 2026: add CVPR 2026, AAAI 2026, IJCAI-ECAI 2026 papers 🔥
@@ -95,6 +97,94 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
+
+**ECCV 2026**
+1. [Hyperbolic Hierarchical Clustering for Visual Representation Learning](https://eccv.ecva.net/virtual/2026/poster/3152), ECCV 2026 \
+*Jianan Wei, Guikun Chen, Zhiyuan Weng, Chunchao Guo, Yujia Wang, Wenguan Wang*
+
+1. [HHA: Hierarchical Hyperbolic Constraints for Imperceptible Point Cloud Attacks](https://eccv.ecva.net/virtual/2026/poster/4287), ECCV 2026 \
+*Keke Tang, Yu Liao, Weilong Peng, Xiaofei Wang, Daizong Liu, Zhongyun Hua, Peican Zhu, Zhihong Tian*
+
+1. [Rank-Aware Hyperbolic Alignment for Vision–Language Dataset Distillation](https://eccv.ecva.net/virtual/2026/poster/4352), ECCV 2026 \
+*Jongoh Jeong, Sun-Kyung Lee, KUK-JIN YOON*
+
+1. [Hierarchical Hyperbolic Representation Learning for Aerial-Ground Person Re-Identification](https://eccv.ecva.net/virtual/2026/poster/3795), ECCV 2026 \
+*Qiwei Yang*
+
+1. [ARGENT: Adaptive Hierarchical Image-Text Representations](https://eccv.ecva.net/virtual/2026/poster/5595), ECCV 2026 \
+*Chuong Huynh, Hossein Souri, Abhinav Kumar, Vitali Petsiuk, Deen Dayal Mohan, Suren Kumar*
+
+1. [HyFL-CLIP: Hyperbolic Fine-Tuning of CLIP for Robust Long-Context Understanding](https://eccv.ecva.net/virtual/2026/poster/5643), ECCV 2026 \
+*jiha jang, Hayeon Kim, Junghun James Kim, Chulwon Lee, Se Young Chun*
+
+**ACM MM 2026**
+1. [Hyper-ReID: Granularity-Aware Hyperbolic Graph Learning for Multi-Modal Object Re-Identification](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Shihao Li, Chenglong Li, Aihua Zheng, Jin Tang, Bin Luo*
+
+1. [HRaLLM: Hyperbolic Rough Aware Large Language Model for Multimodal Action Reasoning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Haibo Li, Yaming Yang, Yaoxin Chen, Qicong Wang, Hongying Meng*
+
+1. [Fed-HDDH: A Hyperbolic Directional Diffusion Hypernetwork for Federated Learning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Hui Wang, Renyu Yang, Hao Peng, Sun Jie, Yu Xiaolong, Jing Li, Tianyu Wo, Xudong Liu, Chao Tian, Jianwei Niu*
+
+1. [ECHO: Euclidean-Hyperbolic Correlational Network for Cross-Scale Multi-View Learning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Wendi Zhao, Shide Du, Zhiyong Xu, Yilin Wu, Weihong Lin, Yiqing Shi, Shiping Wang*
+
+1. [Exploring Imbalanced Building Damage Assessment via Hyperbolic Semantic-Consistent Contrastive Learning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Wenzhe Liu, Jiaxin Yan, Xiaohui Xu, Jianan Zhu, Zhongzhu Zhou, Mingrui Lao, Yuxiang Xie*
+
+1. [HyPASE: Hyperbolic Geometry for Parameter-Efficient Speech Emotion Fine-Tuning Framework for Large Audio-Language Models](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Tian Jin, Ruikang Zhang, Zefeng Zhao, Ding Luo, Jin Zeng*
+
+1. [MixCurv: Geometry-Aware Multimodal Clustering with Mixed-Curvature Experts](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Zhixiang Li, Zhiwen Luo, Xue Han, Yujian Lee, Nizar Bouguila, Weifeng Su, Wentao Fan*
+
+1. [HyRAF: Reliability-Aware Multimodal Fusion in Hyperbolic Space for Robust Clinical Prediction](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Tianao Chen, Aotian Chen, Yuan Xue*
+
+1. [H2AL: Hyperbolic Hierarchy-aware Aggregative Learning for Registration-based Few-shot Medical Image Segmentation](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Jia Wang, Jiaming Cai, Zunying Hu, Zhanjie Wu, Jinyuan Liu, Hua Cheng, Yun Peng, Xin Fan*
+
+1. [CurvSpec: Adaptive Multi-Curvature Learning for Partial Relevant Video Retrieval](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Zhen Liu, Letian Li, Jinpeng Wang, Shuzhao Xie, Yuzhi Huang, Jingyan Jiang, Zhi Wang*
+
+1. [HyperVOS: Video Object Segmentation via Hyperbolic Matching](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Aoran Yang, Xinnan Shi, Minyu Li, Jiaqing Fan*
+
+1. [HCNet: Hyperbolic Hierarchical Clause Network for Weakly Supervised Multi-task Visual Grounding](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Yi Tian, Cheng Yang, Qingbao Huang*
+
+**MICCAI 2026**
+1. [Angular-Constrained Hyperbolic Learning for Hierarchical Multimodal Survival Prediction](https://papers.miccai.org/miccai-2026/0064-Paper4614.html), MICCAI 2026 \
+*Haotian Yang, Qing Zhang, Qingli Li, Yan Wang*
+
+1. [BrainHTF: Learning Causal Graph Representation of Brain Connectome with Hyperbolic Transformer](https://papers.miccai.org/miccai-2026/0121-Paper2442.html), MICCAI 2026 \
+*Qiyu Sun, Zhenlin Mao, Ruiqing Feng, Jiashuang Huang, Mingliang Wang*
+
+1. [H2M-Net: Hierarchical Hyperbolic Memory Network for Pathological Report Generation](https://papers.miccai.org/miccai-2026/0440-Paper2164.html), MICCAI 2026 \
+*Shuilian Yao, Qi Jia, Shirui Li, Yu Liu, Xin Fan*
+
+1. [Hierarchical Hyperbolic Self-Attention Network for Medical Image Segmentation](https://papers.miccai.org/miccai-2026/0461-Paper1498.html), MICCAI 2026 \
+*Shaocheng Jin, Rui Wang, Chen Hu, Tianyang Xu, Xiao-Jun Wu, Tao Zhou*
+
+1. [Hyperbolic Contrastive Learning with Entailment for Spatial Transcriptomics](https://papers.miccai.org/miccai-2026/0480-Paper3824.html), MICCAI 2026 \
+*Daniela Vega, Paula Cárdenas, Hannah Ceballos, Leonardo Manrique, Pablo Arbeláez*
+
+1. [Hyperbolic Vision-Language Interaction for Semi-supervised Medical Image Segmentation](https://papers.miccai.org/miccai-2026/0481-Paper2184.html), MICCAI 2026 \
+*Qiuchi He, Shaocheng Jin, Rui Wang, Tianyang Xu, Xiao-Jun Wu, Tao Zhou*
+
+1. [HyperVLP: Enhancing Hierarchical Surgical Video-Language Pre-training in Hyperbolic Space](https://papers.miccai.org/miccai-2026/0482-Paper5295.html), MICCAI 2026 \
+*Yaojun Hu, Kun Yuan, Nassir Navab, Haochao Ying, Jian Wu, Nicolas Padoy*
+
+1. [HypOProto: Hyperbolic Ordinal Prototypes for Left Ventricular Filling Pressure Classification](https://papers.miccai.org/miccai-2026/0483-Paper5916.html), MICCAI 2026 \
+*Victoria Wu, Nima Hashemi, Hooman Vaseli, Christina Luong, Purang Abolmaesumi, Teresa S. M. Tsang*
+
+1. [Image-mediated fMRI-to-caption generation with visual pathway tokens and hyperbolic alignment](https://papers.miccai.org/miccai-2026/0489-Paper2335.html), MICCAI 2026 \
+*Hyoungshin Choi, Youkyoung Lee, Bo-yong Park, Hyunjin Park*
+
+**RecSys 2026**
+1. [Towards Efficient Hyperbolic Representation Learning for Recommender Systems](https://doi.org/10.1145/3773078.3831789), RecSys 2026 \
+*Tendai Mukande, Noel E. O Connor*
 
 **AISTATS 2026**
 1. [Hyperbolic Learning with Supervision from any Granularity](https://virtual.aistats.org/virtual/2026/poster/13707), AISTATS 2026 \
@@ -252,6 +342,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *Yuyu Liu, Sarang Rajendra Patil, Mengjia Xu, Tengfei Ma*
 
 **KDD 2026**
+1. [Breaking Information Cocoons: A Hyperbolic Framework for Balancing Exploration and Exploitation in Recommender Systems](https://arxiv.org/abs/2411.13865), KDD 2026 \
+*Qiyao Ma, Menglin Yang, Mingxuan Ju, Tong Zhao, Neil Shah, Rex Ying*
+
 1. [Mitigating Privacy Risks in Graph Condensation from a Hyperbolic Geometry Perspective](https://dl.acm.org/doi/10.1145/3770854.3780335), KDD 2026 \
 *Yuecen Wei, Liu Yang, Beining Yang, Qingyun Sun, Hao Peng, Tianyu Wo, Chunming Hu, Xingcheng Fu*
 
@@ -327,6 +420,12 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *Baohang Zhou, Kehui Song, Rize Jin, Yu Zhao, Xuhui Sui, Xinying Qian, Xingyue Guo, Ying Zhang*
 
 **SIGIR 2026**
+1. [Multi-Perspective Driven Expected Location Preferences for Next POI Recommendations](https://sigir2026.org/SIGIR2026_program.pdf), SIGIR 2026 \
+*Pengxiang Lan, Enneng Yang, Yuliang Liang, Jianzhe Zhao, Guibing Guo, Hai Zhao*
+
+1. [StAR: Adaptive Structure-Aware Reranking for Semantic–Structural Alignment in GraphRAG](https://sigir2026.org/SIGIR2026_program.pdf), SIGIR 2026 (Short Paper) \
+*Junghyun Oh, Sungsu Lim*
+
 1. [HALO: Hyperbolic Adaptation via LoRA Overlay for Hierarchy-Aware Cross-Modal Retrieval](https://sigir2026.org/en-AU/pages/program/accepted-papers), SIGIR 2026 (Short Paper) \
 *Teng Long, Andrew Yates*
 
