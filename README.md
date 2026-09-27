@@ -77,12 +77,12 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-- September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers
+- September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers 🔥
 - August 8, 2026: add SIGIR 2026, KDD 2026 papers
 - July 28, 2026: add ACL Findings 2026 paper
-- July 18, 2026: add ACL 2026, KDD 2026, MIDL 2026 papers 🔥
-- June 2, 2026: add CVPR 2026, AAAI 2026, IJCAI-ECAI 2026 papers 🔥
-- May 22, 2026: add AISTATS 2026, ICML 2026, WSDM 2026 papers 🔥
+- July 18, 2026: add ACL 2026, KDD 2026, MIDL 2026 papers
+- June 2, 2026: add CVPR 2026, AAAI 2026, IJCAI-ECAI 2026 papers
+- May 22, 2026: add AISTATS 2026, ICML 2026, WSDM 2026 papers
 - May 2, 2026: update WACV 2026, COLING 2025, ACL Findings 2025, TheWebConf 2026, SIGIR 2026 papers
 - April 17, 2026: add WACV 2026, ICLR 2026, ACL Findings 2025, COLING 2025 papers
 - March 11, 2026: add EMNLP 2025, WSDM 2025, RecSys 2025, AISTATS 2025, LoG 2025 papers
