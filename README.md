@@ -77,6 +77,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- October 1, 2026: Add [survey paper](From-Hyperbolic-to-Mixed-Curvature-Geometric-Learning-A-Comprehensive-Survey.pdf) for this awesome repo 🔥
 - September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers 🔥
 - August 8, 2026: add SIGIR 2026, KDD 2026 papers
 - July 28, 2026: add ACL Findings 2026 paper
