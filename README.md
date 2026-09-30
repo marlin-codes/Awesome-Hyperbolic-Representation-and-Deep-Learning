@@ -681,6 +681,6 @@ Yuan Wang, Yali Li, Shengjin Wang
   author = {Yang, Menglin and Liu, Zihao and Liu, Jiahong and Li, Jindong and
             Cao, Linxiao and Zhang, Buze and King, Irwin},
   year   = {2026},
-  url    = {https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning/blob/main/From-Hyperbolic-to-Mixed-Curvature-Geometric-Learning-A-Comprehensive-Survey.pdf}
+  url    = {https://openreview.net/forum?id=cpqHCXXZcr}
 }
 ```
