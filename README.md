@@ -5,6 +5,8 @@
 
 Recently, hyperbolic spaces have emerged as a promising alternative for processing data with a tree-like structure or power-law distribution, owing to its exponential growth property and tree-likeness prior. Different from the Euclidean space, which expands polynomially, the hyperbolic space grows exponentially which makes it gain natural advantages in abstracting tree-like or scale-free data with hierarchical organizations. In this repository, we organize papers into core methods, domain applications, and cross-domain task settings to make the taxonomy easier to navigate. We will keep updating this repository with the latest research developments. We are aware that there will inevitably be some mistakes and oversights, so if you have any questions or suggestions, please feel free to contact us (menglin.yang[@]outlook.com).
 
+**Survey paper:** [From Hyperbolic to Mixed-Curvature Geometric Learning: A Comprehensive Survey](From-Hyperbolic-to-Mixed-Curvature-Geometric-Learning-A-Comprehensive-Survey.pdf)
+
 <table>
 <tr><td colspan="2"><a href="#latest-update" style="color:#B22222">1. Latest Update</a></td></tr> 
 <tr><td colspan="2"><a href="papers.md#2-core-methods-and-geometry" style="color:#B22222">2. Core Methods and Geometry</a></td></tr>
@@ -670,3 +672,15 @@ Sameera Ramasinghe Violetta Shevchenko Gil Avraham Ajanthan Thalaiyasingam
 
 1. [G^3-LQ: Marrying Hyperbolic Alignment with Explicit Semantic-Geometric Modeling for 3D Visual Grounding](https://openaccess.thecvf.com/content/CVPR2024/papers/Wang_G3-LQ_Marrying_Hyperbolic_Alignment_with_Explicit_Semantic-Geometric_Modeling_for_3D_CVPR_2024_paper.pdf), CVPR 2024 \
 Yuan Wang, Yali Li, Shengjin Wang
+
+## Citation
+
+```bibtex
+@misc{yang2026hyperbolic,
+  title  = {{From Hyperbolic to Mixed-Curvature Geometric Learning: A Comprehensive Survey}},
+  author = {Yang, Menglin and Liu, Zihao and Liu, Jiahong and Li, Jindong and
+            Cao, Linxiao and Zhang, Buze and King, Irwin},
+  year   = {2026},
+  url    = {https://github.com/marlin-codes/Awesome-Hyperbolic-Representation-and-Deep-Learning/blob/main/From-Hyperbolic-to-Mixed-Curvature-Geometric-Learning-A-Comprehensive-Survey.pdf}
+}
+```
