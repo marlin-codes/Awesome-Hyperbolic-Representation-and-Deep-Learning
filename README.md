@@ -5,7 +5,7 @@
 
 Recently, hyperbolic spaces have emerged as a promising alternative for processing data with a tree-like structure or power-law distribution, owing to its exponential growth property and tree-likeness prior. Different from the Euclidean space, which expands polynomially, the hyperbolic space grows exponentially which makes it gain natural advantages in abstracting tree-like or scale-free data with hierarchical organizations. In this repository, we organize papers into core methods, domain applications, and cross-domain task settings to make the taxonomy easier to navigate. We will keep updating this repository with the latest research developments. We are aware that there will inevitably be some mistakes and oversights, so if you have any questions or suggestions, please feel free to contact us (menglin.yang[@]outlook.com).
 
-**Survey paper:** [From Hyperbolic to Mixed-Curvature Geometric Learning: A Comprehensive Survey](https://hyperboliclearning.github.io/survey/)
+**Survey paper:** [A Survey of Non-Euclidean Geometric Learning from Hyperbolic to Mixed-Curvature Spaces](https://hyperboliclearning.github.io/survey/)
 
 <table>
 <tr><td colspan="2"><a href="#latest-update" style="color:#B22222">1. Latest Update</a></td></tr> 
@@ -677,7 +677,7 @@ Yuan Wang, Yali Li, Shengjin Wang
 
 ```bibtex
 @misc{yang2026hyperbolic,
-  title  = {{From Hyperbolic to Mixed-Curvature Geometric Learning: A Comprehensive Survey}},
+  title  = {{A Survey of Non-Euclidean Geometric Learning from Hyperbolic to Mixed-Curvature Spaces}},
   author = {Yang, Menglin and Liu, Zihao and Liu, Jiahong and Li, Jindong and
             Cao, Linxiao and Zhang, Buze and King, Irwin},
   year   = {2026},
