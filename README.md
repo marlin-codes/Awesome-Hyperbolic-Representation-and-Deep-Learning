@@ -79,6 +79,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- October 11, 2026: add NeurIPS 2026 papers
 - October 1, 2026: Add [survey paper](https://hyperboliclearning.github.io/survey/) for this awesome repo 🔥
 - September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers 🔥
 - August 8, 2026: add SIGIR 2026, KDD 2026 papers
@@ -100,6 +101,64 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
+
+**NeurIPS 2026**
+1. [Building Transformation Layers for Riemannian Neural Networks](https://neurips.cc/virtual/2026/poster/151412), NeurIPS 2026 \
+*Ziheng Chen*
+
+1. [Busemannformer: Horospherical Self-Attention for Hyperbolic Graph Transformers](https://neurips.cc/virtual/2026/poster/151890), NeurIPS 2026 \
+*Youheng Yao, Ziyao Zeng, Wenbo Liao, Tianqi Wang*
+
+1. [Elastic Representations via Hyperbolic Geometry](https://neurips.cc/virtual/2026/poster/152639), NeurIPS 2026 \
+*Arjun Ramesh Kaushik, Rudrasis Chakraborty, Nalini Ratha, Venu Govindaraju*
+
+1. [H2G: Hierarchy-Aware Hyperbolic Grouping for 3D Scenes](https://neurips.cc/virtual/2026/poster/155050), NeurIPS 2026 \
+*ByungHa Ko, Youngmin Lee, Dong Hwan Kim*
+
+1. [Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment](https://neurips.cc/virtual/2026/poster/153644), NeurIPS 2026 \
+*Keisuke Sano, Takayoshi Yamashita, Hironobu Fujiyoshi*
+
+1. [Hyperbolic Concept Bottleneck Models](https://neurips.cc/virtual/2026/poster/151003), NeurIPS 2026 \
+*Daniel Uyterlinde, Swasti S Mishra, Pascal Mettes*
+
+1. [Hyperbolic Concept Embedding Model for Interpretable Medical Image Diagnosis](https://neurips.cc/virtual/2026/poster/150377), NeurIPS 2026 \
+*Qihao Xu, Yadong Liu, Yong Xu, Xiaoling Luo, Chengliang Liu*
+
+1. [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](https://neurips.cc/virtual/2026/poster/154612), NeurIPS 2026 \
+*Quan Cheng, Zhenhao Wen, Lan Li, Da-Wei Zhou, Lijun Zhang*
+
+1. [Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry–Task Alignment](https://neurips.cc/virtual/2026/poster/150947), NeurIPS 2026 \
+*Dionisia Naddeo, Jonas Linkerhägner, Nicola Toschi, Geri Skenderi, Veronica Lachi*
+
+1. [Hyperbolic Language Models: From Zipf to Compute-Optimal Scaling](https://neurips.cc/virtual/2026/poster/148771), NeurIPS 2026 \
+*Jinrui Lin, Menglin Yang, Rex Ying*
+
+1. [HyperTree: Scalable Unsupervised Hierarchy Discovery in Hyperbolic Space](https://neurips.cc/virtual/2026/poster/150924), NeurIPS 2026 \
+*Thomas Lang, Kevin Sidak, Anna Beer, Sebastian Tschiatschek, Yllka Velaj, Claudia Plant*
+
+1. [Invariant Hyperbolic Unfolding: Radial Canonicalization for Label-Free Cross-Graph Link Prediction](https://neurips.cc/virtual/2026/poster/152389), NeurIPS 2026 \
+*Taehee Lee*
+
+1. [LAtte: Hyperbolic Lorentz Attention for Joint-Subject EEG Classification](https://neurips.cc/virtual/2026/poster/148511), NeurIPS 2026 \
+*Ahmad Bdeir, Johannes Burchert, Tom Hanika, Lars Schmidt-Thieme, Niels Landwehr*
+
+1. [Learning Pseudo-Riemannian Manifolds for Heterophilic Graphs via Graph Signature](https://neurips.cc/virtual/2026/poster/149305), NeurIPS 2026 \
+*Yun Young Choi, Asung Kil, Sun Woo Park, Minho Lee, Seokhwan Kim*
+
+1. [LLM-Enhanced Random Forests in Orthogonal Hyperbolic Subspaces for Tabular Learning](https://neurips.cc/virtual/2026/poster/154957), NeurIPS 2026 \
+*Shengpeng Wang, Yisen Gao, Han Xiang, lingyun liu, Ziwei Zhang, Qingyun Sun, Xianxian LI, Xingcheng Fu*
+
+1. [Mixed-Curvature Geometric Latent Diffusion Model for Graph Generation](https://neurips.cc/virtual/2026/poster/149462), NeurIPS 2026 \
+*Minxue Qi, Xian Yang, Liang Bai*
+
+1. [Orthogonal Origin Parking: Decoupling Lorentz Manifolds for Robust OOD Generalization](https://neurips.cc/virtual/2026/poster/150309), NeurIPS 2026 \
+*Peter J Kampen, Anders N Christensen, Morten Rieger Hannemose, Anders Dahl, Josefine Vilsbøll Sundgaard*
+
+1. [PVFormer: Proper Velocity Transformer for Stable and Scalable Hyperbolic Representation Learning](https://neurips.cc/virtual/2026/poster/155176), NeurIPS 2026 \
+*Xianglong Shi, Nicu Sebe, Bernhard Schölkopf, Ziheng Chen*
+
+1. [The Implicit Bias of Hyperbolic Representation Learning for Multiclass Data: A Busemann Risk Perspective](https://neurips.cc/virtual/2026/poster/148340), NeurIPS 2026 \
+*Xingrun Li, Sho Kuno, Yusuke Mukuta, Xin Yang, Tatsuya Harada*
 
 **ECCV 2026**
 1. [Hyperbolic Hierarchical Clustering for Visual Representation Learning](https://eccv.ecva.net/virtual/2026/poster/3152), ECCV 2026 \

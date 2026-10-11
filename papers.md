@@ -184,6 +184,9 @@ Richard Nock, Ehsan Amid, Frank Nielsen, Alexander Soen, Manfred Warmuth
 
 ### [2.2 Hyperbolic Neural Networks](#content)
 
+1. [Building Transformation Layers for Riemannian Neural Networks](https://neurips.cc/virtual/2026/poster/151412), NeurIPS 2026 \
+*Ziheng Chen*
+
 1. [Hyperbolic Neural Networks](https://arxiv.org/abs/1805.09112), NeurIPS 2018 \
 Octavian-Eugen Ganea, Gary Bécigneul, Thomas Hofmann
 
@@ -266,6 +269,15 @@ Jiwoong Park, Junho Cho, Hyung Jin Chang, Jin Young Choi
 
 ### [2.4 Attention, Transformers, and Sequence Models](#content)
 
+1. [Busemannformer: Horospherical Self-Attention for Hyperbolic Graph Transformers](https://neurips.cc/virtual/2026/poster/151890), NeurIPS 2026 \
+*Youheng Yao, Ziyao Zeng, Wenbo Liao, Tianqi Wang*
+
+1. [LAtte: Hyperbolic Lorentz Attention for Joint-Subject EEG Classification](https://neurips.cc/virtual/2026/poster/148511), NeurIPS 2026 \
+*Ahmad Bdeir, Johannes Burchert, Tom Hanika, Lars Schmidt-Thieme, Niels Landwehr*
+
+1. [PVFormer: Proper Velocity Transformer for Stable and Scalable Hyperbolic Representation Learning](https://neurips.cc/virtual/2026/poster/155176), NeurIPS 2026 \
+*Xianglong Shi, Nicu Sebe, Bernhard Schölkopf, Ziheng Chen*
+
 1. [Hyperbolic Attention Networks](https://arxiv.org/abs/1805.09786), ICLR 2019 \
 Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Karl Moritz Hermann, Peter Battaglia, Victor Bapst, David Raposo, Adam Santoro, Nando de Freitas
 
@@ -278,6 +290,9 @@ Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Ka
 ### [2.5 Theory, Analysis, and Numerical Stability](#content)
 
 **Theory and Generalization**
+1. [The Implicit Bias of Hyperbolic Representation Learning for Multiclass Data: A Busemann Risk Perspective](https://neurips.cc/virtual/2026/poster/148340), NeurIPS 2026 \
+*Xingrun Li, Sho Kuno, Yusuke Mukuta, Xin Yang, Tatsuya Harada*
+
 1. [Representation Tradeoffs for Hyperbolic Embeddings](https://arxiv.org/abs/1804.03329), ICML 2018 \
 Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
 
@@ -294,6 +309,9 @@ Christopher De Sa, Albert Gu, Christopher Ré, Frederic Sala
    Richard Nock, Ehsan Amid, Frank Nielsen, Alexander Soen, Manfred K. Warmuth
 
 **Analysis and Empirical Studies**
+1. [Hyperbolic Graph Neural Networks Under the Microscope: The Role of Geometry–Task Alignment](https://neurips.cc/virtual/2026/poster/150947), NeurIPS 2026 \
+*Dionisia Naddeo, Jonas Linkerhägner, Nicola Toschi, Geri Skenderi, Veronica Lachi*
+
 1. [Understanding and Improving Hyperbolic Deep Reinforcement Learning](https://openreview.net/forum?id=7rfdenlP1L), ICLR 2026 Poster \
 *Timo Klein, Thomas Lang, Andrii Shkabrii, Alexander Sturm, Kevin Sidak, Lukas Miklautz, Claudia Plant, Yllka Velaj, Sebastian Tschiatschek*
 
@@ -317,6 +335,9 @@ Nico Alvarado, Hans Lobel
 *Jialin Zhao, Yingtao Zhang, Xinghang Li, Huaping Liu, Carlo Cannistraci*
 
 ### [2.6 Hierarchy and Tree Modeling](#content)
+
+1. [HyperTree: Scalable Unsupervised Hierarchy Discovery in Hyperbolic Space](https://neurips.cc/virtual/2026/poster/150924), NeurIPS 2026 \
+*Thomas Lang, Kevin Sidak, Anna Beer, Sebastian Tschiatschek, Yllka Velaj, Claudia Plant*
 
 1. [Fitting trees to $\ell_1$-hyperbolic distances](https://openreview.net/forum?id=xo2lbfQE8I), NeurIPS 2023 \
    Joon-Hyeok Yim, Anna Gilbert
@@ -391,6 +412,9 @@ Chengao Liu, Yuan Li, Yingze Wang, Jianbin Jiao
    Puoya Tabaghi, Chao Pan, Eli Chien, Jianhao Peng, Olgica Milenkovic
 
 **Semi-Riemannian and pseudo-Riemannian models**
+1. [Learning Pseudo-Riemannian Manifolds for Heterophilic Graphs via Graph Signature](https://neurips.cc/virtual/2026/poster/149305), NeurIPS 2026 \
+*Yun Young Choi, Asung Kil, Sun Woo Park, Minho Lee, Seokhwan Kim*
+
 1. [Directed Graph Embeddings in Pseudo-Riemannian Manifolds](https://arxiv.org/abs/2106.08678), ICML 2021 \
    Aaron Sim, Maciej Wiatrak, Angus Brayne, Páidí Creed, Saee Paliwal
 
@@ -407,6 +431,9 @@ Ye Qin, Jingchao Wang, Yang Shi, Haiying Huang, Junxu Li, Weijian Liu, Tinghui C
    Marc T. Law, Jos Stam
 
 ### [2.8 Hyperbolic Generative Models](#content)
+
+1. [Mixed-Curvature Geometric Latent Diffusion Model for Graph Generation](https://neurips.cc/virtual/2026/poster/149462), NeurIPS 2026 \
+*Minxue Qi, Xian Yang, Liang Bai*
 
 1. [Fed-HDDH: A Hyperbolic Directional Diffusion Hypernetwork for Federated Learning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
 *Hui Wang, Renyu Yang, Hao Peng, Sun Jie, Yu Xiaolong, Jing Li, Tianyu Wo, Xudong Liu, Chao Tian, Jianwei Niu*
@@ -456,7 +483,14 @@ Leping Si, Meimei Yang, Hui Xue, Shipeng Zhu, Pengfei Fang
 1. [Clipped Hyperbolic Classifiers Are Super-Hyperbolic Classifiers](https://arxiv.org/abs/2107.11472), CVPR 2022 \
    Yunhui Guo, Xudong Wang, Yubei Chen, Stella X. Yu
 
+**Concept-based interpretable models**
+1. [Hyperbolic Concept Bottleneck Models](https://neurips.cc/virtual/2026/poster/151003), NeurIPS 2026 \
+*Daniel Uyterlinde, Swasti S Mishra, Pascal Mettes*
+
 **Tree-based and random-forest models**
+1. [LLM-Enhanced Random Forests in Orthogonal Hyperbolic Subspaces for Tabular Learning](https://neurips.cc/virtual/2026/poster/154957), NeurIPS 2026 \
+*Shengpeng Wang, Yisen Gao, Han Xiang, lingyun liu, Ziwei Zhang, Qingyun Sun, Xianxian LI, Xingcheng Fu*
+
 1. [Hyperbolic Random Forests](https://arxiv.org/abs/2308.13279), TMLR 2024 \
    Lars Doorenbos, Pablo Márquez-Neila, Raphael Sznitman, Pascal Mettes
 
@@ -470,6 +504,9 @@ Leping Si, Meimei Yang, Hui Xue, Shipeng Zhu, Pengfei Fang
    Philippe Chlenski, Itsik Pe'er
 
 ### [2.10 Hyperbolic Operations and Representation Utilities](#content)
+
+1. [Elastic Representations via Hyperbolic Geometry](https://neurips.cc/virtual/2026/poster/152639), NeurIPS 2026 \
+*Arjun Ramesh Kaushik, Rudrasis Chakraborty, Nalini Ratha, Venu Govindaraju*
 
 1. Mean Computation and BatchNorm \
 [Differentiating through the Fréchet Mean](https://arxiv.org/abs/2003.00335), ICML 2020 \
@@ -511,6 +548,9 @@ Ines Chami\*, Albert Gu\*, Dat Nguyen, Christopher Ré*
 Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, Elmar Eisemann, Klaus Hildebrandt
 
 ### [2.11 LLMs and Foundation Models](#content)
+
+1. [Hyperbolic Language Models: From Zipf to Compute-Optimal Scaling](https://neurips.cc/virtual/2026/poster/148771), NeurIPS 2026 \
+*Jinrui Lin, Menglin Yang, Rex Ying*
 
 1. [HRaLLM: Hyperbolic Rough Aware Large Language Model for Multimodal Action Reasoning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
 *Haibo Li, Yaming Yang, Yaoxin Chen, Qicong Wang, Hongying Meng*
@@ -628,6 +668,15 @@ Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Red
 ### [3.2 Computer Vision, Graphics, and Robotics](#content)
 
 **Visual Recognition and Structured Perception**
+1. [H2G: Hierarchy-Aware Hyperbolic Grouping for 3D Scenes](https://neurips.cc/virtual/2026/poster/155050), NeurIPS 2026 \
+*ByungHa Ko, Youngmin Lee, Dong Hwan Kim*
+
+1. [Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment](https://neurips.cc/virtual/2026/poster/153644), NeurIPS 2026 \
+*Keisuke Sano, Takayoshi Yamashita, Hironobu Fujiyoshi*
+
+1. [Hyperbolic Concept Embedding Model for Interpretable Medical Image Diagnosis](https://neurips.cc/virtual/2026/poster/150377), NeurIPS 2026 \
+*Qihao Xu, Yadong Liu, Yong Xu, Xiaoling Luo, Chengliang Liu*
+
 1. [Hyperbolic Hierarchical Clustering for Visual Representation Learning](https://eccv.ecva.net/virtual/2026/poster/3152), ECCV 2026 \
 *Jianan Wei, Guikun Chen, Zhiyuan Weng, Chunchao Guo, Yujia Wang, Wenguan Wang*
 
@@ -707,6 +756,9 @@ Joy Hsu, Jeffrey Gu, Gong-Her Wu, Wah Chiu, Serena Yeung
 Panagiotis Kyriakis, Iordanis Fostiropoulos, Paul Bogdan
 
 **Vision-Language, Retrieval, and 3D Generation**
+1. [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](https://neurips.cc/virtual/2026/poster/154612), NeurIPS 2026 \
+*Quan Cheng, Zhenhao Wen, Lan Li, Da-Wei Zhou, Lijun Zhang*
+
 1. [Rank-Aware Hyperbolic Alignment for Vision–Language Dataset Distillation](https://eccv.ecva.net/virtual/2026/poster/4352), ECCV 2026 \
 *Jongoh Jeong, Sun-Kyung Lee, KUK-JIN YOON*
 
@@ -810,6 +862,9 @@ Noemie Jaquier, Leonel Rozo, Miguel Gonzalez-Duque, Viacheslav Borovitskiy, Tami
 ### [3.3 Graphs and Networked Data](#content)
 
 **General Network Representation**
+1. [Invariant Hyperbolic Unfolding: Radial Canonicalization for Label-Free Cross-Graph Link Prediction](https://neurips.cc/virtual/2026/poster/152389), NeurIPS 2026 \
+*Taehee Lee*
+
 1. [BrainHTF: Learning Causal Graph Representation of Brain Connectome with Hyperbolic Transformer](https://papers.miccai.org/miccai-2026/0121-Paper2442.html), MICCAI 2026 \
 *Qiyu Sun, Zhenlin Mao, Ruiqing Feng, Jiashuang Huang, Mingliang Wang*
 
@@ -1334,6 +1389,9 @@ Zhenzhen Weng, Mehmet Giray Ogut, Shai Limonchik, Serena Yeung
 Yan Xu, Lifu Mu, ZhongJi, Xiyao Liu, JungongHan
 
 ### [4.6 Safety, Robustness, and Privacy](#content)
+
+1. [Orthogonal Origin Parking: Decoupling Lorentz Manifolds for Robust OOD Generalization](https://neurips.cc/virtual/2026/poster/150309), NeurIPS 2026 \
+*Peter J Kampen, Anders N Christensen, Morten Rieger Hannemose, Anders Dahl, Josefine Vilsbøll Sundgaard*
 
 1. [HHA: Hierarchical Hyperbolic Constraints for Imperceptible Point Cloud Attacks](https://eccv.ecva.net/virtual/2026/poster/4287), ECCV 2026 \
 *Keke Tang, Yu Liao, Weilong Peng, Xiaofei Wang, Daizong Liu, Zhongyun Hua, Peican Zhu, Zhihong Tian*
