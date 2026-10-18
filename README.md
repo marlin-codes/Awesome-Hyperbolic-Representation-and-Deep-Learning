@@ -79,10 +79,10 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
-- October 18, 2026: add ACM MM 2026 papers
-- October 11, 2026: add NeurIPS 2026 papers
-- October 1, 2026: Add [survey paper](https://hyperboliclearning.github.io/survey/) for this awesome repo 🔥
-- September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers 🔥
+- October 18, 2026: add ACM MM 2026 papers 🔥
+- October 11, 2026: add NeurIPS 2026 papers 🔥
+- October 1, 2026: Add [survey paper](https://hyperboliclearning.github.io/survey/) for this awesome repo
+- September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers
 - August 8, 2026: add SIGIR 2026, KDD 2026 papers
 - July 28, 2026: add ACL Findings 2026 paper
 - July 18, 2026: add ACL 2026, KDD 2026, MIDL 2026 papers
