@@ -668,6 +668,9 @@ Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Red
 ### [3.2 Computer Vision, Graphics, and Robotics](#content)
 
 **Visual Recognition and Structured Perception**
+1. [TARAM: Text-Anchor Guided Riemann Angle Matching for Replay-based Continual Learning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Yuyang Chang, Yifan Jiao, Bing-Kun Bao*
+
 1. [H2G: Hierarchy-Aware Hyperbolic Grouping for 3D Scenes](https://neurips.cc/virtual/2026/poster/155050), NeurIPS 2026 \
 *ByungHa Ko, Youngmin Lee, Dong Hwan Kim*
 
@@ -1224,6 +1227,9 @@ Jens Van Nooten, Walter Daelemans
 
 ### [4.2 Metric Learning, Retrieval, and Clustering](#content)
 
+1. [Dynamic Margin CLAP: Adaptive Positive-Pair Margins for Audio-Text Retrieval](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Haoran Liang, Fengshan Liu, Selene Zhu, Yueling Yang, Xuanting Li*
+
 1. [Hyperbolic Hierarchical Clustering for Visual Representation Learning](https://eccv.ecva.net/virtual/2026/poster/3152), ECCV 2026 \
 *Jianan Wei, Guikun Chen, Zhiyuan Weng, Chunchao Guo, Yujia Wang, Wenguan Wang*
 
@@ -1439,6 +1445,9 @@ Zekun Wang, Jingjie Zeng, Yingxu Li, Liang Yang, Hongfei Lin
 Oluwaseyi Feyisetan, Tom Diethe, Thomas Drake
 
 ### [4.7 Environmental Monitoring](#content)
+
+1. [Geometric Guardrail: Manifold Geometric Constrainer for Noisy Multimodal Remote Sensing Image Feature Fusion](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Fangzhou Han, Zhizhuo Jiang, Yunming Ye, Yu Liu, You He*
 
 1. [Exploring Imbalanced Building Damage Assessment via Hyperbolic Semantic-Consistent Contrastive Learning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
 *Wenzhe Liu, Jiaxin Yan, Xiaohui Xu, Jianan Zhu, Zhongzhu Zhou, Mingrui Lao, Yuxiang Xie*

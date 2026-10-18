@@ -79,6 +79,7 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- October 18, 2026: add ACM MM 2026 papers
 - October 11, 2026: add NeurIPS 2026 papers
 - October 1, 2026: Add [survey paper](https://hyperboliclearning.github.io/survey/) for this awesome repo 🔥
 - September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers 🔥
@@ -180,6 +181,15 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *jiha jang, Hayeon Kim, Junghun James Kim, Chulwon Lee, Se Young Chun*
 
 **ACM MM 2026**
+1. [TARAM: Text-Anchor Guided Riemann Angle Matching for Replay-based Continual Learning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Yuyang Chang, Yifan Jiao, Bing-Kun Bao*
+
+1. [Dynamic Margin CLAP: Adaptive Positive-Pair Margins for Audio-Text Retrieval](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Haoran Liang, Fengshan Liu, Selene Zhu, Yueling Yang, Xuanting Li*
+
+1. [Geometric Guardrail: Manifold Geometric Constrainer for Noisy Multimodal Remote Sensing Image Feature Fusion](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
+*Fangzhou Han, Zhizhuo Jiang, Yunming Ye, Yu Liu, You He*
+
 1. [Hyper-ReID: Granularity-Aware Hyperbolic Graph Learning for Multi-Modal Object Re-Identification](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
 *Shihao Li, Chenglong Li, Aihua Zheng, Jin Tang, Bin Luo*
 
