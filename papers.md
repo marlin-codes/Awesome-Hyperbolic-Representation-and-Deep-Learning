@@ -505,6 +505,9 @@ Leping Si, Meimei Yang, Hui Xue, Shipeng Zhu, Pengfei Fang
 
 ### [2.10 Hyperbolic Operations and Representation Utilities](#content)
 
+1. [Manifold Embedding: A Point-to-Hyperplane Approach](https://aclanthology.org/2026.emnlp-main.1532/), EMNLP 2026 \
+*Xianglong Shi, Yunhan Jiang, Nicu Sebe, Ziheng Chen*
+
 1. [Elastic Representations via Hyperbolic Geometry](https://neurips.cc/virtual/2026/poster/152639), NeurIPS 2026 \
 *Arjun Ramesh Kaushik, Rudrasis Chakraborty, Nalini Ratha, Venu Govindaraju*
 
@@ -614,6 +617,9 @@ Chandni Saxena, Mudit Chaudhary, Helen Meng
 Boli Chen, Yao Fu, Guangwei Xu, Pengjun Xie, Chuanqi Tan, Mosha Chen, Liping Jing
 
 **Reasoning, Summarization, Classification, and Search**
+1. [HyDRA: Hyperbolic Damage-aware Recovery and Adaptation for Robust Multimodal Sentiment Analysis with Incomplete Data](https://aclanthology.org/2026.emnlp-main.2492/), EMNLP 2026 \
+*Yun Luo, Zejiang He, Zhen Huang, Zhiliang Tian, Yanzhou Ma, Menglong Lu, Jingyuan Huang, Shanshan Liu, Faying Wu, Dongsheng Li*
+
 1. [H2M-Net: Hierarchical Hyperbolic Memory Network for Pathological Report Generation](https://papers.miccai.org/miccai-2026/0440-Paper2164.html), MICCAI 2026 \
 *Shuilian Yao, Qi Jia, Shirui Li, Yu Liu, Xin Fan*
 

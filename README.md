@@ -79,8 +79,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- October 25, 2026: add EMNLP 2026 papers 🔥
 - October 18, 2026: add ACM MM 2026 papers 🔥
-- October 11, 2026: add NeurIPS 2026 papers 🔥
+- October 11, 2026: add NeurIPS 2026 papers
 - October 1, 2026: Add [survey paper](https://hyperboliclearning.github.io/survey/) for this awesome repo
 - September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers
 - August 8, 2026: add SIGIR 2026, KDD 2026 papers
@@ -102,6 +103,13 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
+
+**EMNLP 2026**
+1. [Manifold Embedding: A Point-to-Hyperplane Approach](https://aclanthology.org/2026.emnlp-main.1532/), EMNLP 2026 \
+*Xianglong Shi, Yunhan Jiang, Nicu Sebe, Ziheng Chen*
+
+1. [HyDRA: Hyperbolic Damage-aware Recovery and Adaptation for Robust Multimodal Sentiment Analysis with Incomplete Data](https://aclanthology.org/2026.emnlp-main.2492/), EMNLP 2026 \
+*Yun Luo, Zejiang He, Zhen Huang, Zhiliang Tian, Yanzhou Ma, Menglong Lu, Jingyuan Huang, Shanshan Liu, Faying Wu, Dongsheng Li*
 
 **NeurIPS 2026**
 1. [Building Transformation Layers for Riemannian Neural Networks](https://neurips.cc/virtual/2026/poster/151412), NeurIPS 2026 \
