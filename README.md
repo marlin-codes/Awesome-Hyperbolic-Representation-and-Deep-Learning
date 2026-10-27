@@ -758,6 +758,6 @@ Yuan Wang, Yali Li, Shengjin Wang
   author = {Yang, Menglin and Liu, Zihao and Liu, Jiahong and Li, Jindong and
             Cao, Linxiao and Zhang, Buze and King, Irwin},
   year   = {2026},
-  url    = {https://openreview.net/forum?id=cpqHCXXZcr}
+  url    = {https://hyperboliclearning.github.io/survey/}
 }
 ```
