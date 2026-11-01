@@ -79,8 +79,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- November 1, 2026: add UAI 2026, ICML 2026 papers 🔥
 - October 25, 2026: add EMNLP 2026 papers 🔥
-- October 18, 2026: add ACM MM 2026 papers 🔥
+- October 18, 2026: add ACM MM 2026 papers
 - October 11, 2026: add NeurIPS 2026 papers
 - October 1, 2026: Add [survey paper](https://hyperboliclearning.github.io/survey/) for this awesome repo
 - September 27, 2026: add ECCV 2026, ACM MM 2026, MICCAI 2026, RecSys 2026 papers
@@ -103,6 +104,10 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
+
+**UAI 2026**
+1. [Hyperbolic Belief Propagation](https://proceedings.mlr.press/v337/cheng26a.html), UAI 2026 \
+*Zehua Cheng, Wei Dai, Jiahao Sun*
 
 **EMNLP 2026**
 1. [Manifold Embedding: A Point-to-Hyperplane Approach](https://aclanthology.org/2026.emnlp-main.1532/), EMNLP 2026 \
@@ -337,6 +342,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *Daiki Yoshikawa, Takashi Matsubara*
 
 **ICML 2026**
+1. [Attend to Anything: Foundation Model for Unified Human Attention Modeling](https://proceedings.mlr.press/v306/zhao26bc.html), ICML 2026 \
+*Wenzhuo Zhao, Ronghao Xian, Keren Fu, Qijun Zhao*
+
 1. [Asymmetric Multi-View Clustering with Hyperbolic Uncertainty Modeling](https://icml.cc/virtual/2026/poster/64351), ICML 2026 \
 *Yiming Wang, Qun Li, Dongxia Chang, Jie Wen, Hua Dai, Fu Xiao*
 

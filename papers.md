@@ -674,6 +674,9 @@ Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Red
 ### [3.2 Computer Vision, Graphics, and Robotics](#content)
 
 **Visual Recognition and Structured Perception**
+1. [Attend to Anything: Foundation Model for Unified Human Attention Modeling](https://proceedings.mlr.press/v306/zhao26bc.html), ICML 2026 \
+*Wenzhuo Zhao, Ronghao Xian, Keren Fu, Qijun Zhao*
+
 1. [TARAM: Text-Anchor Guided Riemann Angle Matching for Replay-based Continual Learning](https://2026.acmmm.org/site/technical-programme.html), ACM MM 2026 \
 *Yuyang Chang, Yifan Jiao, Bing-Kun Bao*
 
@@ -871,6 +874,9 @@ Noemie Jaquier, Leonel Rozo, Miguel Gonzalez-Duque, Viacheslav Borovitskiy, Tami
 ### [3.3 Graphs and Networked Data](#content)
 
 **General Network Representation**
+1. [Hyperbolic Belief Propagation](https://proceedings.mlr.press/v337/cheng26a.html), UAI 2026 \
+*Zehua Cheng, Wei Dai, Jiahao Sun*
+
 1. [Invariant Hyperbolic Unfolding: Radial Canonicalization for Label-Free Cross-Graph Link Prediction](https://neurips.cc/virtual/2026/poster/152389), NeurIPS 2026 \
 *Taehee Lee*
 
