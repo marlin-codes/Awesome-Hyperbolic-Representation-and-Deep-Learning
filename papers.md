@@ -130,6 +130,9 @@ Anoushka Vyas, Nurendra Choudhary, Mehrdad Khatir, Chandan K. Reddy
 1. [Manify: A Python Library for Learning Non-Euclidean Representations](https://arxiv.org/abs/2503.09576) \
    Philippe Chlenski, Kaizhu Du, Dylan Satow, Itsik Pe'er
 
+1. [poincare-memory: hierarchy-aware, time-aware memory for LLM agents on the Poincaré ball](https://github.com/dhruvmojila/poincare-memory), [poincare-ball (TypeScript)](https://github.com/dhruvmojila/poincare-explainer/tree/main/packages/poincare-ball), ICBDML 2026 \
+Dhruv Mojila
+
 ### [1.4 Tutorials](#content)
 
 1. [Hyperbolic Deep Learning for Foundation Models](https://hyperboliclearning.github.io/events/kdd2025tutorial) \
@@ -590,6 +593,9 @@ Zekun Wang, Jingjie Zeng, Yingxu Li, Hongfei Lin, Liang Yang
 
 1. [Generalizing Graph Foundation Models via Hyperbolic Retrieval-Augmented Generation](https://dl.acm.org/doi/10.1145/3770855.3817750), KDD 2026 \
 Yifan Jin, Qirui Ji, Bin Qin, Jiangmeng Li, Lixiang Liu, Fuchun Sun, Changwen Zheng
+
+1. [LLM Orchestration with Geometry-Aware Memory](https://doi.org/10.1109/ICBDML68582.2026.11544690), ICBDML 2026 \
+*Dhruv Mojila*
 
 ## [3. Domain Applications](#content)
 
