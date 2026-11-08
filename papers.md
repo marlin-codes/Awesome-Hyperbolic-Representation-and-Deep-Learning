@@ -290,6 +290,9 @@ Caglar Gulcehre, Misha Denil, Mateusz Malinowski, Ali Razavi, Razvan Pascanu, Ka
 ### [2.5 Theory, Analysis, and Numerical Stability](#content)
 
 **Theory and Generalization**
+1. [Curvature-Dependent Lower Bounds for Riemannian Online Convex Optimization](https://neurips.cc/virtual/2026/poster/153902), NeurIPS 2026 \
+*Hibiki Fukushima, Shinji Ito*
+
 1. [The Implicit Bias of Hyperbolic Representation Learning for Multiclass Data: A Busemann Risk Perspective](https://neurips.cc/virtual/2026/poster/148340), NeurIPS 2026 \
 *Xingrun Li, Sho Kuno, Yusuke Mukuta, Xin Yang, Tatsuya Harada*
 
@@ -552,6 +555,9 @@ Martin Skrodzki, Hunter van Geffen, Nicolas F. Chaves-de-Plaza, Thomas Höllt, E
 
 ### [2.11 LLMs and Foundation Models](#content)
 
+1. [SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance](https://neurips.cc/virtual/2026/poster/151519), NeurIPS 2026 \
+*Xinyue Zeng, Jiawei zhang, Yujun Yan, Dawei Zhou*
+
 1. [Hyperbolic Language Models: From Zipf to Compute-Optimal Scaling](https://neurips.cc/virtual/2026/poster/148771), NeurIPS 2026 \
 *Jinrui Lin, Menglin Yang, Rex Ying*
 
@@ -768,6 +774,12 @@ Joy Hsu, Jeffrey Gu, Gong-Her Wu, Wah Chiu, Serena Yeung
 Panagiotis Kyriakis, Iordanis Fostiropoulos, Paul Bogdan
 
 **Vision-Language, Retrieval, and 3D Generation**
+1. [Hierarchical Graph Alignment for Cross-Modal 3D Scene Grounding](https://neurips.cc/virtual/2026/poster/154207), NeurIPS 2026 \
+*Tianyi Shang, Zhenyu Li*
+
+1. [Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](https://neurips.cc/virtual/2026/poster/149193), NeurIPS 2026 \
+*Tao Hu, Lan Li, Zhenhao Wen, Da-Wei Zhou*
+
 1. [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](https://neurips.cc/virtual/2026/poster/154612), NeurIPS 2026 \
 *Quan Cheng, Zhenhao Wen, Lan Li, Da-Wei Zhou, Lijun Zhang*
 
@@ -850,6 +862,9 @@ Yuan Wang, Yali Li, Shengjin Wang
 Avik Pal, Max van Spengler, Guido Maria D'Amely di Melendugno, Alessandro Flaborea, Fabio Galasso, Pascal Mettes
 
 **Motion, World Models, and Robotics**
+1. [ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models](https://neurips.cc/virtual/2026/poster/149577), NeurIPS 2026 \
+*Yanbin Hu, Jin Cui, Jiayi Lu, Ruixuan Yang, Jun Ye, Boran Zhao, Xingyu Chen, Xuguang Lan, Pengju Ren*
+
 1. [GeoWorld: Geometric World Models](https://openaccess.thecvf.com/content/CVPR2026/html/Zhang_GeoWorld_Geometric_World_Models_CVPR_2026_paper.html), CVPR 2026 \
 *Zeyu Zhang, Danning Li, Ian Reid, Richard Hartley*
 
@@ -874,6 +889,15 @@ Noemie Jaquier, Leonel Rozo, Miguel Gonzalez-Duque, Viacheslav Borovitskiy, Tami
 ### [3.3 Graphs and Networked Data](#content)
 
 **General Network Representation**
+1. [Concorde: Geometry-Aware Link Prediction via Decoupled Energy Minimization](https://neurips.cc/virtual/2026/poster/150148), NeurIPS 2026 \
+*Ege Demirci, Ambuj K Singh*
+
+1. [DisRFM: Polar Riemannian Flow Matching for Structure-Preserving Graph Domain Adaptation](https://neurips.cc/virtual/2026/poster/149863), NeurIPS 2026 \
+*Yingxu Wang, Xinwang Liu, Siyang Gao, Mengzhu Wang, Nan Yin*
+
+1. [Risk Horizons: Structured Hypothesis Spaces for Longitudinal Clinical Prediction](https://neurips.cc/virtual/2026/poster/154851), NeurIPS 2026 \
+*Zhan Qu, Michael Färber*
+
 1. [Hyperbolic Belief Propagation](https://proceedings.mlr.press/v337/cheng26a.html), UAI 2026 \
 *Zehua Cheng, Wei Dai, Jiahao Sun*
 
@@ -1126,6 +1150,9 @@ Zhe Pan, Peng Wang
 ### [3.6 Biology and Molecular Learning](#content)
 
 **Molecular and Drug Discovery**
+1. [GeoPMR: Preserving Relational and Hierarchical Geometry in Multimodal Molecular Representation Learning](https://neurips.cc/virtual/2026/poster/152380), NeurIPS 2026 \
+*Lusheng Li, Menglin Yang*
+
 1. [PoinnCARE: Hyperbolic Multi-Modal Learning for Enzyme Classification](https://openreview.net/forum?id=dGxAYNK6JU), ICLR 2026 Poster \
 Kun Xie, Peng Zhou, Xingyi Zhang, Wei Liu, Peilin Zhao, Sibo Wang, Biaobin Jiang
 

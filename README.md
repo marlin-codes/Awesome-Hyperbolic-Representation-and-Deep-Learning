@@ -79,8 +79,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- November 8, 2026: add NeurIPS 2026 papers 🔥
 - November 1, 2026: add UAI 2026, ICML 2026 papers 🔥
-- October 25, 2026: add EMNLP 2026 papers 🔥
+- October 25, 2026: add EMNLP 2026 papers
 - October 18, 2026: add ACM MM 2026 papers
 - October 11, 2026: add NeurIPS 2026 papers
 - October 1, 2026: Add [survey paper](https://hyperboliclearning.github.io/survey/) for this awesome repo
@@ -117,6 +118,33 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 *Yun Luo, Zejiang He, Zhen Huang, Zhiliang Tian, Yanzhou Ma, Menglong Lu, Jingyuan Huang, Shanshan Liu, Faying Wu, Dongsheng Li*
 
 **NeurIPS 2026**
+1. [Concorde: Geometry-Aware Link Prediction via Decoupled Energy Minimization](https://neurips.cc/virtual/2026/poster/150148), NeurIPS 2026 \
+*Ege Demirci, Ambuj K Singh*
+
+1. [Curvature-Dependent Lower Bounds for Riemannian Online Convex Optimization](https://neurips.cc/virtual/2026/poster/153902), NeurIPS 2026 \
+*Hibiki Fukushima, Shinji Ito*
+
+1. [DisRFM: Polar Riemannian Flow Matching for Structure-Preserving Graph Domain Adaptation](https://neurips.cc/virtual/2026/poster/149863), NeurIPS 2026 \
+*Yingxu Wang, Xinwang Liu, Siyang Gao, Mengzhu Wang, Nan Yin*
+
+1. [ECHO: Continuous Hierarchical Memory for Vision-Language-Action Models](https://neurips.cc/virtual/2026/poster/149577), NeurIPS 2026 \
+*Yanbin Hu, Jin Cui, Jiayi Lu, Ruixuan Yang, Jun Ye, Boran Zhao, Xingyu Chen, Xuguang Lan, Pengju Ren*
+
+1. [GeoPMR: Preserving Relational and Hierarchical Geometry in Multimodal Molecular Representation Learning](https://neurips.cc/virtual/2026/poster/152380), NeurIPS 2026 \
+*Lusheng Li, Menglin Yang*
+
+1. [Hierarchical Graph Alignment for Cross-Modal 3D Scene Grounding](https://neurips.cc/virtual/2026/poster/154207), NeurIPS 2026 \
+*Tianyi Shang, Zhenyu Li*
+
+1. [Hierarchical Semantic Tree Anchoring for CLIP-Based Class-Incremental Learning](https://neurips.cc/virtual/2026/poster/149193), NeurIPS 2026 \
+*Tao Hu, Lan Li, Zhenhao Wen, Da-Wei Zhou*
+
+1. [Risk Horizons: Structured Hypothesis Spaces for Longitudinal Clinical Prediction](https://neurips.cc/virtual/2026/poster/154851), NeurIPS 2026 \
+*Zhan Qu, Michael Färber*
+
+1. [SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance](https://neurips.cc/virtual/2026/poster/151519), NeurIPS 2026 \
+*Xinyue Zeng, Jiawei zhang, Yujun Yan, Dawei Zhou*
+
 1. [Building Transformation Layers for Riemannian Neural Networks](https://neurips.cc/virtual/2026/poster/151412), NeurIPS 2026 \
 *Ziheng Chen*
 
