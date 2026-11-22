@@ -692,8 +692,8 @@ Nurendra Choudhary, Nikhil Rao, Sumeet Katariya, Karthik Subbian, Chandan K. Red
 1. [Hierarchical Cross-Class Part Alignment for Prototypical Part Networks via Hyperbolic Entailment](https://neurips.cc/virtual/2026/poster/153644), NeurIPS 2026 \
 *Keisuke Sano, Takayoshi Yamashita, Hironobu Fujiyoshi*
 
-1. [Hyperbolic Concept Embedding Model for Interpretable Medical Image Diagnosis](https://neurips.cc/virtual/2026/poster/150377), NeurIPS 2026 \
-*Qihao Xu, Yadong Liu, Yong Xu, Xiaoling Luo, Chengliang Liu*
+1. [Hyperbolic Concept Embedding Models for Interpretable Medical Image Diagnosis](https://neurips.cc/virtual/2026/poster/150377), NeurIPS 2026 \
+*Qihao Xu, Yadong Liu, Chengliang Liu, Yong Xu, Xiaoling Luo*
 
 1. [Hyperbolic Hierarchical Clustering for Visual Representation Learning](https://eccv.ecva.net/virtual/2026/poster/3152), ECCV 2026 \
 *Jianan Wei, Guikun Chen, Zhiyuan Weng, Chunchao Guo, Yujia Wang, Wenguan Wang*
@@ -774,6 +774,9 @@ Joy Hsu, Jeffrey Gu, Gong-Her Wu, Wah Chiu, Serena Yeung
 Panagiotis Kyriakis, Iordanis Fostiropoulos, Paul Bogdan
 
 **Vision-Language, Retrieval, and 3D Generation**
+1. [Hyper$^2$: Unleashing Hyperbolic Geometry's Full Potential via Dual-Space Consistency](https://arxiv.org/abs/2608.22238), BMVC 2026 \
+*Guantian Zheng, Haiyang Xu, Tianyu Gao*
+
 1. [Hierarchical Graph Alignment for Cross-Modal 3D Scene Grounding](https://neurips.cc/virtual/2026/poster/154207), NeurIPS 2026 \
 *Tianyi Shang, Zhenyu Li*
 

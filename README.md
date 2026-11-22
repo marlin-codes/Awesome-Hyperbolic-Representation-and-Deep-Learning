@@ -79,8 +79,9 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 
 
 ## [Latest Update](#content)
+- November 22, 2026: add BMVC 2026 paper and update NeurIPS 2026 metadata 🔥
 - November 8, 2026: add NeurIPS 2026 papers 🔥
-- November 1, 2026: add UAI 2026, ICML 2026 papers 🔥
+- November 1, 2026: add UAI 2026, ICML 2026 papers
 - October 25, 2026: add EMNLP 2026 papers
 - October 18, 2026: add ACM MM 2026 papers
 - October 11, 2026: add NeurIPS 2026 papers
@@ -105,6 +106,10 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 - Sept 8, 2024 : add ICML 2024, KDD 2024, WWW 2024, SIGIR 2024, ICDE 2024, CVPR 2024 papers
  
 
+
+**BMVC 2026**
+1. [Hyper$^2$: Unleashing Hyperbolic Geometry's Full Potential via Dual-Space Consistency](https://arxiv.org/abs/2608.22238), BMVC 2026 \
+*Guantian Zheng, Haiyang Xu, Tianyu Gao*
 
 **UAI 2026**
 1. [Hyperbolic Belief Propagation](https://proceedings.mlr.press/v337/cheng26a.html), UAI 2026 \
@@ -163,8 +168,8 @@ Recently, hyperbolic spaces have emerged as a promising alternative for processi
 1. [Hyperbolic Concept Bottleneck Models](https://neurips.cc/virtual/2026/poster/151003), NeurIPS 2026 \
 *Daniel Uyterlinde, Swasti S Mishra, Pascal Mettes*
 
-1. [Hyperbolic Concept Embedding Model for Interpretable Medical Image Diagnosis](https://neurips.cc/virtual/2026/poster/150377), NeurIPS 2026 \
-*Qihao Xu, Yadong Liu, Yong Xu, Xiaoling Luo, Chengliang Liu*
+1. [Hyperbolic Concept Embedding Models for Interpretable Medical Image Diagnosis](https://neurips.cc/virtual/2026/poster/150377), NeurIPS 2026 \
+*Qihao Xu, Yadong Liu, Chengliang Liu, Yong Xu, Xiaoling Luo*
 
 1. [Hyperbolic Displacement-Constrained Adaptation for CLIP-Based Class-Incremental Learning](https://neurips.cc/virtual/2026/poster/154612), NeurIPS 2026 \
 *Quan Cheng, Zhenhao Wen, Lan Li, Da-Wei Zhou, Lijun Zhang*
